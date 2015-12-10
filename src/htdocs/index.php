@@ -22,7 +22,10 @@ if (!isset($TEMPLATE)) {
 
 <section class="row">
   <section class="column one-of-two">
+    <h2>Quick Links</h2>
   </section>
   <section class="column one-of-two">
+    <h2>Landslide Events</h2>
+    <h2>In the News</h2>
   </section>
 </section>
