@@ -1,5 +1,11 @@
 <?php
-
+  if (!isset($TEMPLATE)) {
+  $TITLE = 'Features';
+  $NAVIGATION = true;
+  include 'template.inc.php';
+}
+?>
+<?php
 include_once '..' . DIRECTORY_SEPARATOR .
     'lib' . DIRECTORY_SEPARATOR .
     'Features.class.php';
@@ -67,3 +73,4 @@ $LS_FEATURES->items[] = array(
   'modified' => 0,
   'image' => ''
 );
+?>
