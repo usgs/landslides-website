@@ -1,5 +1,4 @@
 <?php
-
 // site search url, leave blank for all usgs
 $SITE_URL = 'http://landslides.usgs.gov';
 
@@ -43,5 +42,4 @@ if (!isset($CONTACT)) {
   $CONTACT = 'lisa@usgs.gov';
 }
 $CONTACT_URL = 'mailto:{CONTACT}?subject=LHP%20Website%20Email%20';
-
 ?>
