@@ -5,76 +5,33 @@
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'2009 Station Fire, Arroyo Seco, Pasadena California';
       $NAVIGATION	= true;
+      $HEAD = '<link rel="stylesheet" href="/monitoring/styles.css"/>';
       include	'template.inc.php';
       }
 ?>
-<!--
 
-$TITLE = "2009 Station Fire, Arroyo Seco, Pasadena California";
-$SCRIPTS = '../monitoring.js,../coordinates.js';
-$WIDGETS = 'gmaps,jquery,imageslider';
-include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
-
-$slider = new ImageSlider(array('width' => 250, 'height'=> 315, 'overlayCaption'
-=> false));
-$slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco1.jpg');
-$slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco2.jpg');
-$slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco3.jpg');
-$slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco4.jpg');
-$slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco5.jpg');
-?>
-
-<script language="javascript" type="text/javascript">
-  var map = null;
-
-  $(document).ready(function(){loadStationMap('Station Fire, California');
-    addStationMarkers();
-    addEvent(window, 'unload', GUnload);
-  });
-</script>
--->
 <div class="row">
+  <!-- Description anc Contacts -->
   <div class="column two-of-three">
-    <h2>Real-time Data</h2>
-      <p>
-      	Instruments and are used to monitor and detect changes in local conditions,
-      	including
-      </p>
-      <uL>
-      	<li>
-      		<a href="rtdmonitoring.php#rainfall">Rainfall</a>
-      	</li>
-      	<li>
-      		<a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a>
-      	</li>
-      	<li>
-      		<a href="rtdmonitoring.php#channel">Channel stage</a>
-      	</li>
-      	<li>
-      		<a href="rtdmonitoring.php#battery">Battery voltage</a>
-      	</li>
-      </ul>
-    <h2>Purpose of Monitoring</h2>
+
     <p>
-    	Rainfall on steep burned basins can transform into potentially dangerous flash
-    	floods and debris flows.  In 2009, the Station Fire burned 160,000 acres in
-    	the San Gabriel Mountains. Vegetation has started to return, but it can take
-    	many years for a basin to fully recover from the effects of fire.
+    	Rainfall on steep burned basins can transform into potentially dangerous
+    	flash floods and debris flows.  In 2009, the Station Fire burned 160,000
+    	acres in the San Gabriel Mountains. Vegetation has started to return, but
+    	it can take many years for a basin to fully recover from the effects of
+    	fire.
     </p>
     <p>
     	The U. S. Geological Survey has installed instruments in a small basin of
-    	Arroyo Seco above Pasadena, CA.
+    	Arroyo Seco above Pasadena, CA. Data collection at this site supports
+    	research on the hydrologic factors that control debris-flow initiation in
+    	burned areas. The USGS conducted debris-flow monitoring at this site after
+    	the fire from 2009 to 2011. The USGS reestablished the monitoring site in
+    	the fall of 2015 to understand the effects of vegetation recovery on
+    	debris-flow susceptibility.
     </p>
 
-    <p>
-    	Data collection at this site supports research on the hydrologic factors that
-    	control debris-flow initiation in burned areas. The USGS conducted debris-flow
-    	monitoring at this site after the fire from 2009 to 2011. The USGS
-    	reestablished the monitoring site in the fall of 2015 to understand the
-    	effects of vegetation recovery on debris-flow susceptibility.
-    </p>
-
-    <h2>Contact Information</h2>
+    <h2>Contacts</h2>
       <ul class="no-style" style="margin-left:10px">
     		<li>
           <p>
@@ -94,28 +51,63 @@ $slider->addItem('/monitoring/arroyo_seco/images/ArroyoSeco5.jpg');
     		</li>
     	</ul>
   </div>
-  <div class="column one-of-three">
-    <h2>Current Monitoring Status</h2>
-    <p align="center">ACTIVE</p>
 
-    <h2>Data Updates - 60 minutes</h2>
-    <p>
-    	Most of the measurements are taken at 1-minute intervals and data are
-    	transmitted hourly and displayed on graphs. Updates may be interrupted
-    	occasionally by instrument, computer, or network malfunctions.
-    </p>
-    <div id="map" style="width:250px;height:250px"></div>
-    <img src='/monitoring/arroyo_seco/images/ArroyoSeco1.jpg' alt="" style="width:250px;height:315px"/>
-    <img src='/monitoring/arroyo_seco/images/ArroyoSeco2.jpg' alt="" style="width:250px;height:315px"/>
-    <img src='/monitoring/arroyo_seco/images/ArroyoSeco3.JPG' alt="" style="width:250px;height:315px"/>
-    <img src='/monitoring/arroyo_seco/images/ArroyoSeco4.jpg' alt="" style="width:250px;height:315px"/>
-    <img src='/monitoring/arroyo_seco/images/ArroyoSeco5.jpg' alt="" style="width:250px;height:315px"/>
-  	<ul>
-  		<li>
-  			<strong>
-  				<a href="rtdmonitoring.php">Click here for Real-Time Data</a>
-  			</strong>
-  		</li>
-  	</ul>
+  <div class="column one-of-three">
+  <!-- Map, Status, Data -->
+<!--
+  <div id="map" style="width:250px;height:250px">
+    <script language="javascript" type="text/javascript">
+    var map = null;
+    $(document).ready( function() {
+    				loadStationMap('Station Fire, California');
+    				addStationMarkers();
+    				addEvent(window, 'unload', GUnload);
+    });
+    </script>
   </div>
+-->
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Real-time Data</h2>
+    <p>
+      Instruments and are used to monitor and detect changes in local conditions, including
+    </p>
+    <ul>
+      <li>
+        <a href="rtdmonitoring.php#rainfall">Rainfall</a>
+      </li>
+      <li>
+        <a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a>
+      </li>
+      <li>
+        <a href="rtdmonitoring.php#channel">Channel stage</a>
+      </li>
+      <li>
+        <a href="rtdmonitoring.php#battery">Battery voltage</a>
+      </li>
+    </ul>
+
+    <p>
+    	Most of the measurements are taken at <strong>1-minute intervals</strong> and <strong>data are transmitted hourly</strong> and displayed on graphs. Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
+    </p>
+
 </div>
+
+<section class="photos">
+  <a href="images/ArroyoSeco1.jpg">
+    <img src="images/ArroyoSeco1.jpg" alt="pole with solar panel and antenna"/>
+  </a>
+  <a href="images/ArroyoSeco2.jpg">
+    <img src="images/ArroyoSeco2.jpg" alt=""/>
+  </a>
+  <a href=="images/ArroyoSeco3.JPG">
+    <img src="images/ArroyoSeco3.JPG" alt=""/>
+  </a>
+  <a href="images/ArroyoSeco4.jpg">
+    <img src="images/ArroyoSeco4.jpg" alt=""/>
+  </a>
+  <a href="images/ArroyoSeco5.jpg">
+    <img src="images/ArroyoSeco5.jpg" alt=""/>
+  </a>
+</section>

@@ -84,7 +84,6 @@
   <li><a href="http://www.bgs.ac.uk/landslides/" class="offsite" target="_blank">British Geological Survey</a></li>
 	<li><a href="http://webmap.ga.gov.au/landslides/?site=landslides"  class="offsite" target="_blank">Geoscience Australia Collaborative Landslide Database</a></li>
 	<li><a href="http://earth.google.com/" class="offsite" target="_blank">Google Earth</a></li>
-	<li><a href="/recent/">USGS LHP Landslide Events</a></li>
   <li><a href="http://trmm.gsfc.nasa.gov/publications_dir/potential_landslide.html" class="offsite" target="_blank">NASA - Goddard Flight Center - Potential Landslides Worldwide</a></li>
 </ul>
 

@@ -3,7 +3,7 @@
       //	Contact:	Jonathan Godt,
       //	Last	modified:	03/24/2016
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Precipitation-induced landslides';
+      $TITLE	=	'Precipitation-Induced Landslides';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }

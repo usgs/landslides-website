@@ -33,12 +33,6 @@
       </ul>
     </li>
     <li>
-      <a href="http://www.usgs.gov/science/cite-view.php?cite=1132" title="Geographic Analysis and Monitoring Program">Geographic Analysis and Monitoring Program</a> - The GAM Program conducts long-term studies of the land cover and disturbance histories of the United States and selected overseas areas in order to determine the reasons for and the impacts of land-surface change.
-    </li>
-    <li>
-      <a href="http://www.usgs.gov/science/science.php?term=1195" title="Information about Tsunamis">Information about Tsunamis</a>
-    </li>
-    <li>
       <a target="_blank" class="offsite" href="http://vulcan.wr.usgs.gov/Servers/earth_servers.html">USGS Cascade Volcano Observatory's</a> BIG LIST of Volcano and Earth Science-related topics
     </li>
     <li>
@@ -61,16 +55,10 @@
       </ul>
     </li>
     <li>
-      <a href="http://www.usgs.gov/hazards/" title="USGS Natural Hazards Mission">USGS Natural Hazards Mission</a> - This series of websites educates citizens, emergency managers, and lawmakers on seven natural hazards facing the Nation - earthquakes, floods, hurricanes, landslides, tsunamis, volcanoes, and wildfires - and show how USGS science helps mitigate disasters and build resilient communities.
-    </li>
-    <li>
       <a href="http://www.usgs.gov/core_science_systems/csas/activities.html" title="USGS Core Science Analytics, Synthesis, and Libraries (CSAS&L)">USGS Natural Science Network / Science Information and Library Services</a><br />
     </li>
     <li>
       <a href="http://libraryphoto.cr.usgs.gov/index.html" title="USGS Photographic Library">USGS Photographic Library</a>
-    </li>
-    <li>
-      <a href="http://www.usgs.gov/pubprod/" title="USGS Publications">USGS Publications</a> - how to access and/or order them</a>
     </li>
     <li><a href="http://volcanoes.usgs.gov/">USGS Volcano Program</a> - links to the 6 USGS Volcano observatories, and extensive information about volcanoes and volcano landslides in the U.S. and
     around the world.
@@ -100,7 +88,7 @@
       <a target="_blank" class="offsite" href="http://wildfire.usgs.gov/geomac/">Fire Planning and Mapping Tools</a>
     </li>
     <li>
-  		<a target="_blank" class="offsite" href="http://globalchange.nasa.gov/Resources/pointers/glob_warm.html">NASA - Global Warming and Climate Change Policy Websites</a>
+  		<a target="_blank" class="offsite" href="http://gcmd.gsfc.nasa.gov/learn/pointers/glob_warm.html">NASA - Global Warming and Climate Change Policy Websites</a>
   	</li>
     <li>
   		<a target="_blank" class="offsite" href="http://www.nasa.gov/">National Atmospheric and Space Administration</a> (NASA)
