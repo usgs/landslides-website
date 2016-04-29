@@ -1,12 +1,12 @@
 <?php
-      //	Author:	Tiffany Kalin
-      //	Contact: Jonathan Godt,
-      //	Last	modified: 02/29/2016
-      if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Hazards';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
-      }
+  //	Author:	Tiffany Kalin
+  //	Contact: Jonathan Godt,
+  //	Last	modified: 02/29/2016
+  if	(!isset($TEMPLATE))	{
+  $TITLE	=	'Hazards';
+  $NAVIGATION	= true;
+  include	'template.inc.php';
+  }
 ?>
 <div class="row">
   <div class="column one-of-two">

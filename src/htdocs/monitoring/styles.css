@@ -1,0 +1,17 @@
+
+.status-active {
+  display: block;
+  background-color: green;
+  color: white;
+}
+.status-inactive {
+  display: block;
+  background-color: red;
+  color: white;
+}
+.photos > a > img {
+  margin-left: 16px;
+  margin-bottom: 16px;
+  width: 150px;
+  float: left;
+}
