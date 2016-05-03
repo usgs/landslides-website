@@ -1,1 +1,0 @@
-Elliott State Forest, Oregon

@@ -1,21 +1,21 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  03/24/2016
+      //  Last  modified:  05/02/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Landslide Monitoring';
       $NAVIGATION  = true;
       //$WIDGETS = "gmaps,jquery,imageslider";
       $HEAD = '
         <link rel="stylesheet" href="/monitoring/style.css"/>
+        <link rel="stylesheet" href="/leaflet-0.7.7/leaflet.css"/>
       ';
       $FOOT = '
-      <script language="javascript" type="text/javascript" src="coordinates.js"></script>
-      <script language="javascript" type="text/javascript" src="monitoring.js"></script>
-      <script language="javascript" type="text/javascript">
+        <script language="javascript" type="text/javascript" src="coordinates.js"></script>
+        <script language="javascript" type="text/javascript" src="/leaflet-0.7.7/leaflet-src.js"/>
+        <script language="javascript" type="text/javascript" src="/leaflet-0.7.7/leaflet.js"/>
 
         var map = null;
-
       </script>
       ';
       include  'template.inc.php';
