@@ -9,9 +9,9 @@
   background-color: red;
   color: white;
 }
-.photos > a > img {
-  margin-left: 16px;
-  margin-bottom: 16px;
+
+.photos > figure {
   width: 150px;
+  margin-right: 16px;
   float: left;
 }

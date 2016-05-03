@@ -1,1 +1,0 @@
-Seattle Area, Washington
