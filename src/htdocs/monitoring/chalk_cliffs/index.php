@@ -8,23 +8,7 @@
       include  'template.inc.php';
       }
 ?>
-<!--
-$TITLE = "Debris-flow monitoring, Chalk Cliffs, Colorado";
-$SCRIPTS = "../coordinates.js,../monitoring.js";
-$WIDGETS = "gmaps,jquery,imageslider";
-include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 
-include 'status.php';
-
-<script language="javascript" type="text/javascript">
-var map = null;
-$(document).ready( function() {
-  loadStationMap('Chalk Cliffs');
-  addStationMarkers();
-  addEvent(window, 'unload', GUnload);
-});
-</script>
-?>-->
 <div class="row">
   <div class="column two-of-three">
     <h2>Real-time Data</h2>
@@ -44,13 +28,6 @@ $(document).ready( function() {
     <p>The U.S. Geological Survey (USGS) and its cooperators have installed debris-flow monitoring equipment in the largest drainage basin at Chalk Cliffs.</p>
 
     <p>Data collection at this site supports research on the hydrologic factors that control debris-flow initiation, entrainment, and flow dynamics.</p>
-
-
-
-
-
-
-
 
     <h2>Interactive Panorama</h2>
 
@@ -105,7 +82,11 @@ $(document).ready( function() {
     </li>
     </ul>
   </div>
+
   <div class="column one-of-three">
+
+    <img src="images/ChalkCliffs-map.jpg" alt="satellite map showing location of Chalk Cliffs"/>
+    
     <h2>Current Monitoring Status</h2>
 
     <p align="center">ACTIVE</p>

@@ -5,18 +5,15 @@
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Landslide Monitoring';
       $NAVIGATION  = true;
-      //$WIDGETS = "gmaps,jquery,imageslider";
       $HEAD = '
-        <link rel="stylesheet" href="/monitoring/style.css"/>
+        <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
+        <link rel="stylesheet" href="index.css"/>
       ';
       $FOOT = '
-      <script language="javascript" type="text/javascript" src="coordinates.js"></script>
-      <script language="javascript" type="text/javascript" src="monitoring.js"></script>
-      <script language="javascript" type="text/javascript">
-
-        var map = null;
-
-      </script>
+      <script src="/lib/leaflet-v0.7.7/leaflet.js"></script>
+      <script src="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.js"></script>
+      <script src="/lib/hazdev-webutils-v0.1.8/hazdev-webutils.js"></script>
+      <script src="index.js"></script>
       ';
       include  'template.inc.php';
       }
@@ -30,8 +27,10 @@
     </p>
 
     <h2>Current Monitoring Sites</h2>
-    <p>(Click a site's marker for more information.)</p>
-    <!--<div id="map" style="border: 1px solid #dedece; color: #aeaeae; width: 544px; height: 300px; margin: 20px 0px; font-size: 2em; z-index: 400"></div>-->
+    <p>Hover over marker for name. Click marker for link to site.</p>
+    <div id="map">
+    </div>
+
     <p>Continuous, real-time monitoring occurs at some sites and periodic monitoring occurs at others; the most recent measurements are provided on-line for a few of our monitoring sites.</p>
 
     <p>Graphs showing the most recent data are updated regularly with update cycles ranging from 15 minutes to 24 hours. Landslide monitoring data and information provided on this web site are preliminary and have not been reviewed for accuracy; therefore the data are subject to revision.</p>
