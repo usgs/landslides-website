@@ -1,11 +1,20 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  04/04/2016
+      //  Last  modified:  05/09/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Knife Ridge, Elliott State Forest, Oregon';
       $NAVIGATION  = true;
-      $HEAD = '<link rel="stylesheet" href="/monitoring/styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
+        <link rel="stylesheet" href="/monitoring/index.css"/>
+      ';
+      $FOOT = '
+      <script src="/lib/leaflet-v0.7.7/leaflet.js"></script>
+      <script src="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.js"></script>
+      <script src="/lib/hazdev-webutils-v0.1.8/hazdev-webutils.js"></script>
+      <script src="/monitoring/stations.js"></script>
+      ';
       include  'template.inc.php';
       }
 ?>
@@ -17,7 +26,6 @@
     <p>
       Landslides in the Oregon Coast Range impact people and the environment and are commonly induced by intense or prolonged rainfall associated with strong storms in the late fall and winter seasons. For example, in February and November of 1996 heavy rainfall from two unusually large storms induced thousands of landslides over a large part of western Oregon.
     </p>
-
     <p>
       The USGS and its cooperators have installed instruments in a steep hillside about 20 km southeast of Reedsport in the Elliott State Forest.   Data collection at this site supports research on hydrologic factors that control landslide initiation.  In many landslide-prone hillsides, infiltration of water from rainfall or snowmelt increases ground-water pressures. These elevated pressures can, in turn, induce landslide movement.
     </p>
@@ -63,19 +71,11 @@
   </div>
 
   <div class="column one-of-three">
-    <!-- Map, Status, Data -->
-  <!--
-    <div id="map" style="width:250px;height:250px">
-      <script language="javascript" type="text/javascript">
-      var map = null;
-      $(document).ready( function() {
-      loadStationMap('Knife Ridge');
-      addStationMarkers();
-      addEvent(window, 'unload', GUnload);
-      });
-      </script>
+
+    <h2>Location Map</h2>
+    <div id="map">
     </div>
-  -->
+
     <h2>Monitoring Status</h2>
     <p class="status-active" align="center">ACTIVE</p>
 
@@ -94,7 +94,7 @@
       <li><a href="rtdmonitoring.php#battery">Battery</a></li>
     </ul>
     <p>
-      <strong>Measurements are taken at 15-minute intervals</strong> and data are <strong>transmitted hourly</strong> and displayed on graphs that are updated hourly.  Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
+      <strong>Measurements are taken at 15-minute intervals</strong> and data are <strong>transmitted hourly</strong> and displayed on graphs that are updated hourly.
     </p>
 
   </div>

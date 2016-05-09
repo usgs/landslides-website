@@ -1,15 +1,23 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/02/2016, Lisa Wald
+      //  Last  modified:  05/09/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  '2009 Station Fire, Dunsmore Canyon, Glendale, California';
       $NAVIGATION  = true;
-      $HEAD = '<link rel="stylesheet" href="/monitoring/styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
+        <link rel="stylesheet" href="/monitoring/index.css"/>
+      ';
+      $FOOT = '
+      <script src="/lib/leaflet-v0.7.7/leaflet.js"></script>
+      <script src="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.js"></script>
+      <script src="/lib/hazdev-webutils-v0.1.8/hazdev-webutils.js"></script>
+      <script src="/monitoring/stations.js"></script>
+      ';
       include  'template.inc.php';
       }
 ?>
-
 
 <div class="row">
   <!-- Description and Contacts -->
@@ -54,19 +62,11 @@
     </div>
 
     <div class="column one-of-three">
-    <!-- Map, Status, Data -->
-  <!--
-    <div id="map" style="width:250px;height:250px">
-      <script language="javascript" type="text/javascript">
-      var map = null;
-      $(document).ready( function() {
-      loadStationMap('2009 Station Fire, Arroyo Seco, Pasadena California');
-      addStationMarkers();
-      addEvent(window, 'unload', GUnload);
-      });
-      </script>
-    </div>
-  -->
+
+      <h2>Location Map</h2>
+      <div id="map">
+      </div>
+
       <h2>Monitoring Status</h2>
       <p class="status-active" align="center">ACTIVE</p>
 
@@ -84,8 +84,6 @@
     <p>
       Most of the measurements are taken at <strong>1-minute intervals</strong>
       and data are <strong>transmitted hourly</strong> and displayed on graphs.
-      Updates may be interrupted occasionally by instrument, computer, or
-      network malfunctions.
     </p>
 
   </div>

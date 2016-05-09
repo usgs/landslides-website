@@ -31,16 +31,24 @@
     <div id="map">
     </div>
 
-    <p>Continuous, real-time monitoring occurs at some sites and periodic monitoring occurs at others; the most recent measurements are provided on-line for a few of our monitoring sites.</p>
-
-    <p>Graphs showing the most recent data are updated regularly with update cycles ranging from 15 minutes to 24 hours. Landslide monitoring data and information provided on this web site are preliminary and have not been reviewed for accuracy; therefore the data are subject to revision.</p>
+    <p>
+      Continuous, real-time monitoring occurs at some sites and periodic monitoring occurs at others; the most recent measurements are provided on-line for a few of our monitoring sites. Graphs showing the most recent data are updated regularly with update cycles ranging from 15 minutes to 24 hours. Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
+    </p>
+    <p>
+      Landslide monitoring data and information provided on this web site are preliminary and have not been reviewed for accuracy; therefore the data are subject to revision.
+    </p>
 
     <h2>Disclaimer</h2>
-    <p>This monitoring site was operated as part of a research project. Active data collection may be discontinued at any time in the future.</p>
+    <p>
+      This monitoring site was operated as part of a research project. Active data collection may be discontinued at any time in the future.
+    </p>
+    <p>
+      These data are preliminary and have not received final approval. Data relayed by radio or other telemetry have received little or no review. Inaccuracies in the data may be present because of instrument malfunctions or physical changes at the measurement site. Subsequent review may result in significant revisions to the data.
+    </p>
 
-    <p>These data are preliminary and have not received final approval. Data relayed by radio or other telemetry have received little or no review. Inaccuracies in the data may be present because of instrument malfunctions or physical changes at the measurement site. Subsequent review may result in significant revisions to the data.</p>
-
-    <p>Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.</p>
+    <p>
+      Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.
+    </p>
   </div>
 
   <div class="column one-of-three">
