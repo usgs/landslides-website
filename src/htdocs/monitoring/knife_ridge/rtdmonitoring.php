@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 04/04/2016
+      //  Last  modified: 05/09/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Real-time Data Sensors';
       $NAVIGATION  = true;
@@ -10,35 +10,27 @@
 ?>
 <nav class="jumplist">
   <a href="#rainfall">Rainfall</a>
-  <a href="#channel">Channel Stage</a>
   <a href="#ground">Ground Water Pressure</a>
   <a href="#ten">Ground Water Pressure - Tensiometers</a>
   <a href="#pres">Ground-water and Atmospheric Pressure - Piezometers</a>
   <a href="#soiltemp">Soil Temperature</a>
   <a href="#soilwater">Soil Water Content</a>
-  <a href="#geophone">Geophone</a>
   <a href="#battery">Battery Voltage</a>
 </nav>
 
 <h2 id="rainfall">Rainfall</h2>
   <p>
-  	Rainfall is measured at the monitoring site using two 8-inch-diameter
-  	tipping-bucket rain gauges that measure 0.01 inch of rainfall per tip.
-  	Rainfall data are collected and transmitted every 15 minutes. The graph also
-  	shows 15-minute rainfall in millimeters and cumulative rainfall, also in
-  	millimeters.
+    Rainfall is measured at the monitoring site using two 8-inch-diameter
+    tipping-bucket rain gauges that measure 0.01 inch of rainfall per tip.
+    Rainfall data are collected and transmitted every 15 minutes. The graph also
+    shows 15-minute rainfall in millimeters and cumulative rainfall, also in
+    millimeters.
   </p>
 
   <h3>Rainfall over the last 14 days at gages 1 and 2</h3>
 
   <img src="//landslides.usgs.gov/realtime/plots/Elliott_Rainfall.elliott_rainfall.png"
-  		alt="Graph of rainfall for last 14 days" />
-<h2 id="channel">Channel Stage</h2>
-  <p>
-  	 A laser (distance sensing instrument) is cable-mounted over the channel to
-  	 measure flow height. A pressure transducer is flush mounted in the channel
-  	 beneath the laser.
-  </p>
+      alt="Graph of rainfall for last 14 days" />
 
 <h2 id="ground">Ground Water Pressure (Tensiometers and Pressure Tranducers)</h2>
   <p>
@@ -55,18 +47,18 @@
   </nav>
   <h2 id="ten">Ground Water Pressure - Tensionmeters</h2>
     <p>
-    	Each instrument array (SP1-SP8) at the monitoring site is equipped with three
-    	tensiometers located at various depths. The tensiometers are connected with
-    	current transducers that can measure pore-water pressures in the range of +850
-    	hPa to -1000 hPa. The location and depth of the porous tips of each of the
-    	tensiometers are indicated on the graphs. Pore-water pressures are reported in
-    	hectoPascals (hPa). One hectoPascal is roughly equivalent to the pressure
-    	exerted by a 1-cm-deep column of water.
+      Each instrument array (SP1-SP8) at the monitoring site is equipped with three
+      tensiometers located at various depths. The tensiometers are connected with
+      current transducers that can measure pore-water pressures in the range of +850
+      hPa to -1000 hPa. The location and depth of the porous tips of each of the
+      tensiometers are indicated on the graphs. Pore-water pressures are reported in
+      hectoPascals (hPa). One hectoPascal is roughly equivalent to the pressure
+      exerted by a 1-cm-deep column of water.
     </p>
 
     <h3>Soil suction/pore pressure, last 14 days</h3>
     <img src="//landslides.usgs.gov/realtime/plots/Elliott_Pore_Pressure_1.elliott_pore_pressure_1.png"
-    		alt="Graph of last 14 days" /><br/>
+        alt="Graph of last 14 days" /><br/>
     <img
     src="//landslides.usgs.gov/realtime/plots/Elliott_Pore_Pressure_2.elliott_pore_pressure_2.png"
     alt="Graph of last 14 days" />
@@ -93,9 +85,6 @@
   src="//landslides.usgs.gov/realtime/plots/Elliott_Watercontent1.elliott_watercontent1.png" alt="Graph of water content for past 7 days" /><br/>
   <img
   src="//landslides.usgs.gov/realtime/plots/Elliott_Watercontent2.elliott_watercontent2.png" alt="Graph of water content for past 7 days" />
-
-<h2 id="geophone">Geophone</h2>
-  <p>There is one geophone installed on the ridgeline near the central data logger. This installation is experimental in nature, to determine if vibrations from debris-flows can be detected at distance. Although the geophone is sampled at a high frequency, a decimated version of the signal will be posted on the website.</p>
 
 <h2 id="battery">Battery Voltage</h2>
 <p>Battery voltage is monitored for identifying problems with the power system due to solar panel or battery failures.</p>
