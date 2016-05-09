@@ -1,9 +1,9 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:	Jonathan Godt,
-      //	Last	modified:	03/29/2016
+      //	Last	modified:	05/09/2016, Lisa Wald
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Report';
+      $TITLE	=	'U.S. Highway 50, California - Report';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
@@ -12,19 +12,13 @@
 <p>Mark E. Reid, and Richard G. LaHusen, 1998, Real-time Monitoring of Active Landslides Along Highway 50, El Dorado County: adapted from: California Geology, v.51, n.3, p.17-20</p>
 
 <!-- PHOTO 1 -->
+
 <figure class="right" style="width:250px;">
 	<a name="photo01"></a><a rel="ibox" href="images/CT_tall.jpg"><img alt="Mill Creek landslide" src="images/CT_tall_sm.jpg"></a>
 	<figcaption><strong>Photo 1</strong>: Aerial view of the Mill Creek landslide blocking Highway 50. Caltrans Photo courtesy of Lynn Harrison, Caltrans</figcaption>
 </figure>
 
 <p>Late in the rainy evening of January 24, 1997, tons of earth gave way down a steep Sierra Nevada canyon slope and slid onto a major northern California highway (<a href="#photo01">Photo 1</a>). The since-named Mill Creek landslide closed U.S. Highway 50 and briefly dammed (5 hours) the nearby South Fork of the American River, about 25 miles east of Placerville (<a href="#map">Map</a>) (Sydnor, 1997). The slide damaged or destroyed three cabins (<a href="#photo02">Photo 2</a>), and waters dammed by the landslide flooded two vehicles on the highway. Fortunately, there were no fatalities and the waters subsided after the river cut through the dam later that night.  However, before Highway 50 could be reopened, an estimated 350,000 cubic yards of slide material (35,000 truck loads) had to be removed over a 4-week period, at a cost of $4.5 million  (California Department of Transportation, 1997).  Indirect economic costs due to highway closure were estimated at more than $1 million per day.</p>
-
-<!-- MAP -->
-<figure class="left" style="width:250px;">
-	<a name="map"></a><a rel="ibox" href="images/location_map.gif"><img alt="Map, click to enlarge" src="images/location_map_sm.jpg"></a>
-	<figcaption><strong>Map</strong>: Location Map, Highway 50 Landslide area, California (click to enlarge)</figcaption>
-</figure>
-
 
 <p>Following the Mill Creek landslide, the U.S. Geological Survey (USGS), in cooperation with the Eldorado National Forest, acted quickly to install monitoring equipment that would measure landslide conditions and provide the results in real-time.  The system was installed on the nearby active Cleveland Corral landslide which has the potential of blocking Highway 50 and possibly damming the American River if the entire slide moved rapidly.  This landslide, with its downslope edge about 150 feet above the highway, had moved during the wet winter of 1996 and continued to move slowly downslope during the winter of 1997 (<a href="#photo03">Photo 3</a>).</figcaption>
 

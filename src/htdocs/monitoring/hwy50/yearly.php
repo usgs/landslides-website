@@ -1,9 +1,9 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:	Jonathan Godt,
-      //	Last	modified:	03/29/2016
+      //	Last	modified:	05/09/2016, Lisa Wald
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Yearly Information';
+      $TITLE	=	'U.S. Highway 50, California - Yearly Information';
       $NAVIGATION	= true;
 			$HEAD = '
 				<a id="startcontentyear50"></a>

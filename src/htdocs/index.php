@@ -1,7 +1,7 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jonathan Godt,
-// Last modified:03/26/2016
+// Last modified:05/09/2016, Lisa Wald
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'Landslide Hazards Program';
@@ -18,11 +18,6 @@
 <div class="row">
   <div class="column one-of-two">
     <ul class="linklist">
-      <!--''
-    ''
-
-    images/icon-learn.jpg')
-      '-->
     	<li>
     		<a href="hazards/">
     		    <h3>Hazards</h3>
@@ -69,7 +64,6 @@
   <div class="column one-of-two">
     <!--FEATURED RESEARCH-->
 
-
     		<h2>Featured Research</h2>
         <ul class="linklist">
           <li>
@@ -87,26 +81,6 @@
             <p>See also <a href="/monitoring/2015elnino/scal.php">El Ni&ntilde;o and Landslides in Southern California</a></p>
           </li>
         </ul>
-    		<!--php
-
-    			$list = new ImageList();
-
-    			$list->addItem(
-    					'research/featured/2015-westsaltcreek/',
-    					'research/featured/images/westsaltcreek-sm.jpg',
-    					'Reconstruction of an Avalanche',
-    					'<p>The West Salt Creek Rock Avalanche, Colorado, May 25, 2014</p>');
-
-    			$list->addItem(
-    							'monitoring/2015elnino/ncal.php',
-    							'research/featured/images/bluebirdcyn2005-sm.jpg',
-    							'El Ni&ntilde;o and Landslides in Northern and Central California',
-    							'<p>See also <a href="/monitoring/2015elnino/scal.php">El Ni&ntilde;o and Landslides in Southern California</p>');
-
-    		$list->display();
-    		?>-->
-
-    <!--QUICK LINKS-->
 
     	<h2>Quick Links</h2>
     	<ul>
@@ -114,10 +88,7 @@
     		<li><a href="/dysi/">Did You See It? - Report a Landslide</a></li>
     		<li><a href="http://www.usgs.gov/faq/?q=taxonomy/term/9752" target="_"><acronym title="Frequently Asked Questions">FAQ</acronym></a></li>
     		<li><a href="/research/publications.php#factsheets">Fact Sheets</a></li>
-    		<li><a href="/learn/photos/">Landslide Images</a></li>
     		<li><a href="/learn/prepare.php">Preparedness</a></li>
-    		<li><a href="http://www.youtube.com/watch?v=MVwSpGVfWVo">Video - Landslide Hazards</a></li>
-    		<li><a href="/aboutus/people.php">Landslides Staff</a></li>
     	</ul>
 
   </div>
