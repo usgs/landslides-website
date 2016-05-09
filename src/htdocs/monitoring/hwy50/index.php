@@ -1,11 +1,20 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  03/29/2016
+      //  Last  modified:  05/29/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'U.S. Highway 50, California';
       $NAVIGATION  = true;
-      $HEAD = '<link rel="stylesheet" href="/monitoring/styles.css"/>';
+      $HEAD = '
+        <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
+        <link rel="stylesheet" href="/monitoring/index.css"/>
+      ';
+      $FOOT = '
+      <script src="/lib/leaflet-v0.7.7/leaflet.js"></script>
+      <script src="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.js"></script>
+      <script src="/lib/hazdev-webutils-v0.1.8/hazdev-webutils.js"></script>
+      <script src="/monitoring/stations.js"></script>
+      ';
       include  'template.inc.php';
       }
 ?>
@@ -17,7 +26,6 @@
     <p>
       During January 1997, several large landslides closed Highway 50 between Placerville and South Lake Tahoe, California. The photograph below shows the catastrophic Mill Creek landslide that closed Highway 50 for 4 weeks. A number of other landslides are episodically active in this corridor during wet years.
     </p>
-
     <p>
       The Highway 50 landslide monitoring system uses data acquisition systems and radio telemetry developed by the USGS Volcano Hazards Program to operate in remote, hazardous sites with limited power. In many landslides, infiltration of rainfall or rapid snowmelt increases groundwater pressures.  These elevated pressures can, in turn, trigger landslide movement.
     </p>
@@ -55,19 +63,11 @@
   </div>
 
   <div class="column one-of-three">
-    <!-- Map, Status, Data -->
-  <!--
-    <div id="map" style="width:250px;height:250px">
-      <script language="javascript" type="text/javascript">
-      var map = null;
-      $(document).ready( function() {
-      loadStationMap('Highway 50');
-      addStationMarkers();
-      addEvent(window, 'unload', GUnload);
-      });
-      </script>
+
+    <h2>Location Map</h2>
+    <div id="map">
     </div>
-  -->
+
     <h2>Monitoring Status</h2>
     <p class="status-active" align="center">ACTIVE</p>
 
@@ -86,8 +86,7 @@
     <p>
       Sensors are <strong>sampled every second</strong> and data are
       <strong>transmitted from the landslide to a USGS computer every 15
-      minutes</strong>. After transmission, data are graphed and placed on a web
-      server available to the public. Monitoring sensors on the landslide use
+      minutes</strong>.Monitoring sensors on the landslide use
       commercially available components.
     </p>
 
