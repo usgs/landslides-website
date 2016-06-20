@@ -10,7 +10,7 @@
 ?>
 <div class="row">
   <div class="column one-of-two">
-    <ul class = "linklist">
+    <ul class = "linklist no-style">
         <li>
             <a	href="/dysi/">
               <h4>Did You See It? Report a Landslide</h4>

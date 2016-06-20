@@ -11,7 +11,7 @@
 
 <div class="row">
 	<div class="column one-of-two">
-		<ul class="linklist">
+		<ul class="linklist no-style">
 			<li>
 				<a href="research.php">
 					<h3>Research Projects</h3>

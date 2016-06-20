@@ -11,7 +11,7 @@
 
 <div class="row">
   <div class="column one-of-two">
-    <ul class="linklist">
+    <ul class="linklist no-style">
       <li>
       	<a href="ls101.php">
       		<h3>Landslides 101</h3>
