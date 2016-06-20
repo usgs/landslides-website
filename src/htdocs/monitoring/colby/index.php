@@ -64,7 +64,7 @@
     <h2>For More Information</h2>
     <ul>
       <li>
-        <a href="../../hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard asscesment for Colby Fire</a>
+        <a href="../../hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard assessment for Colby Fire</a>
       </li>
       <li>
         <a href="../../hazards/warningsys.php">NOAA/USGS Demonstration Flash-flood and debris-flow early warning system</a>

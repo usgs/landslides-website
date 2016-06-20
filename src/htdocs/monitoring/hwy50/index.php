@@ -86,8 +86,7 @@
     <p>
       Sensors are <strong>sampled every second</strong> and data are
       <strong>transmitted from the landslide to a USGS computer every 15
-      minutes</strong>.Monitoring sensors on the landslide use
-      commercially available components.
+      minutes</strong>.
     </p>
 
   </div>
