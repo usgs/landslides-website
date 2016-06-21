@@ -22,6 +22,19 @@
 <div class="row">
   <!-- Description and Contacts -->
   <div class="column two-of-three">
+
+    <h2>Real-time Data</h2>
+    <p>A rain gage was installed in November 2015 and is used to monitor
+    </p>
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
+    </ul>
+    <p>
+      Data is <strong>updated every 60 minutes</strong>.
+    </p>
+    <hr/>
+
     <p>
       Rainfall on steep burned basins can quickly transform into potentially
       dangerous flash floods and debris flows. The Springs Fire burned many
@@ -34,6 +47,39 @@
       decision-making.
     </p>
 
+    <h2>For More Information</h2>
+    <ul>
+      <li>
+        <a href="https://pubs.er.usgs.gov/publication/ofr20141001">
+          Debris-flow hazard assessment for Springs Fire
+        </a>
+      </li>
+      <li>
+        <a href="/hazards/warningsys.php">
+          NOAA/USGS Demonstration Flash-flood and debris-flow early warning system
+        </a>
+      </li>
+    </ul>
+
+    <hr/>
+    <section class="photos">
+      <figure>
+        <a href="images/Springs1.jpeg"><img src="images/Springs1.jpeg" alt=""/></a>
+      </figure>
+      <figure>
+        <a href="images/Springs2.jpeg"><img src="images/Springs2.jpeg" alt=""/></a>
+      </figure>
+    </section>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
     <h2>Contacts</h2>
     <ul class="no-style">
       <li>
@@ -58,47 +104,5 @@
     <ul>
       <li>National Oceanic and Atmospheric Association</li>
     </ul>
-
-    <h2>For More Information</h2>
-    <ul>
-      <li>
-        <a href="https://pubs.er.usgs.gov/publication/ofr20141001">
-          Debris-flow hazard assessment for Springs Fire
-        </a>
-      </li>
-      <li>
-        <a href="/hazards/warningsys.php">
-          NOAA/USGS Demonstration Flash-flood and debris-flow early warning system
-        </a>
-      </li>
-    </ul>
-  </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-    <p>A rain gage was installed in November 2015 and is used to monitor
-    </p>
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
-    </ul>
-    <p>
-      Data is <strong>updated every 60 minutes</strong>.
-    </p>
   </div>
 </div>
-
-<section class="photos">
-  <figure>
-    <a href="images/Springs1.jpeg"><img src="images/Springs1.jpeg" alt=""/></a>
-  </figure>
-  <figure>
-    <a href="images/Springs2.jpeg"><img src="images/Springs2.jpeg" alt=""/></a>
-  </figure>
-</section>

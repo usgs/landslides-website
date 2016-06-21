@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  '2009 Station Fire, Arroyo Seco, Pasadena, California';
       $NAVIGATION  = true;
@@ -23,6 +23,23 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      Instruments and are used to monitor and detect changes in local conditions, including
+    </p>
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a></li>
+      <li><a href="rtdmonitoring.php#channel">Channel stage</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
+    </ul>
+
+    <hr/>
+
+    <p>
+      Most of the measurements are taken at <strong>1-minute intervals</strong> and <strong>data are transmitted hourly</strong> and displayed on graphs.
+    </p>
+
     <p>
       Rainfall on steep burned basins can transform into potentially dangerous
       flash floods and debris flows.  In 2009, the Station Fire burned 160,000
@@ -39,6 +56,16 @@
       the fall of 2015 to understand the effects of vegetation recovery on
       debris-flow susceptibility.
     </p>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
       <ul class="no-style">
@@ -60,33 +87,9 @@
         </li>
       </ul>
   </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-      Instruments and are used to monitor and detect changes in local conditions, including
-    </p>
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a></li>
-      <li><a href="rtdmonitoring.php#channel">Channel stage</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
-    </ul>
-
-    <p>
-      Most of the measurements are taken at <strong>1-minute intervals</strong> and <strong>data are transmitted hourly</strong> and displayed on graphs.
-    </p>
-  </div>
 </div>
 
+<hr/>
 <section class="photos">
   <figure>
     <a href="images/ArroyoSeco1.jpg">

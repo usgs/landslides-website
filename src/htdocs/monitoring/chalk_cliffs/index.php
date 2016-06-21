@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Chalk Cliffs, Colorado';
       $NAVIGATION  = true;
@@ -22,6 +22,24 @@
 <div class="row">
   <!-- Description and Contacts -->
   <div class="column two-of-three">
+    <h2>Real-time Data</h2>
+
+    <p>
+      The instrumentation was installed in the summer of 2008 and includes a series of three monitoring stations located along the main channel. Data from one of these stations (Station 1) is transmitted from the site and displayed here.
+    </p>
+
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#stage">Flow Stage and Bed Pore Pressure</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery Voltage</a></li>
+      <li><a href="rtdmonitoring.php#force">Force Plate</a></li>
+      <li><a href="rtdmonitoring.php#video">Video Camera</a></li>
+    </ul>
+
+    <p>
+      Data from the sensors are sampled at <strong>high rates (2 seconds to 100 hertz) during rain events and every 2 minutes otherwise</strong>. Two-minute data are transmitted by cell phone modem from the site to a USGS computer <strong>every 5 minutes</strong>.
+    </p>
+    <hr/>
 
   <p>
     Chalk Cliffs, located 8 miles southwest of Buena Vista, CO, is one of the most active debris-flow areas in the state. Typically one or more debris flows occur each year after intense or prolonged rainfall. The debris flows are triggered by surface-water runoff over loose material stored in channels.
@@ -30,43 +48,6 @@
   <p>
     The USGS and its cooperators have installed debris-flow monitoring equipment in the largest drainage basin at Chalk Cliffs. Data collection at this site supports research on the hydrologic factors that control debris-flow initiation, entrainment, and flow dynamics.
   </p>
-
-  <h2>Contacts</h2>
-    <ul class="no-style">
-      <li>
-        <p>
-          <strong>Jason Kean</strong><br/>
-          <a href=mailto:jwkean@usgs.gov>jwkean@usgs.gov</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <strong>Joel Smith</strong><br />
-          <a href="mailto:jbsmith@usgs.gov">jbsmith@usgs.gov</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <strong>Jeff Coe</strong><br/>
-          <a href="mailto:jcoe@usgs.gov">jcoe@usgs.gov</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <strong>Mailing Address</strong><br />
-          U.S. Geological Survey<br />
-          Geologic Hazards Team<br />
-          Box 25046, MS 966<br />
-          Denver, CO 80225
-        </p>
-      </li>
-    </ul>
-
-    <h2>Cooperators</h2>
-    <ul>
-      <li>University of Colorado (National Science Foundation award EAR-06-43353 to G.E. Tucker)</li>
-      <li>East Carolina University (National Science Foundation award BCS-0934131 to T.A. Wasklewicz).</li>
-    </ul>
 
     <h2>For more information</h2>
     <ul>
@@ -85,34 +66,53 @@
 
   <div class="column one-of-three">
 
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
     <h2>Location Map</h2>
     <div id="map">
     </div>
 
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
+    <h2>Contacts</h2>
+      <ul class="no-style">
+        <li>
+          <p>
+            <strong>Jason Kean</strong><br/>
+            <a href=mailto:jwkean@usgs.gov>jwkean@usgs.gov</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>Joel Smith</strong><br />
+            <a href="mailto:jbsmith@usgs.gov">jbsmith@usgs.gov</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>Jeff Coe</strong><br/>
+            <a href="mailto:jcoe@usgs.gov">jcoe@usgs.gov</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>Mailing Address</strong><br />
+            U.S. Geological Survey<br />
+            Geologic Hazards Team<br />
+            Box 25046, MS 966<br />
+            Denver, CO 80225
+          </p>
+        </li>
+      </ul>
 
-    <h2>Real-time Data</h2>
-
-    <p>
-      The instrumentation was installed in the summer of 2008 and includes a series of three monitoring stations located along the main channel. Data from one of these stations (Station 1) is transmitted from the site and displayed here.
-    </p>
-
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#stage">Flow Stage and Bed Pore Pressure</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery Voltage</a></li>
-      <li><a href="rtdmonitoring.php#force">Force Plate</a></li>
-      <li><a href="rtdmonitoring.php#video">Video Camera</a></li>
-    </ul>
-
-    <p>
-      Data from the sensors are sampled at <strong>high rates (2 seconds to 100 hertz) during rain events and every 2 minutes otherwise</strong>. Two-minute data are transmitted by cell phone modem from the site to a USGS computer <strong>every 5 minutes</strong>.
-    </p>
-
+      <h2>Cooperators</h2>
+      <ul>
+        <li>University of Colorado (National Science Foundation award EAR-06-43353 to G.E. Tucker)</li>
+        <li>East Carolina University (National Science Foundation award BCS-0934131 to T.A. Wasklewicz).</li>
+      </ul>
   </div>
 </div>
 
+<hr/>
   <section class="photos">
     <figure>
       <a href="images/ProjectInformation.jpg"><img src='images/ProjectInformation_sm.jpg' alt=""/></a>

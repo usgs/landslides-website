@@ -23,12 +23,48 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      The U.S. Geological Survey, in cooperation with the Eldorado National Forest, has installed monitoring instruments on the Cleveland Corral landslide that has the potential to affect Highway 50.  Data from these instruments are used to detect changes in local conditions including
+    </p>
+
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#ground">Groundwater data from pressure sensors</a></li>
+      <li><a href="rtdmonitoring.php#downslope">Movement data from displacement sensors</a></li>
+      <li><a href="rtdmonitoring.php#geophone">Ground vibration from geophones</a></li>
+    </ul>
+
+    <p>
+      Sensors are <strong>sampled every second</strong> and data are
+      <strong>transmitted from the landslide to a USGS computer every 15
+      minutes</strong>.
+    </p>
+    <hr/>
+
     <p>
       During January 1997, several large landslides closed Highway 50 between Placerville and South Lake Tahoe, California. The photograph below shows the catastrophic Mill Creek landslide that closed Highway 50 for 4 weeks. A number of other landslides are episodically active in this corridor during wet years.
     </p>
     <p>
       The Highway 50 landslide monitoring system uses data acquisition systems and radio telemetry developed by the USGS Volcano Hazards Program to operate in remote, hazardous sites with limited power. In many landslides, infiltration of rainfall or rapid snowmelt increases groundwater pressures.  These elevated pressures can, in turn, trigger landslide movement.
     </p>
+
+    <h2>For More Information</h2>
+    <ul class="spaced">
+      <li><a href="report.php">Highway 50 Landslide Monitoring Report</a></li>
+      <li><a href="yearly.php">Yearly Information</a></li>
+    </ul>
+
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
     <ul class="no-style">
@@ -53,45 +89,10 @@
         </p>
       </li>
     </ul>
-
-    <h2>For More Information</h2>
-    <ul class="spaced">
-      <li><a href="report.php">Highway 50 Landslide Monitoring Report</a></li>
-      <li><a href="yearly.php">Yearly Information</a></li>
-    </ul>
-
-  </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-      The U.S. Geological Survey, in cooperation with the Eldorado National Forest, has installed monitoring instruments on the Cleveland Corral landslide that has the potential to affect Highway 50.  Data from these instruments are used to detect changes in local conditions including
-    </p>
-
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#ground">Groundwater data from pressure sensors</a></li>
-      <li><a href="rtdmonitoring.php#downslope">Movement data from displacement sensors</a></li>
-      <li><a href="rtdmonitoring.php#geophone">Ground vibration from geophones</a></li>
-    </ul>
-
-    <p>
-      Sensors are <strong>sampled every second</strong> and data are
-      <strong>transmitted from the landslide to a USGS computer every 15
-      minutes</strong>.
-    </p>
-
   </div>
 </div>
 
+<hr/>
 <section class="photos">
   <figure>
     <a href="images/CT_tall.jpg"><img src="images/CT_tall_sm.jpg" alt=""/></a>

@@ -23,6 +23,25 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+        Instruments were installed in late summer 2012 and are used to monitor and detect changes in local conditions, including
+    </p>
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#channel">Channel Stage</a></li>
+      <li><a href="rtdmonitoring.php#ground">Ground water pressure (tensiometers and pressure transducers</a></li>
+      <li><a href="rtdmonitoring.php#soiltemp">Soil temperature</a></li>
+      <li><a href="rtdmonitoring.php#soilwater">Soil water content</a></li>
+      <li><a href="rtdmonitoring.php#geophone">Ground Vibrations</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery voltage and station temperatures</a></li>
+    </ul>
+
+    <p>
+      Displayed <strong>measurements are taken at 1-minute intervals</strong> and <strong>transmitted hourly</strong> during daylight hours to be displayed on graphs.
+    </p>
+    <hr/>
+
     <h2>Purpose of Monitoring</h2>
     <p>
       Landslides in the Oregon Coast Range impact people and the environment
@@ -41,6 +60,16 @@
       snowmelt increases ground-water pressures. These elevated pressures can,
       in turn, induce landslide movement which can lead to debris-flows.
     </p>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
     <ul class="no-style">
@@ -74,37 +103,9 @@
       <li>The Oregon Department of Forestry</li>
     </ul>
   </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-        Instruments were installed in late summer 2012 and are used to monitor and detect changes in local conditions, including
-    </p>
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#channel">Channel Stage</a></li>
-      <li><a href="rtdmonitoring.php#ground">Ground water pressure (tensiometers and pressure transducers</a></li>
-      <li><a href="rtdmonitoring.php#soiltemp">Soil temperature</a></li>
-      <li><a href="rtdmonitoring.php#soilwater">Soil water content</a></li>
-      <li><a href="rtdmonitoring.php#geophone">Ground Vibrations</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery voltage and station temperatures</a></li>
-    </ul>
-
-    <p>
-      Displayed <strong>measurements are taken at 1-minute intervals</strong> and <strong>transmitted hourly</strong> during daylight hours to be displayed on graphs.
-    </p>
-
-  </div>
 </div>
 
+<hr/>
 <section class="photos">
   <figure>
     <a href="images/basinMaps.png"><img src='images/basinMaps.png' alt=""/></a>

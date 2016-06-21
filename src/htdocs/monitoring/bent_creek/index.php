@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Bent Creek Experimental Forest, North Carolina';
       $NAVIGATION  = true;
@@ -23,6 +23,21 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      Instruments and are used to monitor and detect changes in local conditions, including
+    </p>
+    <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+    <li><a href="rtdmonitoring.php#ground">Ground Water Pressure (tensionmeters)</a></li>
+    <li><a href="rtdmonitoring.php#soilwater">Soil Water Content</a></li>
+    <li><a href="rtdmonitoring.php#soiltemp">Soil Temperature</a></li>
+    <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
+    </ul>
+
+    <p>
+      Data are updated <strong>every 30 minutes</strong> and displayed on graphs.
+    </p>
+    <hr/>
     <p>
       Landslides in western North Carolina impact people and the environment and
       are commonly induced by intense or prolonged rainfall associated with
@@ -40,6 +55,31 @@
       increases ground-water pressures. These elevated pressures can, in turn,
       induce landslide movement.
     </p>
+    
+    <hr/>
+    <section class="photos">
+      <figure>
+        <a href="images/BC_2.JPG">
+          <img src="images/BC_2.JPG" alt="Image provided by Rick Wooten, NCDENR"/>
+        </a>
+      </figure>
+      <figure>
+        <a href=="images/BC_1.JPG">
+          <img src="images/BC_1.JPG" alt=""/>
+        </a>
+      </figure>
+    </section>
+
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
       <ul class="no-style">
@@ -67,42 +107,4 @@
       </ul>
 
   </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-      Instruments and are used to monitor and detect changes in local conditions, including
-    </p>
-    <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-    <li><a href="rtdmonitoring.php#ground">Ground Water Pressure (tensionmeters)</a></li>
-    <li><a href="rtdmonitoring.php#soilwater">Soil Water Content</a></li>
-    <li><a href="rtdmonitoring.php#soiltemp">Soil Temperature</a></li>
-    <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
-    </ul>
-
-    <p>
-      Data are updated <strong>every 30 minutes</strong> and displayed on graphs.
-    </p>
-  </div>
 </div>
-
-<section class="photos">
-  <figure>
-    <a href="images/BC_2.JPG">
-      <img src="images/BC_2.JPG" alt="Image provided by Rick Wooten, NCDENR"/>
-    </a>
-  </figure>
-  <figure>
-    <a href=="images/BC_1.JPG">
-      <img src="images/BC_1.JPG" alt=""/>
-    </a>
-  </figure>
-</section>
