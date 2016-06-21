@@ -23,6 +23,26 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      Instrument installation at this site took place during the summer and fall of 2006. These instruments are used to monitor and detect changes in local conditions, including
+    </p>
+
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#ten">Ground-water Pressure - Tensiometers</a></li>
+      <li><a href="rtdmonitoring.php#waterpot">Ground-water Pressure - Water Potential Sensors</a></li>
+      <li><a href="rtdmonitoring.php#pie">Ground-water Pressure - Piezometers</a></li>
+      <li><a href="rtdmonitoring.php#soiltemp">Soil Temperature</a></li>
+      <li><a href="rtdmonitoring.php#soilwater">Soil Water Content</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
+    </ul>
+
+    <p>
+      <strong>Measurements are taken at 15-minute intervals</strong> and data are <strong>transmitted daily</strong> and displayed on graphs that are updated daily.
+    </p>
+
+    <hr/>
     <p>
       Landslides in the West Hills of Portland pose a hazard to people and property. In February 1996, a major storm induced hundreds of landslides in the West Hills. Smaller numbers of landslides occur every few years during extended rainy periods and intense storms.
     </p>
@@ -30,6 +50,25 @@
       Data collection at this site supports research on hydrologic factors that control landslide initiation.  In many landslide-prone hillsides, infiltration of water from rainfall or snowmelt increases ground-water pressures. These elevated pressures can, in turn, induce landslide movement.
     </p>
 
+    <hr/>
+    <section class="photos">
+      <figure>
+        <a href="images/rex_logbox.jpg"><img src="images/rex_logbox.jpg" alt=""/></a>
+      </figure>
+      <figure>
+        <a href="images/tens_install.jpg"><img src="images/tens_install_sm.jpg"/></a>
+      </figure>
+    </section>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
     <h2>Contacts</h2>
     <ul class="no-style">
       <li>
@@ -60,44 +99,5 @@
       <li>Portland State University</li>
       <li>The Oregon Department of Geology and Mineral Industries</li>
     </ul>
-
-  </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-      Instrument installation at this site took place during the summer and fall of 2006. These instruments are used to monitor and detect changes in local conditions, including
-    </p>
-
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#ten">Ground-water Pressure - Tensiometers</a></li>
-      <li><a href="rtdmonitoring.php#waterpot">Ground-water Pressure - Water Potential Sensors</a></li>
-      <li><a href="rtdmonitoring.php#pie">Ground-water Pressure - Piezometers</a></li>
-      <li><a href="rtdmonitoring.php#soiltemp">Soil Temperature</a></li>
-      <li><a href="rtdmonitoring.php#soilwater">Soil Water Content</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
-    </ul>
-
-    <p>
-      <strong>Measurements are taken at 15-minute intervals</strong> and data are <strong>transmitted daily</strong> and displayed on graphs that are updated daily.
-    </p>
-
   </div>
 </div>
-
-<section class="photos">
-  <figure>
-    <a href="images/rex_logbox.jpg"><img src="images/rex_logbox.jpg" alt=""/></a>
-  </figure>
-  <figure>
-    <a href="images/tens_install.jpg"><img src="images/tens_install_sm.jpg"/></a>
-  </figure>

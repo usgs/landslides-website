@@ -23,6 +23,23 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      Instruments and are used to monitor and detect changes in local conditions, including
+    </p>
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a></li>
+      <li><a href="rtdmonitoring.php#channel">Channel stage</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
+    </ul>
+
+  <p>
+    Most of the measurements are taken at <strong>1-minute intervals</strong>
+    and data are <strong>transmitted hourly</strong> and displayed on graphs.
+  </p>
+  <hr/>
+
     <p>
       Rainfall on steep burned basins can transform into potentially dangerous
       flash floods and debris flows.  In 2009, the Station Fire burned 160,000
@@ -39,6 +56,16 @@
       reestablished the monitoring site in the fall of 2015 to understand the
       effects of vegetation recovery on debris-flow susceptibility.
     </p>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
       <ul class="no-style">
@@ -59,37 +86,17 @@
           </p>
         </li>
       </ul>
-    </div>
-
-    <div class="column one-of-three">
-
-      <h2>Location Map</h2>
-      <div id="map">
-      </div>
-
-      <h2>Monitoring Status</h2>
-      <p class="status-active" align="center">ACTIVE</p>
-
-      <h2>Real-time Data</h2>
-      <p>
-        Instruments and are used to monitor and detect changes in local conditions, including
-      </p>
-      <ul>
-        <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-        <li><a href="rtdmonitoring.php#ground">Soil water content and ground water pressure</a></li>
-        <li><a href="rtdmonitoring.php#channel">Channel stage</a></li>
-        <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
-      </ul>
-
-    <p>
-      Most of the measurements are taken at <strong>1-minute intervals</strong>
-      and data are <strong>transmitted hourly</strong> and displayed on graphs.
-    </p>
-
   </div>
 </div>
 
+<hr/>
 <section class="photos">
+  <figure>
+    <a href="images/Dunsmore4.JPG"><img src="images/Dunsmore4.JPG" alt=""/></a>
+  </figure>
+  <figure>
+    <a href="images/Dunsmore5.JPG"><img src="images/Dunsmore5.JPG" alt=""/></a>
+  </figure>
   <figure>
     <a href="images/Dunsmore1.jpg"><img src="images/Dunsmore1.jpg" alt=""/></a>
   </figure>
@@ -98,11 +105,5 @@
   </figure>
   <figure>
     <a href="images/Dunsmore3.jpg"><img src="images/Dunsmore3.jpg" alt=""/></a>
-  </figure>
-  <figure>
-    <a href="images/Dunsmore4.JPG"><img src="images/Dunsmore4.JPG" alt=""/></a>
-  </figure>
-  <figure>
-    <a href="images/Dunsmore5.JPG"><img src="images/Dunsmore5.JPG" alt=""/></a>
   </figure>
 </section>

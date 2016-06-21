@@ -23,6 +23,19 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <ul>
+      <li><a href="rtdmonitoring.php#field">Field Layout</a></li>
+      <li><a href="rtdmonitoring.php#bluff">Bluff Hydrology</a></li>
+      <li><a href="rtdmonitoring.php#rainthresh">Rainfall Relative to Threshold</a></li>
+      <li><a href="rtdmonitoring.php#forecast">Forecast Relative to Threshold</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
+    </ul>
+    <p>
+      Data is <strong>updated every 60 minutes</strong>. Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
+    </p>
+    <hr/>
+
     <p>
       Monitoring at this site is for researching rainfall thresholds for forecasting landslide potential. Shallow landslides are common on coastal bluffs overlooking Puget Sound.  Hundreds of landslides occurred on the bluffs in late December 1996 and early January 1997 as heavy rainfall accompanied by abrupt warming caused rapid melting of recent heavy snow.  Smaller numbers of landslides occur every few years during extended rainy periods and intense storms.
     </p>
@@ -49,8 +62,19 @@
       </ficaption>
     </figure>
 
-    <p>The rainfall intensity-duration threshold for the occurrence of landslides in the Seattle area is also based on an analysis of historical landslide and precipitation data from the period 1933 - 1997. This threshold was developed to identify conditions when abundant landslides are likely. Recent analysis has shown that the probability of landslides occurring on a day when the intensity-duration threshold has been exceeded is between 30% and 70%, depending on antecedent soil wetness and size of the area affected by threshold exceeding rainfall. See <a href="http://pubs.usgs.gov/of/2006/1064/" >USGS Open-File Report 06-1064</a> for details concerning the identification of the threshold and its performance. <a href="http://pubs.usgs.gov/fs/2007/3005/" >USGS Fact Sheet 2007-3005</a> also has more information about the rainfall thresholds and their application to forecasting landslides.</p>
+    <p>
+      The rainfall intensity-duration threshold for the occurrence of landslides in the Seattle area is also based on an analysis of historical landslide and precipitation data from the period 1933 - 1997. This threshold was developed to identify conditions when abundant landslides are likely. Recent analysis has shown that the probability of landslides occurring on a day when the intensity-duration threshold has been exceeded is between 30% and 70%, depending on antecedent soil wetness and size of the area affected by threshold exceeding rainfall. See <a href="http://pubs.usgs.gov/of/2006/1064/" >USGS Open-File Report 06-1064</a> for details concerning the identification of the threshold and its performance. <a href="http://pubs.usgs.gov/fs/2007/3005/" >USGS Fact Sheet 2007-3005</a> also has more information about the rainfall thresholds and their application to forecasting landslides.
+    </p>
+  </div>
 
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
     <h2>Contacts</h2>
     <ul class="no-style">
       <li>
@@ -74,32 +98,10 @@
     <li>
       <a href="/state_local/seattle.php">Seattle's Project Impact</a>
     </li>
-
-  </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <ul>
-      <li><a href="rtdmonitoring.php#field">Field Layout</a></li>
-      <li><a href="rtdmonitoring.php#bluff">Bluff Hydrology</a></li>
-      <li><a href="rtdmonitoring.php#rainthresh">Rainfall Relative to Threshold</a></li>
-      <li><a href="rtdmonitoring.php#forecast">Forecast Relative to Threshold</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
-    </ul>
-    <p>
-      Data is <strong>updated every 60 minutes</strong>. Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
-    </p>
   </div>
 </div>
 
+<hr/>
 <section class="photos">
   <figure>
     <a href="images/perkins97_wo.jpg"><img src="images/perkins97_wo.jpg"/></a>
@@ -143,3 +145,4 @@
   <figure>
     <a href="images/stormhist4.jpg"><img src="images/stormhist4.jpg"/></a>
   </figure>
+</section>

@@ -23,6 +23,19 @@
   <!-- Description and Contacts -->
   <div class="column two-of-three">
 
+    <h2>Real-time Data</h2>
+    <p>
+      A rain gage was installed in November 2014 and is used to monitor:
+    </p>
+    <ul>
+      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
+    </ul>
+    <p>
+      Typically the most recent data on the graph lags the current time by 5 to 10 minutes.
+    </p>
+    <hr/>
+
     <p>
       Rainfall on steep burned basins can quickly transform into potentially
       dangerous flash floods and debris flows. The Colby Fire burned many steep
@@ -35,6 +48,39 @@
       provide information from the burned area to the National Weather Service
       for warning decision-making.
     </p>
+
+    <h2>For More Information</h2>
+    <ul>
+      <li>
+        <a href="../../hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard assessment for Colby Fire</a>
+      </li>
+      <li>
+        <a href="../../hazards/warningsys.php">NOAA/USGS Demonstration Flash-flood and debris-flow early warning system</a>
+      </li>
+      <li>
+        <a href="http://forecast.weather.gov/MapClick.php?lon=-117.87279&lat=34.15814#.VHOU3PTF9st">Weather forecast for vicinity</a>
+      </li>
+    </ul>
+
+    <hr/>
+    <section class="photos">
+      <figure>
+        <a href="images/ColbyFire1.jpg"><img src="images/ColbyFire1.jpg" alt=""/></a>
+      </figure>
+      <figure>
+      <a href="images/ColbyFire2.jpg"><img src="images/ColbyFire2.jpg" alt=""/></a>
+      </figure>
+    </section>
+  </div>
+
+  <div class="column one-of-three">
+
+    <h2>Monitoring Status</h2>
+    <p class="status-active" align="center">ACTIVE</p>
+
+    <h2>Location Map</h2>
+    <div id="map">
+    </div>
 
     <h2>Contacts</h2>
     <ul class="no-style">
@@ -60,50 +106,5 @@
     <ul>
       <li>National Oceanic and Atmospheric Association</li>
     </ul>
-
-    <h2>For More Information</h2>
-    <ul>
-      <li>
-        <a href="../../hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard assessment for Colby Fire</a>
-      </li>
-      <li>
-        <a href="../../hazards/warningsys.php">NOAA/USGS Demonstration Flash-flood and debris-flow early warning system</a>
-      </li>
-      <li>
-        <a href="http://forecast.weather.gov/MapClick.php?lon=-117.87279&lat=34.15814#.VHOU3PTF9st">Weather forecast for vicinity</a>
-      </li>
-    </ul>
-
-  </div>
-
-  <div class="column one-of-three">
-
-    <h2>Location Map</h2>
-    <div id="map">
-    </div>
-
-    <h2>Monitoring Status</h2>
-    <p class="status-active" align="center">ACTIVE</p>
-
-    <h2>Real-time Data</h2>
-    <p>
-      A rain gage was installed in November 2014 and is used to monitor:
-    </p>
-    <ul>
-      <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery voltage</a></li>
-    </ul>
-    <p>
-      Typically the most recent data on the graph lags the current time by 5 to 10 minutes.
-    </p>
   </div>
 </div>
-
-<section class="photos">
-  <figure>
-    <a href="images/ColbyFire1.jpg"><img src="images/ColbyFire1.jpg" alt=""/></a>
-  </figure>
-  <figure>
-  <a href="images/ColbyFire2.jpg"><img src="images/ColbyFire2.jpg" alt=""/></a>
-</section>
-</figure>
