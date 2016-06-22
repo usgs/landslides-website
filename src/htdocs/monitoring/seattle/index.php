@@ -24,13 +24,24 @@
   <div class="column two-of-three">
 
     <h2>Real-time Data</h2>
+
+    <h3>National Weather Service:</h3>
     <ul>
-      <li><a href="rtdmonitoring.php#field">Field Layout</a></li>
-      <li><a href="rtdmonitoring.php#bluff">Bluff Hydrology</a></li>
-      <li><a href="rtdmonitoring.php#rainthresh">Rainfall Relative to Threshold</a></li>
-      <li><a href="rtdmonitoring.php#forecast">Forecast Relative to Threshold</a></li>
-      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
+      <li><a href="#nws-cum">Cumulative Precipitation Threshold</a></li>
+      <li><a href="#nws-int">Rainfall Intensity/Duration Threshold</a></li>
+      <li><a href="#wet">Antecedent Wetness Index (AWI)</a></li>
+      <li><a href="#nws-forecast">Forecast Relative to Threshold</a></li>
     </ul>
+    <h3>Bluff location:</h3>
+    <ul>
+      <li><a href="#rain">Rainfall</a></li>
+      <li><a href="#thresh">Rainfall Relative to Threshold</a></li>
+      <li><a href="#soil">Soil Water Content</a></li>
+      <li><a href="#suc"> Soil Suction</a></li>
+      <li><a href="#water">Water Levels</a></li>
+      <li><a href="#battery">Battery</a></li>
+    </ul>
+
     <p>
       Data is <strong>updated every 60 minutes</strong>. Updates may be interrupted occasionally by instrument, computer, or network malfunctions.
     </p>
