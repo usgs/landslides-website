@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  '2014 Colby Fire, Glendora, California';
       $NAVIGATION  = true;
@@ -52,10 +52,10 @@
     <h2>For More Information</h2>
     <ul>
       <li>
-        <a href="../../hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard assessment for Colby Fire</a>
+        <a href="/hazards/postfire_debrisflow/2014/20140116colby/">Debris-flow hazard assessment for Colby Fire</a>
       </li>
       <li>
-        <a href="../../hazards/warningsys.php">NOAA/USGS Demonstration Flash-flood and debris-flow early warning system</a>
+        <a href="/hazards/warningsys.php">NOAA/USGS Demonstration Flash-flood and debris-flow early warning system</a>
       </li>
       <li>
         <a href="http://forecast.weather.gov/MapClick.php?lon=-117.87279&lat=34.15814#.VHOU3PTF9st">Weather forecast for vicinity</a>
@@ -65,10 +65,10 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/ColbyFire1.jpg"><img src="images/ColbyFire1.jpg" alt=""/></a>
+        <a href="images/ColbyFire1-lg.jpg"><img src="images/ColbyFire1-sm.jpg" alt=""/></a>
       </figure>
       <figure>
-      <a href="images/ColbyFire2.jpg"><img src="images/ColbyFire2.jpg" alt=""/></a>
+      <a href="images/ColbyFire2-lg.jpg"><img src="images/ColbyFire2-sm.jpg" alt=""/></a>
       </figure>
     </section>
   </div>

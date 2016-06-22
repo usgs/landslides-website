@@ -38,6 +38,8 @@
       Landslide monitoring data and information provided on this web site are preliminary and have not been reviewed for accuracy; therefore the data are subject to revision.
     </p>
 
+    <img src="images/landslide_monitor.gif" alt="diagram of a typical landslide monitoring setup"/>
+
     <h2>Disclaimer</h2>
     <p>
       This monitoring site was operated as part of a research project. Active data collection may be discontinued at any time in the future.

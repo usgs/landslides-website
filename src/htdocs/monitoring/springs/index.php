@@ -64,10 +64,10 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/Springs1.jpeg"><img src="images/Springs1.jpeg" alt=""/></a>
+        <a href="images/Springs1-lg.jpg"><img src="images/Springs1-sm.jpg" alt=""/></a>
       </figure>
       <figure>
-        <a href="images/Springs2.jpeg"><img src="images/Springs2.jpeg" alt=""/></a>
+        <a href="images/Springs2-lg.jpg"><img src="images/Springs2-sm.jpg" alt=""/></a>
       </figure>
     </section>
   </div>

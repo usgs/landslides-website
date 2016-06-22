@@ -115,56 +115,61 @@
 <hr/>
   <section class="photos">
     <figure>
-      <a href="images/ProjectInformation.jpg"><img src='images/ProjectInformation_sm.jpg' alt=""/></a>
+      <a href="images/ProjectInformation-lg.jpg"><img src='images/ProjectInformation_sm.jpg' alt=""/></a>
       <figcaption>
         View of monitoring basin from the debris-flow fan near Chaffee County Road 162.
       </figcaption>
     </figure>
 
     <figure>
-      <a href="images/ForcePlate_Installation.jpg"><img src="images/ForcePlate_Installation_sm.jpg" alt=""/></a>
+      <a href="images/ForcePlate_Installation-lg.jpg"><img src="images/ForcePlate_Installation_sm.jpg" alt=""/></a>
       <figcaption>Installing the forceplate.</figcaption>
     </figure>
 
     <figure>
-      <a href="images/ForcePlate_SideView.jpg"><img src="images/ForcePlate_SideView_sm.jpg" alt=""/></a>
+      <a href="images/ForcePlate_SideView-lg.jpg"><img src="images/ForcePlate_SideView_sm.jpg" alt=""/></a>
       <figcaption>Side view of the forceplate.</figcaption>
     </figure>
 
     <figure>
-      <a href="images/MapPhotos_Station1.jpg"><img src='images/MapPhotos_Station1_sm.jpg' alt=""/></a>
+      <a href="images/MapPhotos_Station1-lg.jpg"><img src='images/MapPhotos_Station1_sm.jpg' alt=""/></a>
       <figcaption>Station 1 (view up-channel).</figcaption>
     </figure>
 
     <figure>
-      <a href="images/MapPhotos_Station2.jpg"><img src='images/MapPhotos_Station2_sm.jpg' alt=""/></a>
+      <a href="images/MapPhotos_Station2-lg.jpg"><img src='images/MapPhotos_Station2_sm.jpg' alt=""/></a>
       <figcaption>Station 2 (view down-channel).</figcaption>
     </figure>
 
     <figure>
-      <a href="images/MapPhotos_Station3.jpg"><img src='images/MapPhotos_Station3_sm.jpg' alt=""/></a>
+      <a href="images/MapPhotos_Station3-lg.jpg"><img src='images/MapPhotos_Station3_sm.jpg' alt=""/></a>
       <figcaption>Station 3 (view down-channel).</figcaption>
     </figure>
 
     <figure>
-      <a href="images/MapPhotos_Map.jpg"><img src='images/MapPhotos_Map_sm.jpg' alt=""/></a>
+      <a href="images/MapPhotos_Map-lg.jpg"><img src='images/MapPhotos_Map_sm.jpg' alt=""/></a>
       <figcaption>Map of the study basin.</figcaption>
     </figure>
 
     <figure>
-      <a href="images/Rills.jpg"><img src="images/Rills.jpg" alt=""/>
+      <a href="images/Rills-lg.jpg"><img src="images/Rills-sm.jpg" alt=""/>
     </figure>
 
     <figure>
-      <a href="images/StagePorePressure.jpg"><img src="images/StagePorePressure.jpg" alt=""></a>
+      <a href="images/StagePorePressure-lg.jpg"><img src="images/StagePorePressure_sm.jpg" alt=""></a>
     </figure>
 
     <figure>
-      <a href="images/TerrestialLaserScanning.jpg"<img src="images/TerrestialLaserScanning.jpg" alt=""/></a>
+      <a href="images/TerrestialLaserScanning-lg.jpg"<img src="images/TerrestialLaserScanning-sm.jpg" alt=""/></a>
     </figure>
 
     <figure>
-      <a href="images/MapPhotos_ViewFromCamera.jpg"><img src='images/MapPhotos_ViewFromCamera_sm.jpg' alt=""/></a>
+      <a href="images/VideoCamera-lg.jpg"><img src='images/VideoCamera_sm.jpg' alt=""/></a>
+      <figcaption>Video Camera.</figcaption>
+    </figure>
+
+    <figure>
+      <a href="images/MapPhotos_ViewFromCamera-lg.jpg"><img src='images/MapPhotos_ViewFromCamera_sm.jpg' alt=""/></a>
       <figcaption>View from video camera towards Station 1.</figcaption>
     </figure>
 

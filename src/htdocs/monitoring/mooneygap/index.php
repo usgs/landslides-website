@@ -62,15 +62,15 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/mooneyGapContour.png"><img
-        src="images/mooneyGapContour.png" alt="Image provided by
+        <a href="images/mooneyGapContour-lg.jpg"><img
+        src="images/mooneyGapContour-sm.jpg" alt="Image provided by
         Rick Wooten, NCDENR"/></a>
       </figure>
       <figure>
-        <a href="images/IMG_3.JPG"><img src="images/IMG_3.JPG" alt="Image provided by Rick Wooten, NCDENR"/></a>
+        <a href="images/IMG_3-lg.jpg"><img src="images/IMG_3-sm.jpg" alt="Image provided by Rick Wooten, NCDENR"/></a>
       </figure>
       <figure>
-        <a href="images/IMG_1.JPG"><img src="images/IMG_1.JPG" alt=""/></a>
+        <a href="images/IMG_1-lg.jpg"><img src="images/IMG_1-sm.jpg" alt=""/></a>
       </figure>
     </section>
   </div>

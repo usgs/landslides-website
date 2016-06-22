@@ -104,45 +104,12 @@
 <hr/>
 <section class="photos">
   <figure>
-    <a href="images/perkins97_wo.jpg"><img src="images/perkins97_wo.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/Perkins2_wo.jpg"><img src="images/Perkins2_wo.jpg"/></a>
+    <a href="images/perkins97_wo-lg.jpg"><img src="images/perkins97_wo-sm.jpg"/></a>
   </figure>
   <figure>
     <a href="images/Everettslide5.jpg"><img src="images/Everettslide5_sm.jpg"/></a>
   </figure>
   <figure>
     <a href="images/fig1.jpg"><img src="images/fig1_sm.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/SeatRainGaugeNetwk.gif"><img src="images/SeatRainGaugeNetwk.gif"/></a>
-  </figure>
-  <figure>
-    <a href="images/NWSRainGaugeNetwk.jpg"><img src="images/NWSRainGaugeNetwk.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/update.jpg"><img src="images/update.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/seathresh1020.png"><img src="images/seathresh1020.png"/></a>
-  </figure>
-  <figure>
-    <a href="images/seathreshia1020.png"><img src="images/seathreshia1020.png"/></a>
-  </figure>
-  <figure>
-    <a href="images/seathreshid1020.png"><img src="images/seathreshid1020.png"/></a>
-  </figure>
-  <figure>
-    <a href="images/stormhist.jpg"><img src="images/stormhist.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/stormhist2.jpg"><img src="images/stormhist2.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/stormhist3.jpg"><img src="images/stormhist3.jpg"/></a>
-  </figure>
-  <figure>
-    <a href="images/stormhist4.jpg"><img src="images/stormhist4.jpg"/></a>
   </figure>
 </section>

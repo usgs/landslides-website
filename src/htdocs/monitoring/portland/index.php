@@ -53,7 +53,7 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/rex_logbox.jpg"><img src="images/rex_logbox.jpg" alt=""/></a>
+        <a href="images/rex_logbox-lg.jpg"><img src="images/rex_logbox-sm.jpg" alt=""/></a>
       </figure>
       <figure>
         <a href="images/tens_install.jpg"><img src="images/tens_install_sm.jpg"/></a>

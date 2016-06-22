@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Knife Ridge, Elliott State Forest, Oregon';
       $NAVIGATION  = true;
@@ -57,16 +57,16 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/photo2.jpg"><img src="images/photo2.jpg" alt=""/></a>
+        <a href="images/photo2-lg.jpg"><img src="images/photo2-sm.jpg" alt=""/></a>
       </figure>
       <figure>
-        <a href="images/photo1.jpg"><img src="images/photo1.jpg" alt=""/></a>
+        <a href="images/photo1-lg.jpg"><img src="images/photo1-sm.jpg" alt=""/></a>
       </figure>
       <figure>
         <a href="images/photo.jpg"><img src="images/photo_sm.jpg" alt=""/></a>
       </figure>
       <figure>
-        <a href="images/ContourMap.jpg"><img src="images/ContourMap_sm.jpg" alt=""/></a>
+        <a href="images/ContourMap.png"><img src="images/ContourMap_sm.jpg" alt=""/></a>
         <figcaption>Laser suspended 8 meters above channel.</figcaption>
       </figure>
     </section>

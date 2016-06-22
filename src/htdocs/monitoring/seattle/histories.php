@@ -1,7 +1,7 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:	Jonathan Godt,
-      //	Last	modified: 04/07/2016
+      //	Contact:	Jonathan Godt
+      //	Last	modified: 06/22/2016, Lisa Wald
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Yearly Information';
       $NAVIGATION	= true;
@@ -12,14 +12,14 @@
       }
 ?>
 
+<!-- Rex will provide updates for this and then it can go online again. -->
+
 <nav class="jumplist">
 	<a href="#03-04">2003-2004 Wet Season</a>
 	<a href="#02-03">2002-2003 Wet Season</a>
 	<a href="#01-02">2001-2002 Wet Season</a>
 	<a href="#96-97">1996-1997 Wet Season</a>
 </nav>
-
-
 
 <h2 id="03-04b">October 20, 2004</h2>
 	<p><img src="http://landslides.usgs.gov/monitoring/seattle/images/seathresh1020.png" alt="15-day cumulative precipitation graph">

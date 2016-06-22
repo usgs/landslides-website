@@ -92,18 +92,18 @@
 <hr/>
 <section class="photos">
   <figure>
-    <a href="images/Dunsmore4.JPG"><img src="images/Dunsmore4.JPG" alt=""/></a>
+    <a href="images/Dunsmore4-lg.jpg"><img src="images/Dunsmore4-sm.jpg" alt=""/></a>
   </figure>
   <figure>
-    <a href="images/Dunsmore5.JPG"><img src="images/Dunsmore5.JPG" alt=""/></a>
+    <a href="images/Dunsmore5-lg.jpg"><img src="images/Dunsmore5-sm.jpg" alt=""/></a>
   </figure>
   <figure>
-    <a href="images/Dunsmore1.jpg"><img src="images/Dunsmore1.jpg" alt=""/></a>
+    <a href="images/Dunsmore1-lg.jpg"><img src="images/Dunsmore1-sm.jpg" alt=""/></a>
   </figure>
   <figure>
-    <a href="images/Dunsmore2.JPG"><img src="images/Dunsmore2.JPG" alt=""/></a>
+    <a href="images/Dunsmore2-lg.jpg"><img src="images/Dunsmore2-sm.jpg" alt=""/></a>
   </figure>
   <figure>
-    <a href="images/Dunsmore3.jpg"><img src="images/Dunsmore3.jpg" alt=""/></a>
+    <a href="images/Dunsmore3-lg.jpg"><img src="images/Dunsmore3-sm.jpg" alt=""/></a>
   </figure>
 </section>

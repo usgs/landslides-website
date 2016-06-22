@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/29/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'U.S. Highway 50, California';
       $NAVIGATION  = true;
@@ -51,6 +51,7 @@
 
     <h2>For More Information</h2>
     <ul class="spaced">
+      <li><a href="status.php">Current Landslide Status</a></li>
       <li><a href="report.php">Highway 50 Landslide Monitoring Report</a></li>
       <li><a href="yearly.php">Yearly Information</a></li>
     </ul>
@@ -96,9 +97,6 @@
 <section class="photos">
   <figure>
     <a href="images/CT_tall.jpg"><img src="images/CT_tall_sm.jpg" alt=""/></a>
-    <figcaption>
-      Photograph of the Mill Creek landslide that closed Highway 50 for 4 weeks. CALTRANS. Photo by Lynn Harrison, 1997.
-    </figcaption>
   </figure>
   <figure>
     <a href="images/drill.jpg"><img src="images/drill_sm.jpg" alt=""/></a>
