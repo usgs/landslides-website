@@ -92,28 +92,27 @@
 <hr/>
 <section class="photos">
   <figure>
-    <a href="images/ArroyoSeco1.jpg">
-      <img src="images/ArroyoSeco1.jpg" alt="pole with solar panel and antenna"/>
+    <a href="images/ArroyoSeco1-lg.jpg">
+      <img src="images/ArroyoSeco1-sm.jpg" alt="pole with solar panel and antenna"/>
     </a>
   </figure>
   <figure>
-    <a href="images/ArroyoSeco2.jpg">
-      <img src="images/ArroyoSeco2.jpg" alt=""/>
+    <a href="images/ArroyoSeco2-lg.jpg">
+      <img src="images/ArroyoSeco2-sm.jpg" alt=""/>
     </a>
   </figure>
   <figure>
-    <a href=="images/ArroyoSeco3.JPG">
-      <img src="images/ArroyoSeco3.JPG" alt=""/>
+    <a href="images/ArroyoSeco3-lg.jpg">
+      <img src="images/ArroyoSeco3-sm.jpg" alt=""/>
+  </figure>
+  <figure>
+    <a href="images/ArroyoSeco4-lg.jpg">
+      <img src="images/ArroyoSeco4-sm.jpg" alt=""/>
     </a>
   </figure>
   <figure>
-    <a href="images/ArroyoSeco4.jpg">
-      <img src="images/ArroyoSeco4.jpg" alt=""/>
-    </a>
-  </figure>
-  <figure>
-    <a href="images/ArroyoSeco5.jpg">
-      <img src="images/ArroyoSeco5.jpg" alt=""/>
+    <a href="images/ArroyoSeco5-lg.jpg">
+      <img src="images/ArroyoSeco5-sm.jpg" alt=""/>
     </a>
   </figure>
 </section>

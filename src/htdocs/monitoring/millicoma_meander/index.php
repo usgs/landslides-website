@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/09/2016, Lisa Wald
+      //  Contact:  Jonathan Godt
+      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Millicoma Meander, Elliott State Forest, Oregon';
       $NAVIGATION  = true;
@@ -108,7 +108,7 @@
 <hr/>
 <section class="photos">
   <figure>
-    <a href="images/basinMaps.png"><img src='images/basinMaps.png' alt=""/></a>
+    <a href="images/basinMaps-lg.jpg"><img src='images/basinMaps-sm.jpg' alt=""/></a>
   </figure>
   <figure>
     <a href="images/LaserDistanceDetail.jpg"><img src="images/LaserDistanceDetail-304.jpg" alt=""/></a>
@@ -121,6 +121,6 @@
     <a href="images/LaserDistanceDetail.jpg"><img src="images/LaserDistanceDetail-304.jpg" alt=""/></a>
   </figure>
   <figure>
-    <a href="images/photo.jpg"><img src="images/photo.jpg" alt=""/></a>
+    <a href="images/photo.jpg"><img src="images/photo_sm.jpg" alt=""/></a>
   </figure>
 </section>

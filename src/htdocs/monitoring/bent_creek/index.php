@@ -55,17 +55,17 @@
       increases ground-water pressures. These elevated pressures can, in turn,
       induce landslide movement.
     </p>
-    
+
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/BC_2.JPG">
-          <img src="images/BC_2.JPG" alt="Image provided by Rick Wooten, NCDENR"/>
+        <a href="images/BC_2-lg.jpg">
+          <img src="images/BC_2-sm.jpg" alt="Image provided by Rick Wooten, NCDENR"/>
         </a>
       </figure>
       <figure>
-        <a href=="images/BC_1.JPG">
-          <img src="images/BC_1.JPG" alt=""/>
+        <a href="images/BC_1-lg.jpg">
+          <img src="images/BC_1-sm.jpg" alt=""/>
         </a>
       </figure>
     </section>

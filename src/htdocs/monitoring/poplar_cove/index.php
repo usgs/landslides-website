@@ -61,10 +61,10 @@
     <hr/>
     <section class="photos">
       <figure>
-        <a href="images/PC_2.JPG" alt=""><img src="images/PC_2.jpg" alt="Image provided by Rick Wooten, NCDENR" /></a>
+        <a href="images/PC_2-lg.jpg" alt=""><img src="images/PC_2-sm.jpg" alt="Image provided by Rick Wooten, NCDENR" /></a>
       </figure>
       <figure>
-        <a href="images/PC_1.JPG" alt=""><img src="images/PC_1.jpg" alt="Image provided by Rick Wooten, NCDENR" /></a>
+        <a href="images/PC_1-lg.jpg" alt=""><img src="images/PC_1-sm.jpg" alt="Image provided by Rick Wooten, NCDENR" /></a>
       </figure>
     </section>
   </div>
