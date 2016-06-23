@@ -13,7 +13,7 @@
 <nav class="jumplist">
   <a href="#nws-cum">Cumulative Precipitation Threshold</a>
   <a href="#nws-int">Rainfall Intensity/Duration Threshold</a>
-  <a href="#wet">Antecedent Wetness Index (AWI)</a>
+  <a href="#nws-wet">Antecedent Wetness Index (AWI)</a>
   <a href="#nws-forecast">Forecast Relative to Threshold</a>
 </nav>
 
