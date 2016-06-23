@@ -27,19 +27,19 @@
 
     <h3>National Weather Service:</h3>
     <ul>
-      <li><a href="rtdmonitoring#nws-cum">Cumulative Precipitation Threshold</a></li>
-      <li><a href="rtdmonitoring#nws-int">Rainfall Intensity/Duration Threshold</a></li>
-      <li><a href="rtdmonitoring#nws-wet">Antecedent Wetness Index (AWI)</a></li>
-      <li><a href="rtdmonitoring#nws-forecast">Forecast Relative to Threshold</a></li>
+      <li><a href="rtdmonitoring.php#nws-cum">Cumulative Precipitation Threshold</a></li>
+      <li><a href="rtdmonitoring.php#nws-int">Rainfall Intensity/Duration Threshold</a></li>
+      <li><a href="rtdmonitoring.php#nws-wet">Antecedent Wetness Index (AWI)</a></li>
+      <li><a href="rtdmonitoring.php#nws-forecast">Forecast Relative to Threshold</a></li>
     </ul>
     <h3>Bluff location:</h3>
     <ul>
-      <li><a href="rtdmonitoring#rain">Rainfall</a></li>
-      <li><a href="rtdmonitoring#thresh">Rainfall Relative to Threshold</a></li>
-      <li><a href="rtdmonitoring#soil">Soil Water Content</a></li>
-      <li><a href="rtdmonitoring#suc"> Soil Suction</a></li>
-      <li><a href="rtdmonitoring#water">Water Levels</a></li>
-      <li><a href="rtdmonitoring#battery">Battery</a></li>
+      <li><a href="rtdmonitoring.php#rain">Rainfall</a></li>
+      <li><a href="rtdmonitoring.php#thresh">Rainfall Relative to Threshold</a></li>
+      <li><a href="rtdmonitoring.php#soil">Soil Water Content</a></li>
+      <li><a href="rtdmonitoring.php#suc"> Soil Suction</a></li>
+      <li><a href="rtdmonitoring.php#water">Water Levels</a></li>
+      <li><a href="rtdmonitoring.php#battery">Battery</a></li>
     </ul>
 
     <p>
