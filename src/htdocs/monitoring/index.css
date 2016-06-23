@@ -1,0 +1,22 @@
+#map {
+  border: 1px solid #dedece;
+  max-width: 100%;
+  height: 300px;
+  margin: 20px 0px;
+}
+
+.status-active {
+  display: block;
+  background-color: green;
+  color: white;
+}
+.status-inactive {
+  display: block;
+  background-color: red;
+  color: white;
+}
+.photos > figure {
+  width: 150px;
+  margin-right: 16px;
+  float: left;
+}

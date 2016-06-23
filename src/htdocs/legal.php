@@ -1,7 +1,7 @@
 <?php
-
-if (!isset($TEMPLATE)) {
+  if (!isset($TEMPLATE)) {
   $TITLE = 'Legal';
+  $NAVIGATION = true;
   include 'template.inc.php';
 }
 ?>
