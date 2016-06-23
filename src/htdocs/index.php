@@ -17,7 +17,7 @@
 
 <div class="row">
   <div class="column one-of-two">
-    <ul class="linklist">
+    <ul class="linklist no-style">
     	<li>
     		<a href="hazards/">
     		    <h3>Hazards</h3>
