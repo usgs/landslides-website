@@ -1,11 +1,11 @@
 <?php
       //	Author:	Tiffany Kalin
-      //	Contact:	Jonathan Godt,
-      //	Last	modified:	03/08/2016
+      //	Contact:	Jonathan Godt
+      //	Last	modified:	06/28/2016, Lisa Wald
       if	(!isset($TEMPLATE))	{
-      $TITLE	=	'Significant Landslide Events in the United States';
-      $NAVIGATION	= true;
-      include	'template.inc.php';
+        $TITLE	=	'Significant Landslide Events in the United States, 1906 - 1999';
+        $NAVIGATION	= true;
+        include	'template.inc.php';
       }
 ?>
 
@@ -26,11 +26,3 @@
 <p><a href="/docs/faq/significantls_508.pdf">significantls_508.pdf</a> (2.1 MB)<br />
 	<em>(This text-only version of the report <strong>is</strong> accessible as defined in Section 508)</em>
 </p>
-
-<!--<p>If you have accessibility issues with the 508 version of this document please contact:</p>
-
-<p>
-	Lynn Highland <br />
-	Phone: 303-273-8588<br />
-	NLIC@usgs.gov
-</p>-->
