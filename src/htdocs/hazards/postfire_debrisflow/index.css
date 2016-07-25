@@ -1,0 +1,57 @@
+#map {
+  max-width: 100%;
+	height:500px;
+  margin: 20px 0px;
+}
+#layer_legend {
+	position:absolute;
+	right:1px;
+	bottom:1px;
+	width:196px;
+	border:2px solid #fff;
+}
+
+
+
+
+
+.borderBox {
+	border:1px solid #000;
+}
+
+.summary img,
+#map > img {
+	width:100%;
+}
+
+
+.summary > div > dl {
+	background: rgb(247,247,247);
+	border:1px solid rgb(237,237,237);
+	color: #666;
+	padding:10px 15px;
+	margin:15px 0 0 0;
+}
+
+.summary > div > dl > dt {
+margin: 0;
+float: left;
+clear: left;
+width: 130px;
+color: #333;
+font-weight: bold;
+}
+
+.maps {
+	position:relative;
+}
+
+#year_legend {
+	position:absolute;
+	right:1px;
+	top:1px;
+}
+
+.downloads {
+	clear:left;
+	}
