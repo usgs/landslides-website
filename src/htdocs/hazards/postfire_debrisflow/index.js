@@ -28,19 +28,22 @@ var YellowFireIcon = L.icon({
 el = document.querySelector('#map');
 
 createMap = function (data) {
+  var currentYear;
+
+  currentYear = new Date().getUTCFullYear();
   map = L.map(el).setView([41.5, -112.0], 5);
   EsriTerrain().addTo(map);
   data.forEach(function (site) {
     var marker;
-    if (site.year === '2016') {
-    marker = L.marker([site.lat, site.lon], {
-      title: site.name, icon: FireIcon
-    });
+    if (site.year === currentYear) {
+      marker = L.marker([site.lat, site.lon], {
+        title: site.name, icon: FireIcon
+      });
     }
     else {
-    marker = L.marker([site.lat, site.lon], {
-      title: site.name, icon: YellowFireIcon
-    });
+      marker = L.marker([site.lat, site.lon], {
+        title: site.name, icon: YellowFireIcon
+      });
     }
     ;
     marker.bindPopup('<a href="' + site.href + '">' +
@@ -55,9 +58,12 @@ Xhr.ajax({
   success: function (data) {
     createMap(data);
   },
-  error: function () {
+  error: function (e) {
     el.innerHTML = '<p class="alert error">' +
         'Error loading map' +
+        '<pre>' +
+        e.stack +
+        '</pre>' +
         '</p>';
   }
 });
