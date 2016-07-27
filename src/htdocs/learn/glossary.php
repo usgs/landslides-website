@@ -247,7 +247,7 @@
 
 <h2 id="r">R</h2>
 <dl>
-  <dt>reconnaissance gology/mapping</dt>
+  <dt>reconnaissance geology/mapping</dt>
     <dd>
      a general, exploratory examination or survey of the main features of a region, usually preliminary to a more detailed survey.  It may be made in the field or office, depending on the extent of information available.  Chatwin and others, 1994.
     </dd>

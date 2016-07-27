@@ -20,17 +20,19 @@
 ?>
 
 <div class="row">
-	<div class="column one-of-two alert">
-		<dl>
-			<dt>Date of origin:</dt>
-			<dd>August 3, 2014</dd>
+  <div class="column one-of-two">
+    <div class="alert">
+    	<dl>
+    		<dt>Date of origin:</dt>
+    		<dd>August 3, 2014</dd>
 
-			<dt>Location:</dt>
-			<dd>48.389, -120.285</dd>
+    		<dt>Location:</dt>
+    		<dd>48.389, -120.285</dd>
 
-			<dt>Total Area Burned:</dt>
-			<dd>20.1 km&#178;</dd>
-		</dl>
+    		<dt>Total Area Burned:</dt>
+    		<dd>20.1 km&#178;</dd>
+    	</dl>
+    </div>
 	</div>
   <div class="ten column downloads">
   	<h2>Downloads</h2>
