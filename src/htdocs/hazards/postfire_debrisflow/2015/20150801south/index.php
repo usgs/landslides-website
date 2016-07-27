@@ -3,7 +3,7 @@
   // Contact: Dennis Staley,
   // Last modified: 07/27/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
-      $TITLE = '2015 Gasquet Complex Fire - Del Norte County, California';
+      $TITLE = '2015 South Complex Fire - Trinity County, California';
       $NAVIGATION = true;
       $HEAD = '
           <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
@@ -24,24 +24,24 @@
     <div class="alert">
   		<dl>
   			<dt>Date of origin:</dt>
-  			<dd>July 31, 2015</dd>
+  			<dd>August 1, 2015</dd>
 
   			<dt>Location:</dt>
-  			<dd>41.846, -123.969</dd>
+  			<dd>40.62, -123.448</dd>
 
   			<dt>Total Area Burned:</dt>
-  			<dd>122.9 km&#178;</dd>
+  			<dd>119 km&#178;</dd>
   		</dl>
-  	</div>
-  </div>
+    </div>
+	</div>
   <div class="column one-of-two">
   	<h2>Downloads</h2>
   	<p>
       Below are the shapefiles and geodatabase information that was used in the creation of the maps on this page.
     </p>
   	<ul>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (3.7MB Zip)</li>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/Shapefiles.zip">Shapefile (.shp)</a> (2.8MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150801south/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (2.7MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150801south/Shapefiles.zip">Shapefile (.shp)</a> (4.8MB Zip)</li>
       <li><a href="ftp://ftpext.cr.usgs.gov/pub/cr/co/golden/hazards/web/postfire/PostFireDFEstimates_READMEmod2010.pdf">README (PDF)</a></li>
   	</ul>
   </div>
@@ -53,5 +53,5 @@
 		src="/hazards/postfire_debrisflow/data/Probability_Legend_Basins.png"/>
 
 <?php
-include $_SERVER['DOCUMENT_ROOT'] . "/hazards/postfire_debrisflow/belowmaptext25.include";
+include $_SERVER['DOCUMENT_ROOT'] . "/hazards/postfire_debrisflow/belowmaptext2010.include";
 ?>

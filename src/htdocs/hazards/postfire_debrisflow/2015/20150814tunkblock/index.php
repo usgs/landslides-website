@@ -3,7 +3,7 @@
   // Contact: Dennis Staley,
   // Last modified: 07/27/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
-      $TITLE = '2015 Gasquet Complex Fire - Del Norte County, California';
+      $TITLE = '2015 Tunk Block Fire - Okanogan County, Washington';
       $NAVIGATION = true;
       $HEAD = '
           <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
@@ -24,30 +24,30 @@
     <div class="alert">
   		<dl>
   			<dt>Date of origin:</dt>
-  			<dd>July 31, 2015</dd>
+  			<dd>August 14, 2015</dd>
 
   			<dt>Location:</dt>
-  			<dd>41.846, -123.969</dd>
+  			<dd>48.526, -119.463</dd>
 
   			<dt>Total Area Burned:</dt>
-  			<dd>122.9 km&#178;</dd>
+  			<dd>671.4 km&#178;</dd>
   		</dl>
-  	</div>
-  </div>
+    </div>
+	</div>
   <div class="column one-of-two">
   	<h2>Downloads</h2>
   	<p>
       Below are the shapefiles and geodatabase information that was used in the creation of the maps on this page.
     </p>
   	<ul>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (3.7MB Zip)</li>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/Shapefiles.zip">Shapefile (.shp)</a> (2.8MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150814tunkblock/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (20.6MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150814tunkblock/Shapefiles.zip">Shapefile (.shp)</a> (16.2MB Zip)</li>
       <li><a href="ftp://ftpext.cr.usgs.gov/pub/cr/co/golden/hazards/web/postfire/PostFireDFEstimates_READMEmod2010.pdf">README (PDF)</a></li>
   	</ul>
   </div>
 </div>
 
-	<h2>Preliminary Hazard Assessment</h2>
+	<h3>Preliminary Hazard Assessment</h3>
 	<div id="map"></div>
 	<img alt="legend" id="layer_legend"
 		src="/hazards/postfire_debrisflow/data/Probability_Legend_Basins.png"/>

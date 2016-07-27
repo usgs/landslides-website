@@ -3,7 +3,7 @@
   // Contact: Dennis Staley,
   // Last modified: 07/27/2016, Lisa Wald
     if (!isset($TEMPLATE)) {
-      $TITLE = '2015 Gasquet Complex Fire - Del Norte County, California';
+      $TITLE = '2015 Valley Fire - Lake County, California';
       $NAVIGATION = true;
       $HEAD = '
           <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
@@ -24,24 +24,24 @@
     <div class="alert">
   		<dl>
   			<dt>Date of origin:</dt>
-  			<dd>July 31, 2015</dd>
+  			<dd>September 12, 2015</dd>
 
   			<dt>Location:</dt>
-  			<dd>41.846, -123.969</dd>
+  			<dd>38.788, -122.624</dd>
 
   			<dt>Total Area Burned:</dt>
-  			<dd>122.9 km&#178;</dd>
+  			<dd>307.8 km&#178;</dd>
   		</dl>
-  	</div>
-  </div>
+    </div>
+	</div>
   <div class="column one-of-two">
   	<h2>Downloads</h2>
   	<p>
       Below are the shapefiles and geodatabase information that was used in the creation of the maps on this page.
     </p>
   	<ul>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (3.7MB Zip)</li>
-  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150731gasquet/Shapefiles.zip">Shapefile (.shp)</a> (2.8MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150912valley/PostFireDebrisFlowEstimates.gdb.zip">Geodatabase (.gdb)</a> (7.9MB Zip)</li>
+  		<li><a href="ftp://hazards.cr.usgs.gov/web/postfire/2015/20150912valley/Shapefiles.zip">Shapefile (.shp)</a> (6.6MB Zip)</li>
       <li><a href="ftp://ftpext.cr.usgs.gov/pub/cr/co/golden/hazards/web/postfire/PostFireDFEstimates_READMEmod2010.pdf">README (PDF)</a></li>
   	</ul>
   </div>
