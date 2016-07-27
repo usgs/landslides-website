@@ -1,0 +1,11 @@
+<figure>
+  <figcaption>
+    The interactive map above displays estimates of the likelihood of debris flow (in &#37;), potential volume of debris flow (in m<sup>3</sup>), and combined relative debris flow hazard. These predictions are made at the scale of the drainage basin, and at the scale of the individual stream segment. Estimates of probability, volume, and combined hazard are based upon a design storm with a peak 15-minute rainfall intensity of 24 millimeters per hour (mm/h). Predictions may be viewed interactively by clicking on the button at the top right corner of the map displayed above.
+  </figcaption>
+</figure>
+<figure>
+  <figcaption>
+    Visit the <a href="/hazards/postfire_debrisflow/background2016.php">Scientific Background</a> page for more information on how the predictions are calculated.
+    For more information about what to do in case you live in an area where debris flows are possible, please visit <a href="/research/wildfire/whattodo.php">If you live in a recently burned area, and there is a rainstorm…</a>
+  </figcaption>
+</figure>
