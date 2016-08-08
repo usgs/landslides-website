@@ -1,7 +1,7 @@
 <?php
   // Author: Lisa Wald
   // Contact: Dennis Staley,
-  // Last modified: 07/27/2016, Lisa Wald
+  // Last modified: 08/08/2016, Greg Smoczyk
     if (!isset($TEMPLATE)) {
       $TITLE = '2016 Hayden Pass Fire - Fremont County, CO';
       $NAVIGATION = true;
