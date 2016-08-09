@@ -252,10 +252,24 @@
     "year": 2016
   },
   {
+    "name": "2016 Marina Fire",
+    "lat": 37.98,
+    "lon": -119.14,
+    "href": "2016/20160624marina/",
+    "year": 2016
+  },
+  {
     "name": "2016 Trailhead Fire",
     "lat": 38.96,
     "lon": -120.82,
     "href": "2016/20160628trailhead/",
+    "year": 2016
+  },
+  {
+    "name": "2016 Cold Springs Fire",
+    "lat": 38.98,
+    "lon": -105.48,
+    "href": "2016/20160709coldsprings/",
     "year": 2016
   }
 ]
