@@ -87,7 +87,7 @@ href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
   	effects of landslides on the coastal bluffs and thereby improve safety for
   	rail passengers.  For further information contact Rex Baum (<a
   	href="mailto:baum@usgs.gov">baum@usgs.gov</a>) or
-  	Ben Mirus (<a href="mailto:bmirus@usgs.gov">bbmirus@usgs.gov</a>).
+  	Ben Mirus (<a href="mailto:bbmirus@usgs.gov">bbmirus@usgs.gov</a>).
   </p>
 
   <h3 id="rain">Rainfall</h3>
