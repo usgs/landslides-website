@@ -1,7 +1,7 @@
 <?php
       //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified: 03/21/2016
+      //  Contact:  Jonathan Godt
+      //  Last  modified: 08/16/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Software';
       $NAVIGATION  = true;
@@ -14,7 +14,7 @@
   <a href="#scoops">Scoops3D</a>
   <a href="#slammer">SLAMMER</a>
   <a href="#trigrs">TRIGRS</a>
-  <a href="#ptcount">PTCOUNT</a> 
+  <a href="#ptcount">PTCOUNT</a>
   <a href="#janbugs">JanbuGS, BishopGS, and FelleniusGS</a>
 </nav>
 
@@ -36,18 +36,18 @@
   	<li><a href="http://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3Dexamples_1.0.zip"> Examples folder </a></li>
   </ul>
 
-  <h4>Scoops3D executable code</h4>
+  <h4>Scoops3D executable code (version 1.1)</h4>
   <p>Compiled code for Scoops3D for use at command line.  Does not include Scoops3D-i</p>
   <ul>
-  	<li> <a href="Scoops3D/Scoops3D_1.0win.exe"> 32-bit Windows Version </a></li>
-  	<li> <a href="Scoops3D/Scoops3D_1.0win64.exe"> 64-bit Windows Version </a></li>
-  	<li> <a href="Scoops3D/Scoops3D_1.0mac"> Mac Version (64-bit) </a></li>
+  	<li> <a href="Scoops3D/Scoops3D_1.1win.exe"> 32-bit Windows Version </a></li>
+  	<li> <a href="Scoops3D/Scoops3D_1.1win64.exe"> 64-bit Windows Version </a></li>
+  	<li> <a href="Scoops3D/Scoops3D_1.1mac"> Mac Version (64-bit) </a></li>
   <!--	<li> <a href="Scoops3D/Scoops3D_1.0linux"> Linux Version (64-bit) </a></li>-->
   </ul>
 
-  <h4>Scoops3D source code</h4>
+  <h4>Scoops3D source code (version 1.1)</h4>
   <ul>
-  	<li><a href="Scoops3D/Scoops3D_1.0_f90.zip">Fortran 90 code for Scoops3D </a></li>
+  	<li><a href="Scoops3D/Scoops3D_1.1_f90.zip">Fortran 90 code for Scoops3D </a></li>
   </ul>
 
   <h4>Reports</h4>

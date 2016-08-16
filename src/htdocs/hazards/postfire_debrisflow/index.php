@@ -9,7 +9,6 @@
       <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
       <link rel="stylesheet" href="hazdev-accordion.css"/>
       <link rel="stylesheet" href="index.css"/>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
   ';
   $FOOT = '
     <script src="/lib/leaflet-v0.7.7/leaflet.js"></script>
