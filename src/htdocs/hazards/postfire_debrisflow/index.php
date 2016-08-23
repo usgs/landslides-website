@@ -6,7 +6,8 @@
   $TITLE	=	'Emergency Assessment of Post-Fire Debris-Flow Hazards';
   $NAVIGATION	= true;
   $HEAD = '
-      <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
+      <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>
+      <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
       <link rel="stylesheet" href="hazdev-accordion.css"/>
       <link rel="stylesheet" href="index.css"/>
   ';
@@ -32,14 +33,10 @@
 </p>
 
 <h2>Current and Previous Year Fires</h2>
-<h5>Click on map to view information for each site. (All older fires are listed under <i>Hazard Assessments</i> section below)</h5>
 
 <!-- START Interactive Leaflet Map -->
-<div id="map"></div>
+<div class="map-placeholder"></div>
 
-<div id="year_legend">
-  <img alt="legend" src="data/flamelegend2016.png" height="115" width="103" />
-</div>
 <!-- END Map -->
 
 <div class="row">
@@ -59,7 +56,7 @@
 			    </ul>
                         </div>
             </section>
-            <section class="accordion accordion-closed" id="2015">
+            <section class="accordion" id="2015">
                 	<h4 class="accordion-toggle">2015 Fires</h4>
                         <div class="accordion-content">
                             <ul>
@@ -98,7 +95,7 @@
 						  </ul>
                         </div>
 				</section>
-                <section class="accordion accordion-closed" id="2014">
+                <section class="accordion" id="2014">
                 	<h4 class="accordion-toggle">2014 Fires</h4>
                         <div class="accordion-content">
                             <ul>
@@ -121,7 +118,7 @@
 						  </ul>
                         </div>
 				</section>
-        		<section class="accordion accordion-closed" id="2013">
+        		<section class="accordion" id="2013">
                 	<h4 class="accordion-toggle">2013 Fires</h4>
                         <div class="accordion-content">
                             <ul>
