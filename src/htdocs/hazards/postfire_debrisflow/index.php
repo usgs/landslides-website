@@ -203,7 +203,7 @@
     </ul>
 
     <h3>GIS Service Information</h3>
-    <p><a href="http://earthquake.usgs.gov/arcgis/rest/services/ls">Post-Fire Debris-Flow Hazards GIS Services</a></p>
+    <p><a href="http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer">Post-Fire Debris-Flow Hazards GIS Services</a></p>
     <p><a href="https://github.com/usgs/hazdev-gis/blob/master/documentation.md">Landslides GIS Server Documentation</a></p>
   </div>
 </div>
