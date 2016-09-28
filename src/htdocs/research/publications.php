@@ -22,7 +22,7 @@ publications are listed for recent years only, but the list includes all Landsli
 For a more comprehensive, searchable list of publications, please see the USGS Main Publication search page: <a href="http://pubs.er.usgs.gov">http://pubs.er.usgs.gov</a></p>
 
 <div class="hr_noclear"><!-- hr --></div>
-<form method="get" action="<?php echo($_SERVER['PHP_SELF']); ?>" name="list_form">
+<form method="get" action="<?php echo(htmlentities($_SERVER['PHP_SELF'])); ?>" name="list_form">
 <div class="push_right">
 
 <?php
