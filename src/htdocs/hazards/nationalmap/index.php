@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact: Jonathan Godt,
-      //  Last  modified: 03/07/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Landslide Overview Map of the Conterminous United States';
       $NAVIGATION  = true;
