@@ -55,14 +55,10 @@
     <h3>Open-File Report 97-289</h3>
     <p><a href="http://pubs.er.usgs.gov/publication/ofr97289">Digital Compilation of <strong>Landslide Overview Map of the Conterminous United States</a><em> By Dorothy  H. Radbruch-Hall, Roger B. Colton, William E. Davies, Ivo Lucchitta, Betty A. Skipp, and  David J. Varnes, 1982</em></strong><br />
     by  Jonathan W. Godt  </p>
-    <h3>Special Ordering Information</h3>
-    <p>The Digital Landslide Overview Map has now been released as a full-color, paper product. It is 48&quot; by 34&quot; in dimension, and available through the <a href="http://store.usgs.gov/">USGS Store</a> (Product #19031).</p>
-
-    <p>For complete up-to-date information about ordering this map and other USGS products please see our <a href="http://store.usgs.gov/b2c_usgs/ecall/jsp/customer/common/frameset_help.jsp" class="offsite" target="_blank"> ordering U.S. Geological Survey Products page</a>.</p>
 
     <ul class="separator">
       <li>
-        <a href="http://www.nationalatlas.gov/atlasftp.html#lsoverp" class="offsite">Shapefiles of the landslide data</a>
+        <a href="ftp://hazards.cr.usgs.gov/web/landslides-website/Landslide-US-Overview-GIS.zip" class="offsite">Shapefiles of the landslide data</a>
       </li>
       <li>
         <a href="http://pubs.usgs.gov/of/1997/ofr-97-0289/" class="offsite">Tarred and gzipped ArcInfo AMLS and associated text files (500mb when decompressed)</a>
