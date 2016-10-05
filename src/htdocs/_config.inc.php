@@ -34,7 +34,7 @@ $HEAD =
 // universal analytics (should be last in $HEAD)
   '<script id="_fed_an_ua_tag" async="async" src="' .
       '/lib/Universal-Federated-Analytics-Min.1.0.js' .
-      '?agency=DOI&amp;subagency=USGS&amp;pua=UA-23479674-1' .
+      '?agency=DOI&amp;subagency=USGS&amp;pua=UA-7320779-2' .
       '"></script>';
 
 // comments and questions default
