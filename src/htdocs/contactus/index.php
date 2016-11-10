@@ -1,7 +1,6 @@
 <?php
   // Author: Lisa Wald
   // Contact: Jonathan Godt,
-  // Last modified:
   if (!isset($TEMPLATE)) {
   $TITLE = 'Contact Us';
   $NAVIGATION = true;
@@ -36,3 +35,8 @@
   </div>
 
 </div>
+
+<h2>Landslide Questions or Website Comments</h2>
+<p>
+  Use the <a href="https://answers.usgs.gov/cgi-bin/gsanswers">Questions or comments?</a> link at the bottom of every webpage.  Then select the topic Natural Hazards.
+</p>
