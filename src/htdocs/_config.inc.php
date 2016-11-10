@@ -14,7 +14,7 @@ $SITE_SITENAV =
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
   navItem('/aboutus/', 'About Us') .
-  navItem('/contactus/', 'Contact Us') .
+  navItem('/contactus/', 'Contacts') .
   navItem('/legal.php', 'Legal');
 
 $HEAD =
@@ -39,7 +39,9 @@ $HEAD =
 
 // comments and questions default
 if (!isset($CONTACT)) {
-  $CONTACT = 'lisa@usgs.gov';
+  $CONTACT_URL = 'https://answers.usgs.gov/cgi-bin/gsanswers';
 }
-$CONTACT_URL = 'mailto:{CONTACT}?subject=LHP%20Website%20Email%20';
+else {
+  $CONTACT_URL = 'mailto:{CONTACT}?subject=Landslides%20Website%20Email%20';
+}
 ?>
