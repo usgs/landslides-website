@@ -6,7 +6,6 @@ $section = "/monitoring";
 
 	echo navGroup(("California"),
 		navItem("${section}/arroyo_seco/", "2009 Station Fire, Arroyo Seco, Pasadena CA").
-		navItem("${section}/colby/", "2014 Colby Fire, Glendora, CA").
 		navItem("${section}/dunsmore/", "2009 Station Fire, Dunsmore Canyon, Glendale, CA").
 		navItem("${section}/hwy50/", "U.S. Highway 50, CA").
 		navItem("${section}/springs/", "2013 Springs Fire, Ventura County, CA")
