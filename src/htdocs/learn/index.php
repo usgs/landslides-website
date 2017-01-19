@@ -27,19 +27,19 @@
         <p>Definitions of landslide science terms.</p>
       </li>
       <li>
+        <a	href="nationalmap/">
+          <h3>Landslide Overview Map</h3>
+          <img	src="images/nationalmap.gif"/>
+          </a>
+          <p>This map and the original delineate areas where large numbers of landslides have occurred and areas which are susceptible to landslides in the conterminous United States.</p>
+      </li>
+      <li>
         <a href="majorls.php">
           <h3>Catastrophic Landslides of the 20th Century - Worldwide</h3>
           <img src="images/majorls.jpg" alt=""/>
         </a>
         <p>and <a href="significantls.php">Significant Landslides in the United States</a></p>
       </li>
-      <li>
-        <a href="useful_links.php">
-          <h3>Additional Landslide Information</h3>
-          <img src="images/useful_links.gif" alt=""/>
-        </a>
-        <p></p>
-        </li>
     </ul>
   </div>
   <div class="column one-of-two">
@@ -65,6 +65,13 @@
         </a>
         <p>Riding The Storm - Landslide Danger in the San Francisco Bay Area: a documentary film, based on true-life landslide events. (shown on Public Broadcasting Television in certain areas on February 19,2007).</p>
       </li>
+      <li>
+        <a href="useful_links.php">
+          <h3>Additional Landslide Information</h3>
+          <img src="images/useful_links.gif" alt=""/>
+        </a>
+        <p></p>
+        </li>
     </ul>
   </div>
 </div>
