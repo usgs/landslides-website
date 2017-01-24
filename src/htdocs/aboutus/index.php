@@ -1,7 +1,6 @@
 <?php
 // Author: Virgil Muntean
 // Contact: Jonathan Godt,
-// Last modified: 12/16/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'About Us';
   $NAVIGATION = true;
@@ -29,13 +28,11 @@
     <p>
       The Landslide Hazards Program (LHP) supports the USGS mission to serve the Nation by providing reliable scientific information to minimize loss of life and property from natural disasters. The LHP's mission is to provide information that leads to the reduction of losses from landslides and increase in public safety through improved understanding of landslide hazards and strategies for hazard mitigation. In pursuit of the program mission, the LHP conducts landslide hazard assessments, pursues landslide investigations and forecasts, provides technical assistance to respond to landslide emergencies, and engages in outreach activities.
     </p>
-    <p><a href="people.php">People</a></p>
+
     <h2>Landslide Research</h2>
     <p>
       Research on landslide hazards addresses fundamental questions of where and when landslides are likely to occur; the size, speed, and effects of landslides; and how to avoid or mitigate those effects. Such research is essential if the LHP is to make significant progress in addressing landslide problems triggered by severe storms, earthquakes, volcanic activity, coastal wave attack, and wildland fires in the United States. Public and private decision makers increasingly depend on information that the LHP provides before, during, and after a disaster so that they can live, work, and build safely.
     </p>
-    <p>See <a href="meetings.php">Meetings and Conferences</a></p>
-
   </div>
 
   <div class="column one-of-two">

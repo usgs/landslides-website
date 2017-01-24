@@ -1,7 +1,6 @@
 <?php
 // Author: Lisa Wald
 // Contact: Jonathan Godt,
-// Last modified:05/09/2016, Lisa Wald
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'Landslide Hazards Program';
@@ -57,11 +56,25 @@
   <div class="column one-of-two">
     <div class='alert'>
       <h2>Highlights</h2>
+      <hr/>
+
       <a href="/research/featured/2015-westsaltcreek/">
-        <img src="/research/featured/images/westsaltcreek-sm.jpg"/>
         <h4>Reconstruction of an Avalanche</h4>
+        <img style='float:left; padding-right: 1em;' src="/research/featured/images/westsaltcreek-sm.jpg"/>
       </a>
       <p>The West Salt Creek Rock Avalanche, Colorado, May 25, 2014.</p>
+
+      <br style="clear:left;"/>
+      <hr/>
+
+      <h4>Rainfall and Landslides in California</h4>
+      <img style='float:left; padding-right: 2em;' src="/research/featured/images/bluebirdcyn2005-sm.jpg"/>
+      <ul>
+        <li><a href="research/ca-rainfall/ncal.php">Northern and Central California</a></li>
+        <li><a href="research/ca-rainfall/scal.php">Southern California</a></li>
+      </ul>
+
+
     </div>
 
     <div class='alert'>
