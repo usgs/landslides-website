@@ -13,6 +13,14 @@
   <div class="column one-of-two">
     <ul class="linklist no-style">
       <li>
+        <a href="http://www.stategeologists.org/">
+          <h3>State Geologists &amp; Geological Surveys</h3>
+          <img src="images/aasg.jpg" alt="map from AASG site"/>
+        </a>
+        <p>Geological Surveys, city and county governments, and professional consultants may have specific landslide information for your area.
+      </li>
+
+      <li>
       	<a href="ls101.php">
       		<h3>Landslides 101</h3>
           <img src="images/ls101.gif" alt="landslide sketch"/>
@@ -25,13 +33,6 @@
           <img src="images/glossary.gif" alt="glossary sketch"/>
         </a>
         <p>Definitions of landslide science terms.</p>
-      </li>
-      <li>
-        <a	href="nationalmap/">
-          <h3>Landslide Overview Map</h3>
-          <img	src="images/nationalmap.gif"/>
-          </a>
-          <p>This map and the original delineate areas where large numbers of landslides have occurred and areas which are susceptible to landslides in the conterminous United States.</p>
       </li>
       <li>
         <a href="majorls.php">
@@ -52,18 +53,18 @@
         <p>Landslide warning signs, what to do before, during, and after a landslide.</p>
       </li>
       <li>
-        <a href ="photos/">
-          <h3>Photo Collections</h3>
-          <img src="images/photos.gif"/>
-        </a>
-        <p>Photographs of landslides and landslide effects.</p>
-      </li>
-      <li>
         <a href="movie/">
           <h3>Landslide Hazards Video</h3>
           <img src="images/video.gif" alt=""/>
         </a>
         <p>Riding The Storm - Landslide Danger in the San Francisco Bay Area: a documentary film, based on true-life landslide events. (shown on Public Broadcasting Television in certain areas on February 19,2007).</p>
+      </li>
+      <li>
+        <a href ="photos/">
+          <h3>Photo Collections</h3>
+          <img src="images/photos.gif"/>
+        </a>
+        <p>Photographs of landslides and landslide effects.</p>
       </li>
       <li>
         <a href="useful_links.php">

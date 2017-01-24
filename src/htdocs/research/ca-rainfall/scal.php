@@ -1,9 +1,8 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 03/24/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'El Ni&ntilde;o and Landslides in Southern California';
+      $TITLE  =  'Rainfall and Landslides in Southern California';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
@@ -17,10 +16,11 @@
 </figure>
 
 <p>
-  Like the northern part of the state, southern California is well known to be susceptible to landslides. Some are triggered by earthquakes, but more frequently landslides are caused by intense and/or prolonged rainfall. Some, but not all, of the major winter storms that have caused landslide fatalities and property damage in southern California have occurred during <a href="http://geochange.er.usgs.gov/sw/changes/natural/elnino/">El Ni&ntilde;o</a> (1997-98 info) conditions.
-The USGS has a long history of research to identify landslide hazards in southern California (see <a href="http://pubs.usgs.gov/fs/2005/3107/">USGS Fact Sheet on landslides in southern California</a>). Below is a summary of reports and maps to identify hazards associated with different types of landslides in this part of the state.
+  Like the northern part of the state, southern California is well known to be susceptible to landslides (see <a href="https://pubs.er.usgs.gov/publication/ofr0317">Preliminary soil-slip susceptibility maps, southwestern California</a> - Open-File Report 2003-17). Some are triggered by earthquakes, but more frequently landslides are caused by intense and/or prolonged rainfall. Some, but not all, of the major winter storms that have caused landslide fatalities and property damage in southern California have occurred during <a href="http://geochange.er.usgs.gov/sw/changes/natural/elnino/">El Ni&ntilde;o</a> (1997-98 info) conditions.
 </p>
-
+<p>
+  The USGS has a long history of research to identify landslide hazards in southern California (see <a href="http://pubs.usgs.gov/fs/2005/3107/">USGS Fact Sheet on landslides in southern California</a>). Below is a summary of reports and maps to identify hazards associated with different types of landslides in this part of the state.
+</p>
 <p>
   These reports and maps can be used as examples of what may occur during the upcoming 2015-2016 El Ni&ntilde;o season if heavy precipitation occurs.
 </p>

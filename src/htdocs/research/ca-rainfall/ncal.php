@@ -1,23 +1,22 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 03/24/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'El Ni&ntilde;o and Landslides in Northern and Central California';
+      $TITLE  =  'Rainfall and Landslides in Northern and Central California';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
 ?>
 
 <figure class="right" style="width:350px">
-  <img src="images/berkeley.jpg" alt="???"/>
+  <img src="images/berkeley.jpg" alt="photo of Berkeley Hills showing a small landslide"/>
   <figcaption>
   A landslide in the Berkeley hills of the San Francisco Bay area during April 2006.  The black tarps cover the headscarp (top of landslide) in order to prevent additional infiltration by rainfall. (Photo Credit, Brian Collins, USGS)
   </figcaption>
 </figure>
 
 <p>
-  California is well-known to be susceptible to landslides.  Landslides in the state generally occur due to precipitation, and to a lesser extent, earthquakes.  Historically, large winter storms have caused the most damage, and in the highly developed San Francisco Bay area these impacts have sometimes been quite severe causing both fatalities and significant property damage (for example the January 1982 winter storm - see <a href="http://pubs.usgs.gov/pp/1988/1434/">USGS Professional Paper 1434</a>).
+  California is well-known to be susceptible to landslides (see <a href="https://pubs.er.usgs.gov/publication/ofr0317">Preliminary soil-slip susceptibility maps, southwestern California</a> - USGS Open-File Report 2003-17).  Landslides in the state generally occur due to precipitation, and to a lesser extent, earthquakes.  Historically, large winter storms have caused the most damage, and in the highly developed San Francisco Bay area these impacts have sometimes been quite severe causing both fatalities and significant property damage (for example the January 1982 winter storm - see <a href="http://pubs.usgs.gov/pp/1988/1434/">USGS Professional Paper 1434</a>).
 </p>
 <p>
   <a href="http://geochange.er.usgs.gov/sw/changes/natural/elnino/">El Ni&ntilde;o</a> (1997-98 info), the warm phase of the El Ni&ntilde;o Southern Oscillation (commonly called ENSO), is associated with a band of warm central and east-central equatorial Pacific Ocean water (see <a href="http://www.elnino.noaa.gov/">NOAA El Ni&ntilde;o Portal</a>). ENSO cycles are known to cause global changes of both temperatures and rainfall. Although some rainy winter seasons in California are related to El Ni&ntilde;o events (see <a href="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ensoyears.shtml">NOAA National Weather Service Oceanic Ni&ntilde;o Index</a>), not all El Ni&ntilde;o periods have resulted in significant precipitation (see <a href="http://ca.gov/Drought/pdf/Drought_ENSO_handout.pdf">"Will El Ni&ntilde;o Make a Difference? Maybe Not"</a> - California Dept. of Water Resources).
