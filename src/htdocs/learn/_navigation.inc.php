@@ -7,7 +7,6 @@ echo navGroup(navItem('/learn/','Learn'),
   navItem('/learn/majorls.php', 'Catastrophic Landslides') .
   navItem('/learn/prepare.php', 'Landslide Preparedness') .
   navItem('/learn/movie/', 'Landslide Hazards Video') .
-  navItem('/learn/photos/', 'Photo Collections') .
   navItem('/learn/useful_links.php', 'Additional Landslide Information')
 );
 ?>

@@ -65,6 +65,7 @@
         </a>
         <p>Riding The Storm - Landslide Danger in the San Francisco Bay Area: a documentary film, based on true-life landslide events. (shown on Public Broadcasting Television in certain areas on February 19,2007).</p>
       </li>
+      <!-- PHOTOS
       <li>
         <a href ="photos/">
           <h3>Photo Collections</h3>
@@ -72,6 +73,7 @@
         </a>
         <p>Photographs of landslides and landslide effects.</p>
       </li>
+      -->
       <li>
         <a href="useful_links.php">
           <h3>Additional Landslide Information</h3>
