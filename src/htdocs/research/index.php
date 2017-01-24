@@ -9,7 +9,7 @@
 ?>
 
 <div class="row">
-  
+
   <div class="column one-of-two">
     <ul class="linklist no-style">
       <li>
@@ -41,9 +41,11 @@
       </li>
     </ul>
 
-      <h2>Rainfall and Landslides in California</h2>
-      <img style='float:left, padding-right: 16em' src="featured/images/bluebirdcyn2005-sm.jpg"/>
-      <p><a href="ca-rainfall/ncal.php">Rainfall and Landslides in Northern and Central California</a></p>
-      <p><a href="ca-rainfall/scal.php">Rainfall and Landslides in Southern California</a></p>
+    <h2>Rainfall and Landslides in California</h2>
+    <img style='float:left; padding-right: 2em;' src="featured/images/bluebirdcyn2005-sm.jpg"/>
+    <ul>
+      <li><a href="ca-rainfall/ncal.php">Rainfall and Landslides in Northern and Central California</a></li>
+      <li><a href="ca-rainfall/scal.php">Rainfall and Landslides in Southern California</a></li>
+    </ul>
   </div>
 </div>

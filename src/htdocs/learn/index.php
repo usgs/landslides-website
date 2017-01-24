@@ -1,7 +1,6 @@
 <?php
   // Author: Tiffany Kalin
   // Contact: Jonathan Godt,
-  // Last modified: 01/13/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Learn';
   $NAVIGATION = true;
@@ -33,6 +32,13 @@
           <img src="images/glossary.gif" alt="glossary sketch"/>
         </a>
         <p>Definitions of landslide science terms.</p>
+      </li>
+      <li>
+        <a href="https://www.usgs.gov/faq/?q=taxonomy/term/9752">
+          <h3>Frequently Asked Questions (FAQ)</h3>
+          <img src="images/faq.gif" alt="FAQ"/>
+        </a>
+        <p>If you have a question about landsides, check here first.</p>
       </li>
       <li>
         <a href="majorls.php">
