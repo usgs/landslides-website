@@ -2,7 +2,7 @@
   //	Author:	Tiffany Kalin
   //	Contact: Jonathan Godt,
   if	(!isset($TEMPLATE))	{
-  $TITLE	=	'Hazards';
+  $TITLE	=	'Post-Fire Debris-Flow Hazards';
   $NAVIGATION	= true;
   include	'template.inc.php';
   }
