@@ -40,26 +40,17 @@
 
     <img src="images/landslide_monitor.gif" alt="diagram of a typical landslide monitoring setup"/>
 
-    <h2>Disclaimer</h2>
-    <p>
-      This monitoring site was operated as part of a research project. Active data collection may be discontinued at any time in the future.
-    </p>
-    <p>
-      These data are preliminary and have not received final approval. Data relayed by radio or other telemetry have received little or no review. Inaccuracies in the data may be present because of instrument malfunctions or physical changes at the measurement site. Subsequent review may result in significant revisions to the data.
-    </p>
-
-    <p>
-      Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.
-    </p>
   </div>
 
   <div class="column one-of-three">
 
-    <h2>El Ni&ntilde;o Information</h2>
+<!-- +++++++++++++ EL NINO WEBPAGES ++++++++++++++
+<h2>El Ni&ntilde;o Information</h2>
     <ul class="spaced">
       <li><a href="2015elnino/ncal.php">El Ni&ntilde;o and Landslides in Northern and Central California</a></li>
       <li><a href="2015elnino/scal.php">El Ni&ntilde;o and Landslides in Southern California</a></li>
     </ul>
+-->
 
     <h2>Preparedness</h2>
     <ul class="spaced">
@@ -67,11 +58,23 @@
       <li><a class="offsite" href="http://www.redcross.org/services/disaster/0,1082,0_588_,00.html" target="_blank">Landslide Preparedness &amp; Safety Information</a></li>
     </ul>
 
-    <h2 class="spaced">Monitoring Publications</h2>
+    <h2 class="spaced">Monitoring Information and Publications</h2>
     <ul>
+      <li><a href="/research/rtmonitoring/">Real-time Monitoring for Potential Landslides</a></li>
       <li><a href="/docs/reid/Reid_etal_ISL_2008.pdf">Capturing Landslide Dynamics and Hydrologic Triggers Using Near-Real-Time Monitoring (PDF)</a></li>
     <li><a class="offsite" href="http://pubs.usgs.gov/fs/2012/3008/">Real-Time Monitoring of Landslides</a></li>
     </ul>
+
+    <h2>Disclaimer</h2>
+    <p>
+      Monitoring sites are operated as part of a research project. Active data collection may be discontinued at any time in the future.
+    </p>
+    <p>
+      These data are preliminary and have not received final approval. Data relayed by radio or other telemetry have received little or no review. Inaccuracies in the data may be present because of instrument malfunctions or physical changes at the measurement site. Subsequent review may result in significant revisions to the data.
+    </p>
+    <p>
+      Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.
+    </p>
 
   </div>
 </div>

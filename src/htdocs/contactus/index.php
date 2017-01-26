@@ -8,6 +8,10 @@
   }
 ?>
 
+<h2>Landslide Hazards Program Coordinator</h2>
+
+<a href="mailto:jgodt@usgs.gov">Jonathan Godt</a>
+
 <h2>Mailing Addresses</h2>
 <div class="row">
 

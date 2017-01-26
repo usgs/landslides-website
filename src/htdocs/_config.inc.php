@@ -4,9 +4,8 @@ $SITE_URL = 'http://landslides.usgs.gov';
 
 // navigation above search, below section navigation
 $SITE_SITENAV =
-  '<a href="/hazards/">Hazards</a>' .
+  '<a href="/hazards/">Post-Fire Debris-Flow Hazards</a>' .
   '<a href="/monitoring/">Monitoring</a>' .
-  '<a href="/state_local/">State &amp; Local</a>' .
   '<a href="/learn/">Learn</a>' .
   '<a href="/research/">Research</a>';
 
