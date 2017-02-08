@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  03/22/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'State &amp; Local Information';
       $NAVIGATION  = true;
@@ -33,7 +32,7 @@
         <p>San Francisco Bay Region Landslide Information.</p>
       </li>
       <li>
-        <a  href="http://pubs.er.usgs.gov/publication/ofr0317">
+        <a  href="https://pubs.er.usgs.gov/publication/ofr0317">
           <h4>Southwest California</h4>
           <img  src="images/sw_calif.jpg"/>
         </a>
@@ -63,7 +62,7 @@
 
     <p>
       <figure class="left"><img src="images/coopmap.gif" alt="coop map" /></figure>
-      The <a href="http://ncgmp.usgs.gov/">National Cooperative Geologic Mapping Program (NCGMP)</a> is a critical asset in the mapping of older, historical landslides as well as recent occurrences.
+      The <a href="https://ncgmp.usgs.gov/">National Cooperative Geologic Mapping Program (NCGMP)</a> is a critical asset in the mapping of older, historical landslides as well as recent occurrences.
     </p>
 
   </div>

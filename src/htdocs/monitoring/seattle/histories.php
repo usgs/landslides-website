@@ -22,18 +22,18 @@
 </nav>
 
 <h2 id="03-04b">October 20, 2004</h2>
-	<p><img src="http://landslides.usgs.gov/monitoring/seattle/images/seathresh1020.png" alt="15-day cumulative precipitation graph">
-	<img src="http://landslides.usgs.gov/monitoring/seattle/images/seathreshia1020.png" alt="precipitation intensity and 5-day cumulative total graph">
+	<p><img src="/monitoring/seattle/images/seathresh1020.png" alt="15-day cumulative precipitation graph">
+	<img src="/monitoring/seattle/images/seathreshia1020.png" alt="precipitation intensity and 5-day cumulative total graph">
 
-	<img src="http://landslides.usgs.gov/monitoring/seattle/images/seathreshid1020.png" alt="precipitation intentsity and duration graph"></p>
+	<img src="/monitoring/seattle/images/seathreshid1020.png" alt="precipitation intentsity and duration graph"></p>
 	<strong>Explanation</strong>
-    <p>The graphs above show precipitation conditions at 3:00 p.m. PDT (2:00 p.m. PST) on October 20, 2003, relative to three precipitation thresholds for the occurrence of landslides that have been developed by the USGS for the Seattle area.  The top graph shows conditions in relation to the <a href="http://pubs.usgs.gov/of/2000/ofr-00-0469/" target="_blank">three-day and fifteen day antecedent precipitation threshold</a>.  The middle graph shows conditions in relation to a precipitation-intensity and pre-storm antecedent precipitation threshold.  The lower graph shows conditions in relation to a precipitation-intensity and duration threshold.  The two precipitation intensity thresholds were developed by Jonathan Godt of the USGS on the basis of statistical analysis of landslide-triggering precipitation events and point out the significance of rainfall intensity, antecedent conditions, and total precipitation in causing landslides in the Seattle area. A six-hour running average is the basis for rainfall intensity used in Godt's thresholds; although somewhat arbitrary, the 6-hour average intensity gave the statistically best fit to the data on landslide occurrence.  A report describing these thresholds is currently in review.</p>
+    <p>The graphs above show precipitation conditions at 3:00 p.m. PDT (2:00 p.m. PST) on October 20, 2003, relative to three precipitation thresholds for the occurrence of landslides that have been developed by the USGS for the Seattle area.  The top graph shows conditions in relation to the <a href="https://pubs.usgs.gov/of/2000/ofr-00-0469/" target="_blank">three-day and fifteen day antecedent precipitation threshold</a>.  The middle graph shows conditions in relation to a precipitation-intensity and pre-storm antecedent precipitation threshold.  The lower graph shows conditions in relation to a precipitation-intensity and duration threshold.  The two precipitation intensity thresholds were developed by Jonathan Godt of the USGS on the basis of statistical analysis of landslide-triggering precipitation events and point out the significance of rainfall intensity, antecedent conditions, and total precipitation in causing landslides in the Seattle area. A six-hour running average is the basis for rainfall intensity used in Godt's thresholds; although somewhat arbitrary, the 6-hour average intensity gave the statistically best fit to the data on landslide occurrence.  A report describing these thresholds is currently in review.</p>
     <p>Heavy precipitation on October 20 resulted in conditions that exceeded all three of the precipitation thresholds.  Hourly precipitation amounts between one-quarter and one-half inch during the morning of October 20 resulted in a maximum 6-hour average intensity of about one-third of an inch per hour at the time these graphs were plotted.  The number of landslides that occurred in Seattle and its immediate vicinity is still undetermined.  The storm of October 20 came at the end of a summer drought and the soil was still dry.  Precipitation earlier in the month had not wetted the soil significantly below the ground surface.</p>
     <p><a href="#startcontentyearsea">Back to top</a></p>
 
 
 <h2 id="03-04">October 15-24, 2004</h2>
-    <p><img src="http://landslides.usgs.gov/monitoring/seattle/images/stormhist4.jpg" alt="15-day cumulative precipitation graph">
+    <p><img src="/monitoring/seattle/images/stormhist4.jpg" alt="15-day cumulative precipitation graph">
 	<strong>Explanation</strong>
     <p>This graph shows the trajectory history of cumulative rainfall and rainfall intensity in the northeast Seattle area during the period October 15 to October 24, 2003 (color coded line) in relation to the 3-day/prior 15-day cumulative precipitation threshold for landslides (dashed red line). Rainfall intensity categories are shown in the table of color coded values on the right side of the graph. Arrows indicate beginnings of days in the period. The cumulative rainfall totals and rainfall intensities indicated by the trajectory history are based on hourly rainfall data from City of Seattle <a href="rtdmonitoring.php#field">rain gauge no. 2</a> located in northeast Seattle.</p>
 
@@ -42,7 +42,7 @@
 	<p><a href="#startcontentyearsea">Back to top</a></p>
 
 <h2 id="02-03">December 10-21, 2002</h2>
-	<p><img src="http://landslides.usgs.gov/monitoring/seattle/images/stormhist2.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"></p>
+	<p><img src="/monitoring/seattle/images/stormhist2.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"></p>
 	<strong>Explanation</strong>
     <p>This graph shows the trajectory history of cumulative rainfall and rainfall intensity in east-central Seattle during the period December 10 - 20, 2002 (color coded line) in relation to the 3-day/prior 15-day cumulative precipitation threshold for landslides (dashed red line). Rainfall intensity categories are shown in the table of color coded values on the right side of the graph. Arrows indicate beginnings of days in the period. The cumulative rainfall totals and rainfall intensities indicated by the trajectory history are based on hourly rainfall data from City of Seattle <a href="rtdmonitoring.php#field">rain gauge no. 20</a> located in east-central Seattle.</p>
 
@@ -51,7 +51,7 @@
 
 <h2 id="01-02">November 13-26, 2001</h2>
 
-	<p><img src="http://landslides.usgs.gov/monitoring/seattle/images/stormhist.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"></p>
+	<p><img src="/monitoring/seattle/images/stormhist.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"></p>
 	<strong>Explanation</strong>
     <p>This graph shows the trajectory history of cumulative rainfall and rainfall intensity in northeast Seattle during the period November 13 - 26, 2001 (color coded line) in relation to landslide occurrences (triangles) and the 3-day/prior 15-day cumulative precipitation threshold for landslides (dashed red line). Rainfall intensity categories are shown in the table of color coded values on the right side of the graph. Arrows indicate beginnings of days in the period. The cumulative rainfall totals and rainfall intensities indicated by the trajectory history are based on hourly rainfall data from City of Seattle <a href="rtdmonitoring.php#field">rain gauge no. 2</a> located in northeast Seattle.</p>
 
@@ -61,7 +61,7 @@
 
 <h2 id="96-97">March 15-April 3, 1997</h2>
 
-	<p><img src="http://landslides.usgs.gov/monitoring/seattle/images/stormhist3.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"> </p>
+	<p><img src="/monitoring/seattle/images/stormhist3.jpg" alt="15-day cumulative precipitation graph" width="683" height="467"> </p>
 
   	<strong>Explanation</strong>
   	<p>This graph shows the trajectory history of cumulative rainfall and rainfall intensity in the West Seattle area during the period March 15 to April 3, 1997 (color coded line) in relation to the 3-day/prior 15-day cumulative precipitation threshold for landslides (dashed red line). Rainfall intensity categories are shown in the table of color coded values on the right side of the graph. Arrows indicate beginnings of days in the period. The cumulative rainfall totals and rainfall intensities indicated by the trajectory history are based on hourly rainfall data from City of Seattle <a href="rtdmonitoring.php#field">rain gauge no. 14</a> that, in 1997, was located in West Seattle.</p>

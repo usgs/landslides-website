@@ -51,7 +51,7 @@
 
     <h2>For More Information</h2>
     <p>
-      <a href="http://pubs.usgs.gov/of/2013/1283/">Hydrologic Monitoring of a Landslide-Prone Hillslope in the Elliott State Forest, Southern Coast Range, Oregon, 2009–2012</a> (OFR-2013-1283).
+      <a href="https://pubs.usgs.gov/of/2013/1283/">Hydrologic Monitoring of a Landslide-Prone Hillslope in the Elliott State Forest, Southern Coast Range, Oregon, 2009–2012</a> (OFR-2013-1283).
     </p>
 
     <hr/>

@@ -81,7 +81,7 @@
       <h2>Quick Links</h2>
       <ul>
         <li><a href="hazards/postfire_debrisflow/">Emergency Assessment of Post-Fire Debris-Flow Hazards</a></li>
-        <li><a href="http://www.usgs.gov/faq/?q=taxonomy/term/9752" target="_"><acronym title="Frequently Asked Questions">FAQ</acronym></a></li>
+        <li><a href="https://www2.usgs.gov/faq/?q=taxonomy/term/9752" target="_"><acronym title="Frequently Asked Questions">FAQ</acronym></a></li>
         <li><a href="/research/publications.php#factsheets">Fact Sheets</a></li>
         <li><a href="/learn/prepare.php">Preparedness</a></li>
       </ul>
