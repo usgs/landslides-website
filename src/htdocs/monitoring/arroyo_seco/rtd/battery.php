@@ -8,5 +8,5 @@ include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 </p>
 
 <div align="center">
-	<img alt="1 week" src="http://landslides.usgs.gov/realtime/plots/caArroyoSeco_batteryVoltageTemp_oneWeek.png">
+	<img alt="1 week" src="/realtime/plots/caArroyoSeco_batteryVoltageTemp_oneWeek.png">
 </div>

@@ -25,11 +25,11 @@
   <h3>Rainfall</h3>
   <div align="center">
     <img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmoreChannel_precip1_oneWeek.png">
+  	src="/realtime/plots/caDunsmoreChannel_precip1_oneWeek.png">
   </div>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/DunsmoreChannel_precip2_oneWeek.png">
+  	src="/realtime/plots/DunsmoreChannel_precip2_oneWeek.png">
   </div>
 <h2 id="ground">Soil Water Content and Ground Water Pressure</h2>
   <p>
@@ -41,19 +41,19 @@
   <h3>Soil Pit 1</h3>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmoreHillside_VWCSP1_oneWeek.png">
+  	src="/realtime/plots/caDunsmoreHillside_VWCSP1_oneWeek.png">
   </div>
 
   <h3>Soil Pit 2</h3>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmoreHillside_VWCPresSP2_oneWeek.png">
+  	src="/realtime/plots/caDunsmoreHillside_VWCPresSP2_oneWeek.png">
   </div>
 
   <h3>Soil Pit 3</h3>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmoreChannel_VWC_oneWeek.png">
+  	src="/realtime/plots/caDunsmoreChannel_VWC_oneWeek.png">
   </div>
 <h2 id="channel">Channel Stage</h2>
   <p>
@@ -62,7 +62,7 @@
   </p>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmoreChannel_stg_oneWeek.png">
+  	src="/realtime/plots/caDunsmoreChannel_stg_oneWeek.png">
   </div>
 <h2 id="battery">Battery Voltage</h2>
   <p>
@@ -71,5 +71,5 @@
   </p>
   <div align="center">
   	<img alt="1 week"
-  	src="http://landslides.usgs.gov/realtime/plots/caDunsmore_batteryVoltageTemp_oneWeek.png">
+  	src="/realtime/plots/caDunsmore_batteryVoltageTemp_oneWeek.png">
   </div>

@@ -31,7 +31,7 @@
 
 <img src="/monitoring/seattle/images/NWSRainGaugeNetwk.jpg" alt="" />
 <?php
-$contents = file( 'http://landslides.usgs.gov/realtime/plots/ThCurrTabl.htm');
+$contents = file( '/realtime/plots/ThCurrTabl.htm');
 print join('', $contents);
 ?>
 <ul>
@@ -42,19 +42,19 @@ print join('', $contents);
 <p>Graph shows cumulative precipitation threshold for landslides (red line) and most recent update of 3-day and prior 15-day cumulative precipitation at selected National Weather Service Gages (symbols).  Landslides are likely to occur on days when precipitation totals exceed the threshold (plot above or to the right of the red line). Landslides are unlikely to occur when precipitation totals plot below the red line, in the lower left corner of graph.  Please direct questions or comments regarding this information to <a
 href="mailto:baum@usgs.gov">Rex Baum</a>.
 </p>
-<img src="http://landslides.usgs.gov/realtime/plots/cmtrsea.png" alt="Cumulative Precipitation Thresholds for Landslides" />
+<img src="/realtime/plots/cmtrsea.png" alt="Cumulative Precipitation Thresholds for Landslides" />
 
 <h3 id="nws-int">Rainfall Intensity/Duration Threshold</h3>
 <p>Graph shows rainfall intensity-duration threshold for landslides in the Seattle area (red line) and most recent update of rainfall intensity and duration at selected National Weather Service Rain Gages (Symbols).  Landslides are very likely to occur when rainfall intensity plots above the red line.  Please direct questions or comments regarding this information to <a
 href="mailto:baum@usgs.gov">Rex Baum</a>.
 </p>
-<img src="http://landslides.usgs.gov/realtime/plots/idtrsea.png" alt="Rainfall Intensity/Duration Threshold" />
+<img src="/realtime/plots/idtrsea.png" alt="Rainfall Intensity/Duration Threshold" />
 
 <h3 id="nws-wet">Antecedent Wetness Index (AWI)</h3>
 <p>Graph shows the Antecedent Wetness Index (AWI) for landslides in the Seattle area for the last fourteen days at selected National Weather Service Rain Gages (colored lines). The AWI uses a water-balance approach to estimate whether soil is likely to be wet enough for landslides to occur as a result of additional, intense rainfall.  Landslides are very likely to occur when the index plots above the black line and intense rainfall occurs (see graph for the rainfall intensity-duration threshold, above). Please direct questions or comments regarding this information to <a
 href="mailto:baum@usgs.gov">Rex Baum</a> or <a href="mailto:jgodt@usgs.gov">Jonathan Godt</a>.
 </p>
-<img src="http://landslides.usgs.gov/realtime/plots/awi.png" alt="Rainfall Intensity/Duration Threshold" />
+<img src="/realtime/plots/awi.png" alt="Rainfall Intensity/Duration Threshold" />
 
 <h3 id="nws-forecast">Forecast Relative to Threshold</h3>
 <p>
@@ -69,7 +69,7 @@ below the red line, in the lower left corner of graph. Please direct questions
 or comments regarding this information to Rex Baum (<a
 href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
 </p>
-<img src="http://landslides.usgs.gov/realtime/plots/forecast.png" alt="Forcast graph"/>
+<img src="/realtime/plots/forecast.png" alt="Forcast graph"/>
 
 
 
@@ -95,13 +95,13 @@ href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
   Rainfall is measured using tipping-bucket rain gauges at four locations along
   the west edge of Mukilteo.
   </p>
-  <img src="http://landslides.usgs.gov/realtime/plots/Muk_rain_in.png" alt="Rainfall at Mukilteo Stations"/>
+  <img src="/realtime/plots/Muk_rain_in.png" alt="Rainfall at Mukilteo Stations"/>
 
   <h3 id="thresh">Rainfall Relative to Threshold</h3>
     <p>
     Conditions relative to cumulative 3-day and previous 15-day threshold
     </p>
-    <img src="http://landslides.usgs.gov/realtime/plots/Muk_cmtr.png" alt="Rainfall relative to threshold"/>
+    <img src="/realtime/plots/Muk_cmtr.png" alt="Rainfall relative to threshold"/>
 
   <h3 id="soil">Soil Water Content</h3>
   <p>
@@ -109,7 +109,7 @@ href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
   profiles along the bluff in the active landslide area and stable bluff.  Points
   are numbered from highest (1) to lowest (5).
   </p>
-  <img src="http://landslides.usgs.gov/realtime/plots/Muk_VWC.png" alt="Soil Water Content" />
+  <img src="/realtime/plots/Muk_VWC.png" alt="Soil Water Content" />
 
   <h3 id="suc">Soil Suction</h3>
   <p>
@@ -117,7 +117,7 @@ href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
   bluff in the active landslide area and stable bluff.  The tensiometers are
   located near the three mid-bluff water content sensors (2, 3, 4).
   </p>
-  <img src="http://landslides.usgs.gov/realtime/plots/Muk_Tensiometer_Press.png" alt="Soil Suction"/>
+  <img src="/realtime/plots/Muk_Tensiometer_Press.png" alt="Soil Suction"/>
 
   <h3 id="water">Water Levels</h3>
   <p>
@@ -125,10 +125,10 @@ href="mailto:baum@usgs.gov">baum@usgs.gov</a>).
   profiles.  The piezometers are located near the highest (1) and lowest (5) water
   content sensors.
   </p>
-  <img src="http://landslides.usgs.gov/realtime/plots/Muk_lvl.png" alt="Water Levels" />
+  <img src="/realtime/plots/Muk_lvl.png" alt="Water Levels" />
 
 <h3 id="battery">Battery</h3>
   <p>
   Battery voltages at each station
   </p>
-  <img src="http://landslides.usgs.gov/realtime/plots/Muk_battery.png" alt="Batterie Voltages"/>
+  <img src="/realtime/plots/Muk_battery.png" alt="Batterie Voltages"/>

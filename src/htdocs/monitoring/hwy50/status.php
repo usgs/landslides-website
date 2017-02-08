@@ -11,5 +11,5 @@
 
   echo '<a id="startcontentyear50"></a>';
   echo file_get_contents(
-      'http://landslides.usgs.gov/realtime/hwy50/current_status.htm');
+      '/realtime/hwy50/current_status.htm');
 ?>

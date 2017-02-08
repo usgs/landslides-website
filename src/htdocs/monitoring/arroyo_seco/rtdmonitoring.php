@@ -25,11 +25,11 @@
 
   <h3>2 Weeks</h3>
   <a name="2weeks"><div align="center"></a>
-  	<img alt="2 weeks" src="http://landslides.usgs.gov/realtime/plots/caArroyoSecoChannel_precip1_oneWeek.png">
+  	<img alt="2 weeks" src="/realtime/plots/caArroyoSecoChannel_precip1_oneWeek.png">
   </div>
   <h3>1 Week</h3>
   <a name="1week"><div align="center"></a>
-  	<img alt="1 week" src="http://landslides.usgs.gov/realtime/plots/caArroyoSecoChannel_precip2_oneWeek.png">
+  	<img alt="1 week" src="/realtime/plots/caArroyoSecoChannel_precip2_oneWeek.png">
   </div>
 <h2 id="ground">Soil Water Content and Ground Water Pressure</h2>
   <p>
@@ -41,17 +41,17 @@
 
   <h3>Soil Pit 1<a name="soilpit1"></a></h3>
   <div align="center">
-  	<img alt="Soil Pit 1" src="http://landslides.usgs.gov/realtime/plots/caArroyoSecoHillside_VWCPresSP1_oneWeek.png">
+  	<img alt="Soil Pit 1" src="/realtime/plots/caArroyoSecoHillside_VWCPresSP1_oneWeek.png">
   </div>
 
   <h3>Soil Pit 2<a name="soilpit2"></a></h3>
   <div align="center">
-  	<img alt="Soil Pit 2" src="http://landslides.usgs.gov/realtime/plots/caArroyoSecoHillside_VWCSP2_oneWeek.png">
+  	<img alt="Soil Pit 2" src="/realtime/plots/caArroyoSecoHillside_VWCSP2_oneWeek.png">
   </div>
 
   <h3>Soil Pit 3<a name="soilpit3"></a></h3>
   <div align="center">
-  	<img alt="Soil Pit 3" src="http://landslides.usgs.gov/realtime/plots/caArroyoSecoChannel_VWC_oneWeek.png">
+  	<img alt="Soil Pit 3" src="/realtime/plots/caArroyoSecoChannel_VWC_oneWeek.png">
   </div>
 
 <h2 id="channel">Channel Stage</h2>
@@ -61,7 +61,7 @@
   </p>
 
   <div align="center">
-  	<img alt="1 week" src="http://landslides.usgs.gov/realtime/plots/ArroyoSecoChannel_stgPres_oneWeek.png">
+  	<img alt="1 week" src="/realtime/plots/ArroyoSecoChannel_stgPres_oneWeek.png">
   </div>
 <h2 id="battery">Battery Voltage</h2>
   <p>
@@ -70,5 +70,5 @@
   </p>
 
   <div align="center">
-  	<img alt="1 week" src="http://landslides.usgs.gov/realtime/plots/caArroyoSeco_batteryVoltageTemp_oneWeek.png">
+  	<img alt="1 week" src="/realtime/plots/caArroyoSeco_batteryVoltageTemp_oneWeek.png">
   </div>

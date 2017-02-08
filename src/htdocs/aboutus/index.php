@@ -52,7 +52,7 @@
       <li>Provide landslide hazard information and studies of landslide hazard mitigation</li>
     </ul>
 
-    <p><a href="http://pubs.usgs.gov/circ/c1244/">USGS Circular 1244: National Landslide Hazards Mitigation Strategy</a></p>
+    <p><a href="https://pubs.usgs.gov/circ/c1244/">USGS Circular 1244: National Landslide Hazards Mitigation Strategy</a></p>
     <p><a href="http://www.nap.edu/catalog/10946.html">National Research Council (NRC) Review</a></p>
   </div>
 </div>

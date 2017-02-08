@@ -44,10 +44,10 @@ if (!isset($TEMPLATE)) {
 	<div class="column one-of-two">
 		<h2>Other Resources</h2>
 			<ul class="spaced">
-				<li><a href="http://pubs.usgs.gov/fs/2005/3104/">Warning System Fact Sheet</a></li>
-				<li><a href="http://pubs.usgs.gov/circ/2005/1283/">Warning System Report</a></li>
-				<li><a href="http://www.nws.noaa.gov/nwr/">NOAA Weather Radio</a></li>
-				<li><a href="http://www.usgs.gov/natural_hazards/#fire">USGS Wildfire Hazards</a></li>
+				<li><a href="https://pubs.usgs.gov/fs/2005/3104/">Warning System Fact Sheet</a></li>
+				<li><a href="https://pubs.usgs.gov/circ/2005/1283/">Warning System Report</a></li>
+				<li><a href="https://www.nws.noaa.gov/nwr/">NOAA Weather Radio</a></li>
+				<li><a href="https://www.usgs.gov/natural_hazards/#fire">USGS Wildfire Hazards</a></li>
 			</ul>
 	</div>
 </div>

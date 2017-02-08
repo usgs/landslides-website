@@ -43,7 +43,7 @@
 
     <ul class="referencelist">
 
-      <li><a href="http://pubs.usgs.gov/pp/p1183/pp1183.html" target="_blank" class="offsite">Radbruch-Hall, D.H., R.B. Colton, W.E. Davies, Ivo Lucchitta, B.A. Skipp, and D.J. Varnes, 1982, Landslide Overview Map of the Conterminous United States</a>, Geological Survey Professional Paper 1183, U.S. Geological Survey, Washington.</li>
+      <li><a href="https://pubs.usgs.gov/pp/p1183/pp1183.html" target="_blank" class="offsite">Radbruch-Hall, D.H., R.B. Colton, W.E. Davies, Ivo Lucchitta, B.A. Skipp, and D.J. Varnes, 1982, Landslide Overview Map of the Conterminous United States</a>, Geological Survey Professional Paper 1183, U.S. Geological Survey, Washington.</li>
 
       <li>King, P.B., and Beikman, H.M., 1974, Geologic map of the United States (exclusive of Alaska and Hawaii) U.S. Geological Survey, scale 1:2,500,000, 2 sheets.</li>
     </ul>
@@ -52,7 +52,7 @@
   <div class="column one-of-two">
     <h3>Open-File Report 97-289</h3>
     <p>
-      <a href="http://pubs.er.usgs.gov/publication/ofr97289">Digital Compilation of <strong>Landslide Overview Map of the Conterminous United States</a><em> By Dorothy  H. Radbruch-Hall, Roger B. Colton, William E. Davies, Ivo Lucchitta, Betty A. Skipp, and  David J. Varnes, 1982</em></strong><br /> by  Jonathan W. Godt
+      <a href="https://pubs.er.usgs.gov/publication/ofr97289">Digital Compilation of <strong>Landslide Overview Map of the Conterminous United States</a><em> By Dorothy  H. Radbruch-Hall, Roger B. Colton, William E. Davies, Ivo Lucchitta, Betty A. Skipp, and  David J. Varnes, 1982</em></strong><br /> by  Jonathan W. Godt
   </p>
 
     <ul class="separator">
@@ -60,7 +60,7 @@
         <a href="ftp://hazards.cr.usgs.gov/web/landslides-website/Landslide-US-Overview-GIS.zip" class="offsite">Shapefiles of the landslide data</a>
       </li>
       <li>
-        <a href="http://pubs.usgs.gov/of/1997/ofr-97-0289/" class="offsite">Tarred and gzipped ArcInfo AMLS and associated text files (500mb when decompressed)</a>
+        <a href="https://pubs.usgs.gov/of/1997/ofr-97-0289/" class="offsite">Tarred and gzipped ArcInfo AMLS and associated text files (500mb when decompressed)</a>
       </li>
     </ul>
   </div>

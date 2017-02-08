@@ -62,7 +62,7 @@
     <ul>
       <li><a href="/research/rtmonitoring/">Real-time Monitoring for Potential Landslides</a></li>
       <li><a href="/docs/reid/Reid_etal_ISL_2008.pdf">Capturing Landslide Dynamics and Hydrologic Triggers Using Near-Real-Time Monitoring (PDF)</a></li>
-    <li><a class="offsite" href="http://pubs.usgs.gov/fs/2012/3008/">Real-Time Monitoring of Landslides</a></li>
+    <li><a class="offsite" href="https://pubs.usgs.gov/fs/2012/3008/">Real-Time Monitoring of Landslides</a></li>
     </ul>
 
     <h2>Disclaimer</h2>

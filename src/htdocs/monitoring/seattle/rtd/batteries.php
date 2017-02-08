@@ -9,7 +9,7 @@
       }
 ?>
 <h2>Batteries</h2>
-<img src="http://landslides.usgs.gov/realtime/plots/Muk_battery.png" alt="Batterie Voltages" width="100%">
+<img src="/realtime/plots/Muk_battery.png" alt="Batterie Voltages" width="100%">
 <p>
 Battery voltages at each station
 </p>
