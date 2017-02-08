@@ -15,7 +15,7 @@
 
   var _layerControl = new L.Control.Layers();
 
-	var _probBasins = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _probBasins = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '3,2,0',
 		format: 'image/png',
 		transparent: true,
@@ -23,7 +23,7 @@
 		attribution: 'USGS'
 	});
 
-	var _probSegments = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _probSegments = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '4,2,1,0',
 		format: 'image/png',
 		transparent: true,
@@ -31,7 +31,7 @@
 		attribution: 'USGS'
 	});
 
-	var _volumeBasins = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _volumeBasins = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '5,2,0',
 		format: 'image/png',
 		transparent: true,
@@ -39,7 +39,7 @@
 		attribution: 'USGS'
 	});
 
-	var _volumeSegments = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _volumeSegments = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '6,2,1,0',
 		format: 'image/png',
 		transparent: true,
@@ -47,7 +47,7 @@
 		attribution: 'USGS'
 	});
 
-	var _comboBasins = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _comboBasins = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '7,2,0',
 		format: 'image/png',
 		transparent: true,
@@ -55,7 +55,7 @@
 		attribution: 'USGS'
 	});
 
-	var _comboSegments = L.tileLayer.wms('http://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
+	var _comboSegments = L.tileLayer.wms('https://earthquake.usgs.gov/arcgis/services/ls/pwfdf_2015/MapServer/WMSServer', {
 		layers: '8,2,1,0',
 		format: 'image/png',
 		transparent: true,

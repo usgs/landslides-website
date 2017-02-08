@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt
-      //  Last  modified: 08/16/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Software';
       $NAVIGATION  = true;
@@ -25,15 +24,15 @@
   <h4>Scoops3D and Scoops3D-i (recommended)</h4>
   <p>Includes Scoops3D, Scoops3D-i, and Scoops3D manual</p>
   <ul>
-  	<li> <a href="http://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_ReadMeScoops3D.txt"> ReadMe file  </a></li>
-  	<li> <a href="http://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0win_installer.exe"> Windows install package </a></li>
-  	<li> <a href="http://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0mac.dmg"> Mac install disk image </a></li>
+  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_ReadMeScoops3D.txt"> ReadMe file  </a></li>
+  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0win_installer.exe"> Windows install package </a></li>
+  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0mac.dmg"> Mac install disk image </a></li>
   </ul>
 
   <h4>Scoops3D examples</h4>
   <p>Includes Scoops3D examples described in Chapter 7 of the Scoops3D manual</p>
   <ul>
-  	<li><a href="http://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3Dexamples_1.0.zip"> Examples folder </a></li>
+  	<li><a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3Dexamples_1.0.zip"> Examples folder </a></li>
   </ul>
 
   <h4>Scoops3D executable code (version 1.1)</h4>
@@ -52,7 +51,7 @@
 
   <h4>References</h4>
   <ul class="referencelist">
-  	<li>Reid, M.E., Christian, S.B., Brien, D.L., and Henderson, S.T., 2014, Scoops3D: Software to analyze three-dimensional slope stability throughout a digital landscape: <a href = "http://pubs.usgs.gov/tm/14/a01"  target="_blank"> U.S. Geological Survey Techniques and Methods, book 14, chap. A1 </a>.</li>
+  	<li>Reid, M.E., Christian, S.B., Brien, D.L., and Henderson, S.T., 2014, Scoops3D: Software to analyze three-dimensional slope stability throughout a digital landscape: <a href = "https://pubs.usgs.gov/tm/14/a01"  target="_blank"> U.S. Geological Survey Techniques and Methods, book 14, chap. A1 </a>.</li>
   </ul>
 
 <hr/>
@@ -61,7 +60,7 @@
 
   <h4>References</h4>
   <ul class="referencelist">
-  	<li><a href="http://pubs.usgs.gov/tm/12b1/">Jibson, R. W., Rathje, E. M., Jibson, M. W., and Lee, Y. W., 2013, SLAMMER -- Seismic Land Movement Modeled using Earthquake Records: U.S. Geological Survey Techniques and Methods</a>, book 12, chap. B1, unpaged.</li>
+  	<li><a href="https://pubs.usgs.gov/tm/12b1/">Jibson, R. W., Rathje, E. M., Jibson, M. W., and Lee, Y. W., 2013, SLAMMER -- Seismic Land Movement Modeled using Earthquake Records: U.S. Geological Survey Techniques and Methods</a>, book 12, chap. B1, unpaged.</li>
   </ul>
 
   <hr/>
@@ -82,10 +81,10 @@
       Baum, R. L., Godt, J.W., and Savage, W. Z., 2010, Estimating the timing and location of shallow rainfall-induced landslides using a model for transient, unsaturated infiltration: Journal of Geophysical Research, Earth Surface. v. 115, F03013, doi:10.1029/2009JF001321.
     </li>
     <li>
-      Baum, R.L., Savage, W.Z., and Godt, J.W., 2002, TRIGRS&mdash;A FORTRAN Program for Transient Rainfall Infiltration and Grid-Based Regional Slope-Stability Analysis: <a href="http://pubs.usgs.gov/of/2002/ofr-02-424" target="_blank">U.S. Geological Survey Open-File Report 02-0424</a>, 35 p., 2 appendices.
+      Baum, R.L., Savage, W.Z., and Godt, J.W., 2002, TRIGRS&mdash;A FORTRAN Program for Transient Rainfall Infiltration and Grid-Based Regional Slope-Stability Analysis: <a href="https://pubs.usgs.gov/of/2002/ofr-02-424" target="_blank">U.S. Geological Survey Open-File Report 02-0424</a>, 35 p., 2 appendices.
     </li>
     <li>
-      Baum, R.L., Savage, W.Z., and Godt, J.W., 2008, TRIGRS - A Fortran program for transient rainfall infiltration and grid-based regional slope-stability analysis, version 2.0: <a href="http://pubs.usgs.gov/of/2008/1159/">U.S. Geological Survey Open-File Report, 2008-1159</a>, 75 p.
+      Baum, R.L., Savage, W.Z., and Godt, J.W., 2008, TRIGRS - A Fortran program for transient rainfall infiltration and grid-based regional slope-stability analysis, version 2.0: <a href="https://pubs.usgs.gov/of/2008/1159/">U.S. Geological Survey Open-File Report, 2008-1159</a>, 75 p.
     </li>
     <li>
       Savage, W.Z., Godt, J.W., and Baum, R.L., 2003, A model for spatially and temporally distributed shallow landslide initiation by rainfall infiltration, in Rickenmann, D. and Chen, C., eds., Debris-Flow Hazards Mitigation-Mechanics, Prediction, and Assessment: Rotterdam, Millpress (Proceedings of the 3rd International conference on Debris Flow Hazards, Davos, Switzerland, September 10-13, 2003), p. 179-187.
@@ -101,7 +100,7 @@
 
   <h4>References</h4>
   <ul class="referencelist">
-    <li>Savage, W.Z., Coe, J.A., Sweeney, R. E., 2001, PTCOUNT &mdash; A Fortran-77 computer program to calculate the areal distribution of mapped data points using count-circle methodology, <a href="http://pubs.usgs.gov/of/2001/ofr-01-0002/" target="_blank">U.S. Geological Survey Open File Report 01-0002</a>, 10 p.</li>
+    <li>Savage, W.Z., Coe, J.A., Sweeney, R. E., 2001, PTCOUNT &mdash; A Fortran-77 computer program to calculate the areal distribution of mapped data points using count-circle methodology, <a href="https://pubs.usgs.gov/of/2001/ofr-01-0002/" target="_blank">U.S. Geological Survey Open File Report 01-0002</a>, 10 p.</li>
   </ul>
 
 <hr/>
@@ -110,5 +109,5 @@
 
   <h4>References</h4>
   <ul class="referencelist">
-    <li>Baum, R.L., 2000, Computer Programs for Limit-Equilibrium Slope-Stability Analysis&mdash;FelleniusGS, BishopGS, and JanbuGS, <a href="http://pubs.usgs.gov/of/2000/ofr-00-0107/" target="_blank">U.S. Geological Survey Open-File Report 00-0107</a></li>
+    <li>Baum, R.L., 2000, Computer Programs for Limit-Equilibrium Slope-Stability Analysis&mdash;FelleniusGS, BishopGS, and JanbuGS, <a href="https://pubs.usgs.gov/of/2000/ofr-00-0107/" target="_blank">U.S. Geological Survey Open-File Report 00-0107</a></li>
   </ul>

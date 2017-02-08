@@ -22,25 +22,25 @@ require([
 		'http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}'
 	);
 	var _probBasins = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilityBasins/MapServer/tile/{z}/{y}/{x}',
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilityBasins/MapServer/tile/{z}/{y}/{x}',
 		{ opacity: 0.65 }
 	);
 	var _probSegments = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilitySegments/MapServer/tile/{z}/{y}/{x}'
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilitySegments/MapServer/tile/{z}/{y}/{x}'
 	);
 	var _volumeBasins = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeBasins/MapServer/tile/{z}/{y}/{x}',
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeBasins/MapServer/tile/{z}/{y}/{x}',
 		{ opacity: 0.65 }
 	);
 	var _volumeSegments = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeSegments/MapServer/tile/{z}/{y}/{x}'
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeSegments/MapServer/tile/{z}/{y}/{x}'
 	);
 	var _comboBasins = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardBasins/MapServer/tile/{z}/{y}/{x}',
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardBasins/MapServer/tile/{z}/{y}/{x}',
 		{ opacity: 0.65 }
 	);
 	var _comboSegments = new L.TileLayer(
-		'http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardSegments/MapServer/tile/{z}/{y}/{x}'
+		'https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardSegments/MapServer/tile/{z}/{y}/{x}'
 	);
 
 	// set legend for each tilelayer

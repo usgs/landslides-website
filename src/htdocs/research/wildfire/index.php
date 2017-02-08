@@ -35,7 +35,7 @@ The focus of this project is to develop tools and methods for the prediction of 
 <li><a href="/hazards/postfire_debrisflow/">Emergency Assessment of Post-fire Debris-Flow Hazards</a></li>
 <li><a href="/hazards/warningsys.php">NOAA/USGS Flash-Flood and Debris-Flow Early Warning System</a></li>
 <li><a href="/monitoring/">Monitoring Post-Fire Flash Floods and Debris Flows</a></li>
-<li><a href="http://pubs.usgs.gov/fs/2005/3106/">Wildfires and Debris Flows in Southern California</a></li>
+<li><a href="https://pubs.usgs.gov/fs/2005/3106/">Wildfires and Debris Flows in Southern California</a></li>
 </ul>
 
 <h2>Contact Information</h2>

@@ -19,7 +19,7 @@
   Like the northern part of the state, southern California is well known to be susceptible to landslides (see <a href="https://pubs.er.usgs.gov/publication/ofr0317">Preliminary soil-slip susceptibility maps, southwestern California</a> - Open-File Report 2003-17). Some are triggered by earthquakes, but more frequently landslides are caused by intense and/or prolonged rainfall. Some, but not all, of the major winter storms that have caused landslide fatalities and property damage in southern California have occurred during <a href="http://geochange.er.usgs.gov/sw/changes/natural/elnino/">El Ni&ntilde;o</a> (1997-98 info) conditions.
 </p>
 <p>
-  The USGS has a long history of research to identify landslide hazards in southern California (see <a href="http://pubs.usgs.gov/fs/2005/3107/">USGS Fact Sheet on landslides in southern California</a>). Below is a summary of reports and maps to identify hazards associated with different types of landslides in this part of the state.
+  The USGS has a long history of research to identify landslide hazards in southern California (see <a href="https://pubs.usgs.gov/fs/2005/3107/">USGS Fact Sheet on landslides in southern California</a>). Below is a summary of reports and maps to identify hazards associated with different types of landslides in this part of the state.
 </p>
 <p>
   These reports and maps can be used as examples of what may occur during the upcoming 2015-2016 El Ni&ntilde;o season if heavy precipitation occurs.
@@ -68,7 +68,7 @@ Shallow landslides can occur at any time during the winter, but are more likely 
   </figcaption>
 </figure>
 <p>
-  Deep-seated landslides are generally greater than 3-5 m (10-15 ft) deep. Deep-seated landslides can be triggered by deep infiltration of rainfall, which can take weeks or months to occur. Some move slowly, while others can move rapidly with little notice.  The La Conchita landslide in Ventura County is an example of a deep-seated landslide that has experienced both styles of movement (see <a href="http://pubs.usgs.gov/of/2005/1067/">Landslide Hazards at La Conchita, California</a>). In 1995, after an exceptionally wet winter, the landslide moved tens of meters (tens of yards) damaging nine houses. In 2005, after a 15-day period of near-record rainfall, a larger area failed rapidly, remobilizing part of the 1995 slide. The catastrophic movement of the 2005 landslide damaged or destroyed 36 houses and killed 10 people.
+  Deep-seated landslides are generally greater than 3-5 m (10-15 ft) deep. Deep-seated landslides can be triggered by deep infiltration of rainfall, which can take weeks or months to occur. Some move slowly, while others can move rapidly with little notice.  The La Conchita landslide in Ventura County is an example of a deep-seated landslide that has experienced both styles of movement (see <a href="https://pubs.usgs.gov/of/2005/1067/">Landslide Hazards at La Conchita, California</a>). In 1995, after an exceptionally wet winter, the landslide moved tens of meters (tens of yards) damaging nine houses. In 2005, after a 15-day period of near-record rainfall, a larger area failed rapidly, remobilizing part of the 1995 slide. The catastrophic movement of the 2005 landslide damaged or destroyed 36 houses and killed 10 people.
 </p>
 
 <br/>
@@ -83,13 +83,13 @@ Shallow landslides can occur at any time during the winter, but are more likely 
 </figure>
 
 <p>
-  Steep, recently burned areas in southern California are especially susceptible to debris flows (see <a href="http://pubs.usgs.gov/fs/2005/3106/">Southern California&ndash;Wildfires and Debris Flows</a>). Even modest rain storms during normal, non-El Ni&ntilde;o years can trigger post-wildfire debris flows. The USGS has conducted hazard assessments for <a href="/hazards/postfire_debrisflow/">post-wildfire debris flows</a> for four recent fires in southern CA, as well as numerous fires across the Western U.S. including central and northern California.
+  Steep, recently burned areas in southern California are especially susceptible to debris flows (see <a href="https://pubs.usgs.gov/fs/2005/3106/">Southern California&ndash;Wildfires and Debris Flows</a>). Even modest rain storms during normal, non-El Ni&ntilde;o years can trigger post-wildfire debris flows. The USGS has conducted hazard assessments for <a href="/hazards/postfire_debrisflow/">post-wildfire debris flows</a> for four recent fires in southern CA, as well as numerous fires across the Western U.S. including central and northern California.
 </p>
 <ul>
   <li><a href="/hazards/postfire_debrisflow/2015/20150617lake/">2015 Lake Fire</a>, San Bernardino County</li>
   <li><a href="/hazards/postfire_debrisflow/2014/20140116colby/">2014 Colby Fire</a>, Los Angeles County</li>
   <li><a href="/hazards/postfire_debrisflow/2014/20140920silverado/">2014 Silverado Fire</a>, Orange County</li>
-  <li><a href="http://pubs.usgs.gov/of/2014/1001/">2013 Springs Fire</a>, Ventura County</li>
+  <li><a href="https://pubs.usgs.gov/of/2014/1001/">2013 Springs Fire</a>, Ventura County</li>
 </ul>
 
 <p>
@@ -109,10 +109,10 @@ Shallow landslides can occur at any time during the winter, but are more likely 
 </figure>
 
 <p>
-  Many areas of coastal California are subject to cliff erosion and coastal landslides (see new research on <a href="http://elnino.wr.usgs.gov/">El Ni&ntilde;o coastal hazards</a> in California).  Hazards from these types of landslides can occur both at the bottom of cliffs (from burial) and at the tops of cliffs (from falling over).  During the winter season in California, beaches typically erode thereby allowing waves to reach further inland and to inundate the bottoms of coastal cliffs.  Wave energy is also typically higher during the winter, and particularly during El Ni&ntilde;o events (See <a href="http://www.usgs.gov/newsroom/article.asp?ID=4336&from=rss#.VwwEWRMrJBw">El Ni&ntilde;o and La Ni&ntilde;a Will Exacerbate Coastal Hazards across Entire Pacific</a>), thereby exacerbating the potential for coastal erosion.  <a href="http://landslides.usgs.gov/docs/collins/Collins_sitar_geomorph_2008.pdf">Coastal cliff failures</a> may also occur simply as a result of heightened precipitation as well &ndash; wave action makes cliffs inherently unstable, and rainfall may be the ultimate trigger for failure, even during times with little to no wave action.
+  Many areas of coastal California are subject to cliff erosion and coastal landslides (see new research on <a href="http://elnino.wr.usgs.gov/">El Ni&ntilde;o coastal hazards</a> in California).  Hazards from these types of landslides can occur both at the bottom of cliffs (from burial) and at the tops of cliffs (from falling over).  During the winter season in California, beaches typically erode thereby allowing waves to reach further inland and to inundate the bottoms of coastal cliffs.  Wave energy is also typically higher during the winter, and particularly during El Ni&ntilde;o events (See <a href="http://www.usgs.gov/newsroom/article.asp?ID=4336&from=rss#.VwwEWRMrJBw">El Ni&ntilde;o and La Ni&ntilde;a Will Exacerbate Coastal Hazards across Entire Pacific</a>), thereby exacerbating the potential for coastal erosion.  <a href="/docs/collins/Collins_sitar_geomorph_2008.pdf">Coastal cliff failures</a> may also occur simply as a result of heightened precipitation as well &ndash; wave action makes cliffs inherently unstable, and rainfall may be the ultimate trigger for failure, even during times with little to no wave action.
 </p>
 <p>
-  During and just after storms, existing coastal landslides may become reactivated and seemingly stable coastal cliffs may erode and fail rapidly.  Background rates of coastal cliff erosion are variable along the California coast (see <a href="http://pubs.usgs.gov/of/2007/1133/">USGS Open File Report 2007-1133</a>) and tied to the rock or soil strength of the cliffs among other factors, but these measurements of historic coastal cliff retreat provide indications of places most susceptible to coastal landslides.
+  During and just after storms, existing coastal landslides may become reactivated and seemingly stable coastal cliffs may erode and fail rapidly.  Background rates of coastal cliff erosion are variable along the California coast (see <a href="https://pubs.usgs.gov/of/2007/1133/">USGS Open File Report 2007-1133</a>) and tied to the rock or soil strength of the cliffs among other factors, but these measurements of historic coastal cliff retreat provide indications of places most susceptible to coastal landslides.
 </p>
 
 

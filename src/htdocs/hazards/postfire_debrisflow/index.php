@@ -197,13 +197,12 @@
 
     <h3>Related Links</h3>
     <ul>
-      <li><a href="http://landslides.usgs.gov/research/wildfire/">Post-Wildfire Landslide Hazards</a></li>
-      <li><a href="http://landslides.usgs.gov/hazards/warningsys.php">Early Warning System</a></li>
-      <li><a href="http://landslides.usgs.gov/dysi/">Did You See It? Report a Landslide</a></li>
+      <li><a href="/research/wildfire/">Post-Wildfire Landslide Hazards</a></li>
+      <li><a href="/hazards/warningsys.php">Early Warning System</a></li>
     </ul>
 
     <h3>GIS Service Information</h3>
-    <p><a href="http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer">Post-Fire Debris-Flow Hazards GIS Services</a></p>
+    <p><a href="https://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer">Post-Fire Debris-Flow Hazards GIS Services</a></p>
     <p><a href="https://github.com/usgs/hazdev-gis/blob/master/documentation.md">Landslides GIS Server Documentation</a></p>
   </div>
 </div>

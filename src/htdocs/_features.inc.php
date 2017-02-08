@@ -17,7 +17,7 @@ $LS_FEATURES = new Features();
 $LS_FEATURES->id = 'usgs_landslides_home';
 $LS_FEATURES->title = 'USGS Landslide Hazards Program Featured Items';
 $LS_FEATURES->author = 'U.S. Geological Survey';
-$LS_FEATURES->siteUrl = 'http://landslides.usgs.gov/';
+$LS_FEATURES->siteUrl = 'https://landslides.usgs.gov/';
 $LS_FEATURES->baseUrl = '';
 
 /**
