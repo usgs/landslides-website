@@ -9,5 +9,5 @@ include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 </p>
 
 <div align="center">
-	<img alt="1 week" src="/realtime/plots/ArroyoSecoChannel_stgPres_oneWeek.png">
+	<img alt="1 week" src="/static/landslides-realtime/plots/ArroyoSecoChannel_stgPres_oneWeek.png">
 </div>

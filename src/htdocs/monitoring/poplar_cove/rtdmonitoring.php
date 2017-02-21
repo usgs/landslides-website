@@ -22,7 +22,7 @@
   <h3>Rainfall over the last 14 days at Mooney Gap Rain
   Gauge</h3>
   <img
-  src="/realtime/plots/ncPoplarCove_precip_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncPoplarCove_precip_twoWeek.png">
   </div>
 
 <h2 id="ground">Ground Water Pressure</h2>
@@ -30,8 +30,8 @@
   Pore-water pressures are reported in kiloPascals (kPa). One kiloPascal is roughly equivalent to the pressure exerted by a 10-cm-deep column of water.</p>
   <div align="center">
   	<h3>Soil Suction/pore pressure, last 14 days</h3>
-  	<img
-  	src="/realtime/plots/ncPoplarCove_porePressure_twoWeek.png">
+		<img
+		src="/static/landslides-realtime/plots/ncPoplarCove_porePressure_twoWeek.png">
   </div>
 
 <h2 id="soilwater">Soil Water Content</h2>
@@ -39,7 +39,7 @@
   <div align="center">
   <h3>Soil Water Content, last 14 days</h3>
   <img
-  src="/realtime/plots/ncPoplarCove_vWC_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncPoplarCove_vWC_twoWeek.png">
   </div>
 
 <h2 id="soiltemp">Soil Temperature</h2>
@@ -47,7 +47,7 @@
   <div align="center">
   <h3>Soil Temperature, last 14 days</h3>
   <img
-  src="/realtime/plots/ncPoplarCove_soilTemp_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncPoplarCove_soilTemp_twoWeek.png">
   </div>
 
 <h2 id="battery">Battery Voltage</h2>
@@ -55,5 +55,5 @@
   <div align="center">
   <h3>Battery voltage and temperature, last 14 days</h3>
   <img
-  src="/realtime/plots/ncPoplarCove_batteryTemp_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncPoplarCove_batteryTemp_twoWeek.png">
   </div>

@@ -25,7 +25,7 @@
 </p>
 
 <h2>Rainfall</h2>
-<img src="/realtime/plots/Muk_rain_in.png" alt="Rainfall at Mukilteo Stations"
+<img src="/static/landslides-realtime/plots/Muk_rain_in.png" alt="Rainfall at Mukilteo Stations"
 width="100%">
 <p>
 Rainfall is measured using tipping-bucket rain gauges at four locations along
@@ -39,14 +39,14 @@ the west edge of Mukilteo.
 </ul>
 
 <h2>Rainfall Relative to Threshold</h2>
-<img src="/realtime/plots/Muk_cmtr.png" alt="Rainfall relative to threshold"
+<img src="/static/landslides-realtime/plots/Muk_cmtr.png" alt="Rainfall relative to threshold"
 width="100%">
 <p>
 Conditions relative to cumulative 3-day and previous 15-day threshold
 </p>
 
 <h2>Soil Water Content</h2>
-<img src="/realtime/plots/Muk_VWC.png" alt="Soil Water Content" width="100%">
+<img src="/static/landslides-realtime/plots/Muk_VWC.png" alt="Soil Water Content" width="100%">
 <p>
 Volumetric water content of soil is measured using soil moisture sensors on
 profiles along the bluff in the active landslide area and stable bluff.  Points
@@ -54,7 +54,7 @@ are numbered from highest (1) to lowest (5).
 </p>"
 
 <h2>Soil Suction</h2>
-<img src="/realtime/plots/Muk_Tensiometer_Press.png" alt="Soil Suction"
+<img src="/static/landslides-realtime/plots/Muk_Tensiometer_Press.png" alt="Soil Suction"
 width="100%">
 <p>
 Soil suction (negative) is measured using tensiometers on profiles along the
@@ -63,7 +63,7 @@ located near the three mid-bluff water content sensors (2, 3, 4).
 </p>
 
 <h2>Water Levels</h2>
-<img src="/realtime/plots/Muk_lvl.png" alt="Water Levels" width="100%">
+<img src="/static/landslides-realtime/plots/Muk_lvl.png" alt="Water Levels" width="100%">
 <p>
 Water levels are measured using piezometers at the top and bottom of the
 profiles.  The piezometers are located near the highest (1) and lowest (5) water

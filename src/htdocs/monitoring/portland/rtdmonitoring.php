@@ -22,7 +22,7 @@
   <p>The site is equipped with two 8-inch-diameter tipping-bucket rain gauges that are calibrated to 0.01 inch of rainfall per tip.  The field data loggers record and transmit 15-minute precipitation.</p>
 
   <h3>Rainfall over the last two weeks at gages 1 and 2</h3>
-  <img src="/realtime/plots/westHillsPort_precip_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_precip_twoWeek.png" alt="" />
 
 <h2 id="ten">Ground-water Pressure - Tensiometers</h2>
   <figure class="right" style="width:188px;">
@@ -45,7 +45,7 @@
   </table>
 
   <h3>Soil suction/pore pressure, last two weeks</h3>
-  <img src="/realtime/plots/westHillsPort_pressure_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_pressure_twoWeek.png" alt="" />
 
 <h2 id="waterpot">Ground-water Pressure - Water Potential Sensors</h2>
   <p>The water potential sensor (Decagon Devices Model MPS-1) uses the dielectric properties of water combined with a ceramic stone with a known soil-water characteristic to estimate pressures over the range of -100 to -500 hPa. Pore pressures are reported in hecoPascals (hPa). One hectoPascal is roughly equivalent to the pressure exerted by a 1-cm high column of water.</p>
@@ -64,7 +64,7 @@
 
 
   <h3>Water Potential, last two weeks</h3>
-  <img src="/realtime/plots/westHillsPort_mP_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_mP_twoWeek.png" alt="" />
 
 <h2 id="pie">Ground-water Pressure - Piezometers</h2>
   <p>The site has seven piezometers. Four of the piezometers in hole B-1 are embedded in a grout consisting of bentonite and Portland cement and are capable of measuring negative pressures when the surrounding soil is partially saturated or unsaturated. The three piezometers at sites B-3, 4 and 5 are each embedded in a sand pack at the bottom of the borehole which was then filled with grout.  Pore pressures are reported in hectoPacsals (hPa).  One hectoPascal is roughly equivalent to the pressure exerted by a 1-cm-deep column of water.  Six of the piezometers are temperature-compensated vibrating-wire transducers (Slope Indicator, model 52611024)* that have a range of -345 to +3448 hPa (or -352 to +3515 cm of water), resolution of &plusmn;0.025%FS about (&plusmn;0.95 hPa or &plusmn;0.96 cm of water) and accuracy of &plusmn;0.1% (&plusmn;3.8 hPa or &plusmn;3.9 cm of water).  One of the piezometers is a temperature compensated vibrating strip transducer (Slope Indicator)* with similar range and resolution.</p>
@@ -74,11 +74,11 @@
   <p>Each tensiometer and piezometer has a built in temperature sensor, either a thermistor or RTD (resistive temperature device). Soil temperature measurements are used in correcting measurements by the tensiometers and piezometers and in detecting when the ground is frozen.</p>
 
   <h3>Soil temperatures at tensiometers over the last two weeks</h3>
-  <img src="/realtime/plots/westHillsPort_soilTemp_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_soilTemp_twoWeek.png" alt="" />
 <h2 id="soilwater">Soil Water Content</h2>
   <h3>Soil Water Content over the last two weeks</h3>
-  <img src="/realtime/plots/westHillsPort_vWC_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_vWC_twoWeek.png" alt="" />
 
 <h2 id="battery">Battery</h2>
   <h3>Battery voltage over the last two weeks</h3>
-  <img src="/realtime/plots/westHillsPort_battery_twoWeek.png" alt="" />
+  <img src="/static/landslides-realtime/plots/westHillsPort_battery_twoWeek.png" alt="" />

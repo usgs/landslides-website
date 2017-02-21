@@ -24,15 +24,15 @@ include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 
 <h3>Soil Pit 1<a name="soilpit1"></a></h3>
 <div align="center">
-	<img alt="Soil Pit 1" src="/realtime/plots/caArroyoSecoHillside_VWCPresSP1_oneWeek.png">
+	<img alt="Soil Pit 1" src="/static/landslides-realtime/plots/caArroyoSecoHillside_VWCPresSP1_oneWeek.png">
 </div>
 
 <h3>Soil Pit 2<a name="soilpit2"></a></h3>
 <div align="center">
-	<img alt="Soil Pit 2" src="/realtime/plots/caArroyoSecoHillside_VWCSP2_oneWeek.png">
+	<img alt="Soil Pit 2" src="/static/landslides-realtime/plots/caArroyoSecoHillside_VWCSP2_oneWeek.png">
 </div>
 
 <h3>Soil Pit 3<a name="soilpit3"></a></h3>
 <div align="center">
-	<img alt="Soil Pit 3" src="/realtime/plots/caArroyoSecoChannel_VWC_oneWeek.png">
+	<img alt="Soil Pit 3" src="/static/landslides-realtime/plots/caArroyoSecoChannel_VWC_oneWeek.png">
 </div>
