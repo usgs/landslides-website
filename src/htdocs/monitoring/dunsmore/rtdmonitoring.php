@@ -25,11 +25,11 @@
   <h3>Rainfall</h3>
   <div align="center">
     <img alt="1 week"
-  	src="/realtime/plots/caDunsmoreChannel_precip1_oneWeek.png">
+		src="/static/landslides-realtime/plots/caDunsmoreChannel_precip1_oneWeek.png">
   </div>
   <div align="center">
   	<img alt="1 week"
-  	src="/realtime/plots/DunsmoreChannel_precip2_oneWeek.png">
+		src="/static/landslides-realtime/plots/DunsmoreChannel_precip2_oneWeek.png">
   </div>
 <h2 id="ground">Soil Water Content and Ground Water Pressure</h2>
   <p>
@@ -41,19 +41,19 @@
   <h3>Soil Pit 1</h3>
   <div align="center">
   	<img alt="1 week"
-  	src="/realtime/plots/caDunsmoreHillside_VWCSP1_oneWeek.png">
+		src="/static/landslides-realtime/plots/caDunsmoreHillside_VWCSP1_oneWeek.png">
   </div>
 
   <h3>Soil Pit 2</h3>
   <div align="center">
-  	<img alt="1 week"
-  	src="/realtime/plots/caDunsmoreHillside_VWCPresSP2_oneWeek.png">
+		<img alt="1 week"
+		src="/static/landslides-realtime/plots/caDunsmoreHillside_VWCPresSP2_oneWeek.png">
   </div>
 
   <h3>Soil Pit 3</h3>
   <div align="center">
-  	<img alt="1 week"
-  	src="/realtime/plots/caDunsmoreChannel_VWC_oneWeek.png">
+		<img alt="1 week"
+		src="/static/landslides-realtime/plots/caDunsmoreChannel_VWC_oneWeek.png">
   </div>
 <h2 id="channel">Channel Stage</h2>
   <p>
@@ -61,8 +61,8 @@
   	flow if present.
   </p>
   <div align="center">
-  	<img alt="1 week"
-  	src="/realtime/plots/caDunsmoreChannel_stg_oneWeek.png">
+		<img alt="1 week"
+		src="/static/landslides-realtime/plots/caDunsmoreChannel_stg_oneWeek.png">
   </div>
 <h2 id="battery">Battery Voltage</h2>
   <p>
@@ -70,6 +70,6 @@
   	charging due to solar panel or battery failures.
   </p>
   <div align="center">
-  	<img alt="1 week"
-  	src="/realtime/plots/caDunsmore_batteryVoltageTemp_oneWeek.png">
+		<img alt="1 week"
+		src="/static/landslides-realtime/plots/caDunsmore_batteryVoltageTemp_oneWeek.png">
   </div>

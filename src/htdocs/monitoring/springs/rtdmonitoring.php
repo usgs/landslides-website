@@ -30,13 +30,13 @@
   <h3>Rainfall for last three hours<a name="3hours"></a></h3>
   <div align="center">
   	<img alt="3 hours"
-  			src="/realtime/plots/camarilloSprings_precip_threeHours.png">
+				src="/static/landslides-realtime/plots/camarilloSprings_precip_threeHours.png">
   </div>
 
   <h3>Rainfall for last week<a name="1week"></a></h3>
   <div align="center">
   	<img alt="One week"
-  			src="/realtime/plots/camarilloSprings_precip_oneWeek.png">
+				src="/static/landslides-realtime/plots/camarilloSprings_precip_oneWeek.png">
   </div>
 
 <h2 id="ground">Soil Water Content and Ground Water Pressure</h2>
@@ -60,5 +60,5 @@
   <h3>Battery voltage for last two weeks<a name="2weeks"></a></h3>
   <div align="center">
   	<img alt="2 weeks"
-  		src="/realtime/plots/camarilloSprings_battery_twoWeek.png">
+			src="/static/landslides-realtime/plots/camarilloSprings_battery_twoWeek.png">
   </div>
