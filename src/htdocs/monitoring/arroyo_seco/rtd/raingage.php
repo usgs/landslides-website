@@ -22,9 +22,9 @@ include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 <h2>Precipitation</h2>
 <h3>2 Weeks</h3>
 <a name="2weeks"><div align="center"></a>
-	<img alt="2 weeks" src="/realtime/plots/caArroyoSecoChannel_precip1_oneWeek.png">
+	<img alt="2 weeks" src="/static/landslides-realtime/plots/caArroyoSecoChannel_precip1_oneWeek.png">
 </div>
 <h3>1 Week</h3>
 <a name="1week"><div align="center"></a>
-	<img alt="1 week" src="/realtime/plots/caArroyoSecoChannel_precip2_oneWeek.png">
+	<img alt="1 week" src="/static/landslides-realtime/plots/caArroyoSecoChannel_precip2_oneWeek.png">
 </div>

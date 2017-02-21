@@ -9,7 +9,7 @@
       }
 ?>
 
-<img src="/realtime/plots/forecast.png" alt="Forcast graph" width="100%">
+<img src="/static/landslides-realtime/plots/forecast.png" alt="Forcast graph" width="100%">
 <p>
 Graph shows cumulative precipitation threshold for landslides (red line) and the
 most recent and expected values of 3-day and prior 15-day cumulative

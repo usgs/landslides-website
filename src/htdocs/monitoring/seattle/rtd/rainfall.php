@@ -3,7 +3,7 @@
 $TITLE = "Rainfall";
 include_once $_SERVER['DOCUMENT_ROOT'] . "/template/template.inc.php";
 
-	$contents = file( '/realtime/plots/ThCurrTabl.htm'); 
+	$contents = file( '/static/landslides-realtime/plots/ThCurrTabl.htm');
 	print join('', $contents);
 ?>
 

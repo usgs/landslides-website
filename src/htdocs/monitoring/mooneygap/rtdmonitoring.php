@@ -22,7 +22,7 @@
   <h3>Rainfall over the last 14 days at Mooney Gap Rain
   Gauge</h3>
   <img
-  src="/realtime/plots/ncMooneyGap_precip_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncMooneyGap_precip_twoWeek.png">
   </div>
 
 <h2 id="ground">Groundwater Pressure</h2>
@@ -36,7 +36,7 @@
   </p>
   <div align="center">
   	<h3>Soil Suction/pore pressure, last 14 days</h3>
-  	<img src="/realtime/plots/ncMooneyGap_porePressure_twoWeek.png">
+		<img src="/static/landslides-realtime/plots/ncMooneyGap_porePressure_twoWeek.png">
   </div>
 
 <h2 id="soilwater">Soil Water Content</h2>
@@ -44,7 +44,7 @@
   <div align="center">
   <h3>Soil Water Content, last 14 days</h3>
   <img
-  src="/realtime/plots/ncMooneyGap_vWC_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncMooneyGap_vWC_twoWeek.png">
   </div>
 
 <h2 id="soiltemp">Soil Temperature</h2>
@@ -52,7 +52,7 @@
   <div align="center">
   <h3>Soil Temperature, last 14 days</h3>
   <img
-  src="/realtime/plots/ncMooneyGap_soilTemp_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncMooneyGap_soilTemp_twoWeek.png">
   </div>
 
 <h2 id="battery">Battery Voltage</h2>
@@ -60,5 +60,5 @@
   <div align="center">
   <h3>Battery voltage and temperature, last 14 days</h3>
   <img
-  src="/realtime/plots/ncMooneyGap_batteryTemp_twoWeek.png">
+  src="/static/landslides-realtime/plots/ncMooneyGap_batteryTemp_twoWeek.png">
   </div>
