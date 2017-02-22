@@ -76,56 +76,56 @@
 
   <h4>August 1, 2014</h4>
   <video controls="controls" height="518">
-  	<source src="Chalk20140801.mp4" type="video/mp4"/>
-  	<source src="Chalk20140801.webm" type="video/webm"/>
+  	<source src="video/Chalk20140801.mp4" type="video/mp4"/>
+  	<source src="video/Chalk20140801.webm" type="video/webm"/>
   	<a href="Chalk20140801.mp4">Download Chalk20140801.mp4 (11MB)</a>
   </video>
 
   <h4>July 31, 2014</h4>
   <video controls="controls" height="518">
-  	<source src="Chalk20140731.mp4" type="video/mp4"/>
-  	<source src="Chalk20140731.webm" type="video/webm"/>
+  	<source src="video/Chalk20140731.mp4" type="video/mp4"/>
+  	<source src="video/Chalk20140731.webm" type="video/webm"/>
   	<a href="Chalk20140731.mp4">Download Chalk20140731.mp4 (11MB)</a>
   </video>
 
   <h4>July 4, 2014, 1:30 pm, Surge 1 of 8</h4>
   <video width="518" controls="controls">
-  	<source src="Chalksurge1of8.webm" type="video/webm"/>
-  	<source src="Chalksurge1of8.mp4" type="video/mp4"/>
+  	<source src="video/Chalksurge1of8.webm" type="video/webm"/>
+  	<source src="video/Chalksurge1of8.mp4" type="video/mp4"/>
   	<a href="Chalksurge1of8.mp4">Download Chalksurge1of8.mp4 (16MB)</a>
   </video>
 
   <h4>July 4, 2014, 1:35 pm, Surge 7 of 8</h4>
   <video width="518" controls="controls">
-  	<source src="Chalksurge7of8.mp4" type="video/mp4"/>
-  	<source src="Chalksurge7of8.webm" type="video/webm"/>
+  	<source src="video/Chalksurge7of8.mp4" type="video/mp4"/>
+  	<source src="video/Chalksurge7of8.webm" type="video/webm"/>
   	<a href="Chalksurge7of8.mp4">Download Chalksurge7of8.mp4 (10MB)</a>
   </video>
 
   <h4>June 28, 2010, 7:22pm</h4>
   <video width="518" controls="controls">
-  	<source src="20100628.mp4" type="video/mp4"/>
-  	<source src="20100628.webm" type="video/webm"/>
+  	<source src="video/20100628.mp4" type="video/mp4"/>
+  	<source src="video/20100628.webm" type="video/webm"/>
   	<a href="20100628.mp4">Download 20100628.mp4 (2.0MB)</a>
   </video>
 
   <h4>June 12, 2010, 5:09pm</h4>
   <video width="518" controls="controls">
-  	<source src="20100612.mp4" type="video/mp4"/>
-  	<source src="20100612.webm" type="video/webm"/>
+  	<source src="video/20100612.mp4" type="video/mp4"/>
+  	<source src="video/20100612.webm" type="video/webm"/>
   	<a href="20100612.mp4">Download 20100612.mp4 (2.1MB)</a>
   </video>
 
   <h4>September 15, 2009, 5:46pm</h4>
   <video width="518" controls="controls">
-  	<source src="20090915.mp4" type="video/mp4"/>
-  	<source src="20090915.webm" type="video/webm"/>
+  	<source src="video/20090915.mp4" type="video/mp4"/>
+  	<source src="video/20090915.webm" type="video/webm"/>
   	<a href="20090915.mp4">Download 20090915.mp4 (1.7MB)</a>
   </video>
 
   <h4>June 2, 2009, 4:22pm</h4>
   <video width="518" controls="controls">
-  	<source src="20090602.mp4" type="video/mp4"/>
-  	<source src="20090602.webm" type="video/webm"/>
+  	<source src="video/20090602.mp4" type="video/mp4"/>
+  	<source src="video/20090602.webm" type="video/webm"/>
   	<a href="20090602.mp4">Download 20090602.mp4 (1.8MB)</a>
   </video>
