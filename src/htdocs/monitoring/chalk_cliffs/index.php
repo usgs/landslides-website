@@ -52,7 +52,7 @@
     <h2>For more information</h2>
     <ul>
       <li>
-        <a href="/docs/coe/CoeGodtKinner08Final.pdf">Research paper on debris flows at Chalk Cliffs</a>
+        <a href="CoeGodtKinner08Final.pdf">Research paper on debris flows at Chalk Cliffs</a>
       </li>
       <li>
         <a href="http://forecast.weather.gov/MapClick.php?lat=38.72944724289828&lon=-106.19247436523437&site=pub&smap=1&marine=0&unit=0&lg=en">National Weather Service forecast for Chalk Cliffs and vicinity</a>

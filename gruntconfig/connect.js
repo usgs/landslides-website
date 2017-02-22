@@ -18,6 +18,18 @@ var connect = {
       rewrite: {
         '^/theme': ''
       }
+    },
+    {
+      context: [
+        '/hazards/postfire_debrisflow',
+        '/static'
+      ],
+      host: 'landslides.usgs.gov',
+      port: 80,
+      headers: {
+        'host': 'landslides.usgs.gov',
+        'accept-encoding': 'identity'
+      }
     }
   ],
 
