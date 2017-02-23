@@ -52,6 +52,13 @@
   <div class="column one-of-two">
     <ul class="linklist">
       <li>
+        <a href='factsheets.php'>
+          <h3>Factsheets</h3>
+          <img src="images/factsheets.gif" width="150" alt=""/>
+        </a>
+        <p>Brief summaries of landslide science and research in plain language.</p>
+      </li>
+      <li>
         <a href='prepare.php'>
           <h3>Landslide Preparedness</h3>
           <img src="images/prepare.gif" alt=""/>
