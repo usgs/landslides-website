@@ -66,7 +66,7 @@ href="mailto:baum@usgs.gov">Rex Baum</a>.
 
 <h3 id="nws-int-dur">Rainfall Intensity-Duration Index</h3>
 <p>
-  Graph shows conditions relative to the rainfall intensity-druation threshold for the last 14 days and the 24 hour forecast at selected National Weather Service Rain Gages (colored lines).  The index is computed by dividing the current rainfall intensity by the intensity-duration threshold.  When the colored lines are aboce the solid black line, the intensity-duration threshold has been exceeded and landslides are very likely.  Please direct questions about or comments about this information to Rex Baum or Ben Mirus.
+  Graph shows conditions relative to the rainfall intensity-duration threshold for the last 14 days and the 24 hour forecast at selected National Weather Service Rain Gages (colored lines).  The index is computed by dividing the current rainfall intensity by the intensity-duration threshold.  When the colored lines are above the solid black line, the intensity-duration threshold has been exceeded and landslides are very likely.  Please direct questions about or comments about this information to Rex Baum or Ben Mirus.
 </p>
 <img src="/static/landslides-realtime/plots/id_index_f.png" alt="Rainfall Intensity/Duration Index" />
 
@@ -88,7 +88,7 @@ href="mailto:baum@usgs.gov">Rex Baum</a> or <a href="mailto:jgodt@usgs.gov">Jona
     </a>.  The purpose of the study is to
     improve understanding of conditions that lead to landslide occurrence in
     connection with rainfall.  Instruments were installed in an active landslide
-    area (ALS) and in a presently vegetated coastal bluff (VH) that has potential
+    area (LS) and in a presently vegetated coastal bluff (VH) that has potential
     for future landsliding. These stations are near Everett/Paine Field in the Field Layout map. The study is part of a larger effort to mitigate the
     effects of landslides on the coastal bluffs and thereby improve safety for
     rail passengers.  For further information contact Rex Baum (<a
