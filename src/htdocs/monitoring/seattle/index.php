@@ -26,11 +26,12 @@
     <h2>Real-time Data</h2>
 
     <h3>National Weather Service:</h3>
+
     <ul>
-      <li><a href="rtdmonitoring.php#nws-cum">Cumulative Precipitation Threshold</a></li>
+      <li><a href="rtdmonitoring.php#nws-forecast">Forecast Relative to Cumulative Precipitation Threshold</a></li>
       <li><a href="rtdmonitoring.php#nws-int">Rainfall Intensity/Duration Threshold</a></li>
+      <li><a href="rtdmonitoring.php#nws-int-dur">Rainfall Intensity/Duration Index</a></li>
       <li><a href="rtdmonitoring.php#nws-wet">Antecedent Wetness Index (AWI)</a></li>
-      <li><a href="rtdmonitoring.php#nws-forecast">Forecast Relative to Threshold</a></li>
     </ul>
     <h3>Bluff location:</h3>
     <ul>
