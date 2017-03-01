@@ -25,13 +25,13 @@
 
 			<h3>4-Day Rain Gage Graph<a name="4dayrain"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50/plots/c157_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c157_4dy.png">
 			</div>
 
 
 			<h3>4-Week Rain Gage Graph<a name="4weekrain"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c157_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c157_4wk.png">
 			</div>
 
 <h2 id="ground">Groundwater Pressure</h2>
@@ -45,23 +45,23 @@
 
 			<h3>4-Day Shallow Pore-Water Pressure Graph<a name="4dayshallow"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50/plots/c154_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c154_4dy.png">
 			</div>
 
 			<h3>4-Week Shallow Pore-Water Pressure Graph<a name="4weekshallow"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c154_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c154_4wk.png">
 			</div>
 
 <h2 id="deep">Deeper Pore-Water Pressure (3.67 meters)</h2>
 			<h3>4-Day Deeper Pore-Water Pressure Graph<a name="4daydeep"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50/plots/c156_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c156_4dy.png">
 			</div>
 
 			<h3>4-Week Deeper Pore-Water Pressure Graph<a name="4weekdeep"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c156_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c156_4wk.png">
 			</div>
 
 <h2 id="downslope">Slope Movement</h2>
@@ -71,12 +71,12 @@
 
 			<h3>4-Day Slope Movement Graph<a name="4dayslope"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50/plots/c153_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c153_4dy.png">
 			</div>
 
 			<h3>4-Week Slope Movement Graph<a name="4weekslope"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c153_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c153_4wk.png">
 			</div>
 
 <h2 id="geophone">Geophone</h2>
@@ -86,12 +86,12 @@
 
 			<h3>4-Day Geophone Graph<a name="4daygeo"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50//plots/c150_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c150_4dy.png">
 			</div>
 
 			<h3>4-Week Geophone Graph<a name="4weekgeo"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c150_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c150_4wk.png">
 			</div>
 
 <h2 id="battery">Battery</h2>
@@ -101,10 +101,10 @@
 
 			<h3>4-Day Battery Graph<a name="4daybat"></a></h3>
 			<div align="center">
-				<img alt="4-day graph" src="/realtime/hwy50/plots/c151_4dy.png">
+				<img alt="4-day graph" src="/static/landslides-realtime/hwy50/plots/c151_4dy.png">
 			</div>
 
 			<h3>4-Week Battery Graph<a name="4weekbat"></a></h3>
 			<div align="center">
-				<img alt="4-week graph" src="/realtime/hwy50/plots/c151_4wk.png">
+				<img alt="4-week graph" src="/static/landslides-realtime/hwy50/plots/c151_4wk.png">
 			</div>
