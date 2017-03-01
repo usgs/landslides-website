@@ -30,7 +30,7 @@
 
     <ul>
       <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
-      <li><a href="rtdmonitoring.php#stage">Flow Stage and Bed Pore Pressure</a></li>
+      <li><a href="rtdmonitoring.php#stage">Flow Stage<!-- and Bed Pore Pressure --></a></li>
       <li><a href="rtdmonitoring.php#battery">Battery Voltage</a></li>
       <li><a href="rtdmonitoring.php#force">Force Plate</a></li>
       <li><a href="rtdmonitoring.php#video">Video Camera</a></li>
@@ -120,7 +120,7 @@
         View of monitoring basin from the debris-flow fan near Chaffee County Road 162.
       </figcaption>
     </figure>
-
+<!--
     <figure>
       <a href="images/ForcePlate_Installation-lg.jpg"><img src="images/ForcePlate_Installation_sm.jpg" alt=""/></a>
       <figcaption>Installing the forceplate.</figcaption>
@@ -130,7 +130,7 @@
       <a href="images/ForcePlate_SideView-lg.jpg"><img src="images/ForcePlate_SideView_sm.jpg" alt=""/></a>
       <figcaption>Side view of the forceplate.</figcaption>
     </figure>
-
+-->
     <figure>
       <a href="images/MapPhotos_Station1-lg.jpg"><img src='images/MapPhotos_Station1_sm.jpg' alt=""/></a>
       <figcaption>Station 1 (view up-channel).</figcaption>
