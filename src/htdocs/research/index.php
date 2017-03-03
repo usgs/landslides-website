@@ -26,6 +26,13 @@
         </a>
         <p>USGS software for landslide assessments and modeling.</p>
       </li>
+      <li>
+        <a href="maps.php">
+          <h3>Maps</h3>
+          <img src="" style="width:150px;height:150px"/>
+        </a>
+        <p>Maps showing recent and historical landslides across the United States</p>
+      </li>
     </ul>
   </div>
 
