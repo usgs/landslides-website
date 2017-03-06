@@ -14,12 +14,24 @@
 
 <ul>
   <li>
+    <a href="https://pubs.er.usgs.gov/publication/fs20163094">
+      The 3D Elevation Program - Landslide recognition, hazard assessment, and mitigation support</a> (FS 2016-3094)
+  </li>
+  <li>
     <a href="https://pubs.usgs.gov/fs/2013/3114/pdf/fs2013-3114.pdf">
       Landslides in the northern Colorado Front Range caused by rainfall, September 11-13, 2013</a> (FS 2013-3114)
   </li>
   <li>
+    <a href="https://pubs.er.usgs.gov/publication/fs20123008">
+     Real-time monitoring of landslides</a> (FS 2012-3008)
+  </li>
+  <li>
     <a href="https://pubs.usgs.gov/fs/2008/3070/">
       Debris-Flow Hazards within the Appalachian Mountains of the Eastern United States</a> (FS 2008-3070)
+  </li>
+  <li>
+    <a href="https://pubs.er.usgs.gov/publication/fs20053156">
+      Landslide Hazards - A National Threat</a> (FS 2005-3156)
   </li>
   <li>
     <a href="https://pubs.usgs.gov/fs/2005/3107/">
