@@ -74,68 +74,6 @@ class Features {
     return $items;
   }
 
-  /**
-   * Format Features list as Html.
-   *
-   * @param $numItems {Integer} default 4.
-   *        total number of items to include in list.
-   * @param $numFeatured {Integer} default 1.
-   *        number of items to "feature".
-   * @return {String} html.
-   */
-  public function toHtml($numItems = 4, $numFeatured = 1) {
-    $items = $this->getItems();
-    $len = count($items);
-
-    $r = '';
-    for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
-      $r .= $this->getFeaturedHtml($items[$i]);
-    }
-
-    $r .= '<ul class="sub-features">';
-    for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
-      $r .= '<li>' .
-        $this->getItemHtml($items[$i]) .
-        '</li>';
-    }
-    $r .= '</ul>';
-    return $r;
-  }
-
-  /**
-   * Format a featured item as Html
-   *
-   * @param item {Item}
-   * @return {String} html formatted item.
-   */
-  protected function getFeaturedHtml ($item) {
-    $r = '<div class="main-featured">' .
-          '<h2 style="margin-bottom:.5em;">' .
-            '<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
-          '</h2>' .
-          '<div class="row">' .
-            '<div class="one-of-four column">' .
-              '<img class="main-featured-image" src="' . $item['image'] .
-                  '" alt=""/>' .
-            '</div>' .
-            '<div class="three-of-four column">' . $item['content'] . '</div>' .
-          '</div>' .
-        '</div>';
-    return $r;
-  }
-
-  /**
-   * Format an item as Html.
-   *
-   * @param item {Item}
-   * @return {String} html formatted item.
-   */
-  protected function getItemHtml ($item) {
-    return '<h2>' .
-      '<a href="' . $item['link'] . '">'. $item['title'] . '</a>' .
-      '</h2>' .
-      '<div>' . $item['content'] . '</div>';
-  }
 
   /**
    * Format Features list as Atom feed.
@@ -159,6 +97,45 @@ class Features {
     }
     $r .= '</feed>';
     return $r;
+  }
+
+
+  /**
+   * Format Features list as Html.
+   *
+   * @param $numItems {Integer} default 4.
+   *        total number of items to include in list.
+   * @param $numFeatured {Integer} default 1.
+   *        number of items to "feature".
+   * @return {String} html.
+   */
+  public function toHtml($numItems = 3, $numFeatured = 0) {
+    $items = $this->getItems();
+    $len = count($items);
+
+    $r = '';
+    for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
+      $r .= $this->getFeaturedHtml($items[$i]);
+    }
+
+    $r .= '<ul class="no-style separator linklist">';
+    for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
+      $r .= $this->getItemHtml($items[$i]);
+    }
+    $r .= '</ul>';
+    return $r;
+  }
+
+
+  /**
+   * Format a time as ISO8601.
+   *
+   * @param $time {Integer}
+   *        unix epoch timestamp in seconds.
+   * @return {String} ISO8601 formatted date.
+   */
+  protected function getAtomDate ($time) {
+    return gmdate('Y-m-d\TH:i:s\Z', $time);
   }
 
   /**
@@ -188,14 +165,25 @@ class Features {
   }
 
   /**
-   * Format a time as ISO8601.
+   * Format an item as Html.
    *
-   * @param $time {Integer}
-   *        unix epoch timestamp in seconds.
-   * @return {String} ISO8601 formatted date.
+   * @param item {Item}
+   * @return {String} html formatted item.
    */
-  protected function getAtomDate ($time) {
-    return gmdate('Y-m-d\TH:i:s\Z', $time);
+  protected function getItemHtml ($item) {
+    $link = '<a> <h3 class="feature-title" style="color:black">';
+    $end = '';
+    if ($item['link'] != '') {
+      $link = '<a href="' . $item['link'] . '"> <h3 class="feature-title">';
+    }
+    return '' .
+      '<li>' .
+        $link . $item['title'] . '</h3>' .
+        '<img class="feature-image" src="' . $item['thumbnail'] .
+        '" style="width:150px" alt="" />' .
+        '</a>' .
+        '<p>' . $item['content'] . '</p>' .
+      '</li>';
   }
 
   /**
@@ -212,5 +200,27 @@ class Features {
     return $this->siteUrl . $this->baseUrl . $link;
   }
 
-}
+  /**
+   * Format a featured item as Html
+   *
+   * @param item {Item}
+   * @return {String} html formatted item.
+   */
+  protected function getFeaturedHtml ($item) {
+    $r = '<div class="main-featured">' .
+          '<h2 style="margin-bottom:.5em;">' .
+            '<a href="' . $item['link'] . '">' . $item['title'] . '</a>' .
+          '</h2>' .
+          '<div class="row">' .
+            '<div class="one-of-four column">' .
+              '<img class="main-featured-image" src="' . $item['image'] .
+                  '" alt=""/>' .
+            '</div>' .
+            '<div class="three-of-four column">' . $item['content'] . '</div>' .
+          '</div>' .
+        '</div>';
+    return $r;
+  }
 
+
+}
