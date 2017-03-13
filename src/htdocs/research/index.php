@@ -10,7 +10,7 @@
 
 <div class="row">
 
-  <div class="column one-of-two">
+  <div class="column two-of-three">
     <ul class="linklist no-style">
       <li>
         <a href="projects.php">
@@ -36,23 +36,19 @@
     </ul>
   </div>
 
-  <div class="column one-of-two">
-    <h2>Featured Research</h2>
-    <ul class="no-style linklist">
-      <li>
-        <a href="featured/2015-westsaltcreek/">
-        <h4>Reconstruction of an Avalanche</h4>
-        <img src="featured/images/westsaltcreek-sm.jpg" alt="green slopes with a brown avalanche"/>
+  <div class="column one-of-three">
+    <div class="alert" style="margin-bottom:16px">
+      <h3>Science for the General Public</h3>
+        <a href="https://www.usgs.gov/center-news/predicting-postfire-debris-flows-saves-lives">
+          <h3>Prediciting Postfire Debris Flows Saves Lives</h3>
+          <img src="/research/featured/images/debrisflow-sm.jpg" width="384"/>
         </a>
-        <p>The West Salt Creek Rock Avalanche, Colorado, May 25, 2014</p>
-      </li>
-    </ul>
 
-    <h2>Rainfall and Landslides in California</h2>
-    <img style='float:left; padding-right: 2em;' src="featured/images/bluebirdcyn2005-sm.jpg" alt="a neighborhood street with cracks and a house tilted from a landside"/>
-    <ul>
-      <li><a href="ca-rainfall/ncal.php">Rainfall and Landslides in Northern and Central California</a></li>
-      <li><a href="ca-rainfall/scal.php">Rainfall and Landslides in Southern California</a></li>
-    </ul>
+        <ul class='no-style separator articles'>
+          <li><a href="https://www.earthmagazine.org/article/down-earth-usgs-landslide-response-team">Down to Earth With:The USGS Landslide Response Team</a></li>
+          <li><a href="featured/2015-westsaltcreek/">Reconstruction of an Avalanche</a></li>
+        </ul>
+
+    </div>
   </div>
 </div>
