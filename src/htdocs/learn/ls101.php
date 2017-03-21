@@ -1,7 +1,6 @@
 <?php
 // Author: Virgil Muntean
 // Contact: Jonathan Godt,
-// Last modified:12/16/2015
   if (!isset($TEMPLATE)) {
   $TITLE = 'Landslides 101';
   $NAVIGATION = true;
@@ -33,12 +32,9 @@
 </p>
 
 <h2>Where do Landslides Occur?</h2>
-<figure class="left">
-  <img src="/hazards/images/nationalmap.gif" alt="map of the U.S. with different colors"/>
-</figure>
 
 <p>
-  <strong>Landslides occur in every state and U.S. territory.</strong> The Appalachian Mountains, the Rocky Mountains and the Pacific Coastal Ranges and some parts of Alaska and Hawaii have severe landslide problems. Any area composed of very weak or fractured materials resting on a steep slope can and will likely experience landslides. See <a href="/hazards/nationalmap/">Landslide Overview Map of the Conterminous United States</a>.
+  <strong>Landslides occur in every state and U.S. territory.</strong> The Appalachian Mountains, the Rocky Mountains and the Pacific Coastal Ranges and some parts of Alaska and Hawaii have severe landslide problems. Any area composed of very weak or fractured materials resting on a steep slope can and will likely experience landslides.
 </p>
 
 <p>
@@ -54,9 +50,5 @@
   <img src="/state_local/images/sfbay.jpg" alt="landslide on edge of slope with a building at the top"/>
 </figure>
 <p>
-  <strong>Landslides are a serious geologic hazard common to almost every State in the United States. It is estimated that in the United States, they cause in excess of $1 billion in damages and from about 25 to 50 deaths each year.</strong> Globally, landslides cause hundreds of billions of dollars in damages and hundreds of thousands of deaths and injuries each year.
-</p>
-
-<p>
-  The National Landslide Information Center, developed by the U.S. Geological Survey, is a multifunctional enterprise dedicated to collection and distribution of all forms of information related to landslides. It is designed to serve landslide researchers, geotechnical practitioners engaged in landslide stabilization, and all other people and entities concerned in any way with landslide hazards analysis and mitigation.
+  <strong>Landslides are a serious geologic hazard common to almost every State in the United States. It is estimated that in the United States, they cause in excess of $1 billion in damages and from about 25 to 50 deaths each year.</strong> Globally, landslides cause many billions in damages and thousands of deaths each year.
 </p>
