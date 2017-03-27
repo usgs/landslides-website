@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt
-      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'U.S. Highway 50, California';
       $NAVIGATION  = true;
@@ -67,7 +66,7 @@
     <div id="map">
     </div>
 
-    <h2>Contacts</h2>
+    <h2>Contact</h2>
     <ul class="no-style">
       <li>
         <p>
@@ -77,16 +76,6 @@
           345 Middlefield Road MS 910<br/>
           Menlo Park, CA  94025<br/>
           <a href="mailto:mreid@usgs.gov">mreid@usgs.gov</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <strong>Rick LaHusen</strong><br/>
-          U.S. Geological Survey<br/>
-          Volcano Hazards<br/>
-          1300 SE Cardinal Court, Building 10, Suite 100<br/>
-          Vancouver, WA 98683<br/>
-          <a href="mailto:rlahusen@usgs.gov">rlahusen@usgs.gov</a>
         </p>
       </li>
     </ul>
