@@ -25,8 +25,8 @@
   <p>Includes Scoops3D, Scoops3D-i, and Scoops3D manual</p>
   <ul>
   	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_ReadMeScoops3D.txt"> ReadMe file  </a></li>
-  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0win_installer.exe"> Windows install package </a></li>
-  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.0mac.dmg"> Mac install disk image </a></li>
+  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.1win_installer.exe"> Windows install package </a></li>
+  	<li> <a href="https://pubs.usgs.gov/tm/14/a01/downloads/tm14-a1_Scoops3D_1.1mac.dmg"> Mac install disk image </a></li>
   </ul>
 
   <h4>Scoops3D examples</h4>
