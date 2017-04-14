@@ -117,10 +117,4 @@
   <figure>
     <a href="images/ContourMap.png"><img src="images/ContourMap_sm.jpg" alt=""/></a>
   </figure>
-  <figure>
-    <a href="images/LaserDistanceDetail.jpg"><img src="images/LaserDistanceDetail-304.jpg" alt=""/></a>
-  </figure>
-  <figure>
-    <a href="images/photo.jpg"><img src="images/photo_sm.jpg" alt=""/></a>
-  </figure>
 </section>

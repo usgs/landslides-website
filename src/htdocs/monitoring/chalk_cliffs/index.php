@@ -132,7 +132,7 @@
     </figure>
 -->
     <figure>
-      <a href="images/MapPhotos_Station1-lg.jpg"><img src='images/MapPhotos_Station1_sm.jpg' alt=""/></a>
+      <a href="images/MapPhotos_Station1_lg.jpg"><img src='images/MapPhotos_Station1_sm.jpg' alt=""/></a>
       <figcaption>Station 1 (view up-channel).</figcaption>
     </figure>
 
