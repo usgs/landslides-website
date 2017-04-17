@@ -52,3 +52,10 @@
 <p>
   <strong>Landslides are a serious geologic hazard common to almost every State in the United States. It is estimated that in the United States, they cause in excess of $1 billion in damages and from about 25 to 50 deaths each year.</strong> Globally, landslides cause many billions in damages and thousands of deaths each year.
 </p>
+
+<h2>Additional Resources</h2>
+<ul>
+  <li>
+    <a href="http://file.dnr.wa.gov/publications/ger_homeowners_guide_landslides.pdf">A Homeowner&apos;s Guide to Landslides for Washington and Oregon</a> - Washington Deptartment of Natural Resources and the Oregon Deptartment of Geology and Mineral Industries
+  </li>
+</ul>
