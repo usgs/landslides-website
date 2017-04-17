@@ -57,10 +57,15 @@ $LS_FEATURES->baseUrl = '';
  *
  */
 
-
- /*<h4></h4>
- <img style='float:left; padding-right: 2em;' src=""/>
-*/
+$LS_FEATURES->items[] = array(
+   'id' => '2017-04-17',
+   'title' => 'Homeowner&apos;s Guide to Landslides',
+   'content' => 'A new publication, <i>A Homeowner&apos;s Guide to Landslides for Washington and Oregon</i> (PDF) by the Washington Deptartment of Natural Resources and the Oregon Deptartment of Geology and Mineral Industries.' ,
+   'link' => 'http://file.dnr.wa.gov/publications/ger_homeowners_guide_landslides.pdf',
+   'modified' => strtotime('2017-04-17'),
+   'thumbnail' => 'images-featured/homeowner-guide.gif',
+   'image' => 'images-featured/homeowner-guide.gif'
+ );
 
 $LS_FEATURES->items[] = array(
    'id' => '2017-01-05',
@@ -68,22 +73,22 @@ $LS_FEATURES->items[] = array(
    'content' => 'How predicting postfire debris flows saves lives.' ,
    'link' => 'https://www.usgs.gov/center-news/predicting-postfire-debris-flows-saves-lives',
    'modified' => strtotime('2017-01-05'),
-   'thumbnail' => '/research/featured/images/debrisflow-sm.jpg',
-   'image' => '/research/featured/images/debrisflow-sm.jpg'
+   'thumbnail' => 'images-featured/debrisflow-sm.jpg',
+   'image' => 'images-featured/debrisflow-sm.jpg'
  );
 
 $LS_FEATURES->items[] = array(
    'id' => '2017-01-01',
    'title' => 'Rainfall and Landslides in California',
    'content' => '
-                    <a href="research/ca-rainfall/ncal.php">Northern and Central California</a>
-                    <br/>
-                    <a href="research/ca-rainfall/scal.php">Southern California</a>
-                  ' ,
+    <a href="research/ca-rainfall/ncal.php">Northern and Central California</a>
+    <br/>
+    <a href="research/ca-rainfall/scal.php">Southern California</a>
+  ' ,
    'link' => '',
    'modified' => strtotime('2017-01-01'),
-   'thumbnail' => '/research/featured/images/bluebirdcyn2005-sm.jpg',
-   'image' => '/research/featured/images/bluebirdcyn2005-sm.jpg'
+   'thumbnail' => 'images-featured/bluebirdcyn2005-sm.jpg',
+   'image' => 'images-featured/bluebirdcyn2005-sm.jpg'
  );
 
  $LS_FEATURES->items[] = array(
@@ -92,8 +97,8 @@ $LS_FEATURES->items[] = array(
     'content' => 'Interview by EARTH magazine of members of the USGS Landslide Reponse Team' ,
     'link' => 'https://www.earthmagazine.org/article/down-earth-usgs-landslide-response-team',
     'modified' => strtotime('2015-03-21'),
-    'thumbnail' => '/research/featured/images/responseteam-sm.jpg',
-    'image' => '/research/featured/images/responseteam-sm.jpg'
+    'thumbnail' => 'images-featured/responseteam-sm.jpg',
+    'image' => 'images-featured/responseteam-sm.jpg'
   );
 
 $LS_FEATURES->items[] = array(
@@ -105,6 +110,5 @@ $LS_FEATURES->items[] = array(
   'thumbnail' => '/research/featured/images/westsaltcreek-sm.jpg',
   'image' => '/research/featured/images/westsaltcreek-sm.jpg'
 );
-
 
 ?>
