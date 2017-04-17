@@ -112,9 +112,5 @@
   </figure>
   <figure>
     <a href="images/LaserDistanceDetail.jpg"><img src="images/LaserDistanceDetail-304.jpg" alt=""/></a>
-    <figcaption>Laser suspended 8 meters above channel.</figcaption>
-  </figure>
-  <figure>
-    <a href="images/ContourMap.png"><img src="images/ContourMap_sm.jpg" alt=""/></a>
   </figure>
 </section>
