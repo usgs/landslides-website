@@ -45,7 +45,7 @@
         </a>
 
         <ul class='no-style separator articles'>
-          <li><a href="https://www.earthmagazine.org/article/down-earth-usgs-landslide-response-team">Down to Earth With:The USGS Landslide Response Team</a></li>
+          <li><a href="https://www.earthmagazine.org/article/down-earth-usgs-landslide-response-team">Down to Earth with the USGS Landslide Response Team</a></li>
           <li><a href="featured/2015-westsaltcreek/">Reconstruction of an Avalanche</a></li>
         </ul>
 
