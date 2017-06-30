@@ -109,7 +109,7 @@ class Features {
    *        number of items to "feature".
    * @return {String} html.
    */
-  public function toHtml($numItems = 3, $numFeatured = 0) {
+  public function toHtml($numItems = 2, $numFeatured = 0) {
     $items = $this->getItems();
     $len = count($items);
 
