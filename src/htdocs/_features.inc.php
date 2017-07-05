@@ -57,6 +57,16 @@ $LS_FEATURES->baseUrl = '';
  *
  */
 
+ $LS_FEATURES->items[] = array(
+    'id' => '2017-06-30',
+    'title' => 'Nuugaatsiaq Landslide&ndash;Preliminary Analysis',
+    'content' => 'Preliminary analysis of the tsunami that hit the community of Nuugaatsiaq, Greenland around 10 pm local time on June 17th, 2017 that presumably killed four people and destroyed eleven homes.' ,
+    'link' => 'https://landslides.usgs.gov/research/featured/2017-nuugaatsiaq/',
+    'modified' => strtotime('2017-06-30'),
+    'thumbnail' => 'images-featured/nuug-landslide.jpg',
+    'image' => 'images-featured/nuug-landslide.jpg'
+  );
+
 $LS_FEATURES->items[] = array(
    'id' => '2017-04-17',
    'title' => 'Homeowner&apos;s Guide to Landslides',
