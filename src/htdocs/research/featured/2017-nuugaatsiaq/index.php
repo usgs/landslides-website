@@ -10,10 +10,19 @@
 
 <p>Erin Bessette-Kirton, Kate Allstadt, Jana Pursley, Jonathan Godt</p>
 
+<div class='alert'>
+  Note: This information will be periodically updated. The most recent posting was on July 5, 2017.
+</div>
+
+<h2>Disclaimer</h2
+<p>
+  This information is preliminary or provisional and is subject to revision. It is being provided to meet the need for timely science to assess ongoing hazards. The information has not received final approval by the U.S. Geological Survey (USGS) and is provided on the condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information.
+</p>
+
 <figure class="right" style="width:450px">
-  <img src="images/fig1.jpg" alt=""/>
+  <a href="images/Fig1-orig.png"><img src="images/fig1.jpg" alt=""/></a>
   <figcaption>
-  Figure 1. Overview map showing the location of the landslide (yellow star) relative to the five  broadband seismic stations with openly available data within 500 km of the landslide (pink triangle). NUUG, is located in the town of Nuugaatsiaq, that was impacted by the tsunami. The black box shows the location of the inset map. The inset map shows the geometry of the fjords relative to the landslide and town of Nuugaatsiaq.
+  Figure 1. Overview map showing the location of the landslide (yellow star) relative to the five  broadband seismic stations with openly available data within 500 km of the landslide (pink triangle). NUUG, is located in the town of Nuugaatsiaq, that was impacted by the tsunami. The black box shows the location of the inset map. The inset map shows the geometry of the fjords relative to the landslide and town of Nuugaatsiaq. Click on image for larger size.
   </figcaption>
 </figure>
 
@@ -31,9 +40,9 @@
   Figure 2 shows the area of the June 17, 2017 Nuugaatsiaq landslide in pre-event images acquired on 5/16/16 and 6/5/17, and a post-event image from 6/22/17. Landslide features in two separate locations are visible in imagery that predates the Nuugaatsiaq landslide, which caused the tsunami on June 17, 2017. A scarp and deposit directly to the east of the Nuugaatsiaq landslide (labeled E in Figure 2 and henceforth referred to as the “East landslide”) appears in imagery dating back to 4/28/2011. Additionally, a scarp and tension cracks located approximately 1 km west of the Nuugaatsiaq landslide (labeled W in Figure 2 and henceforth referred to as the &ldquo;West landslide&rdquo;) are visible in imagery dating back to 5/16/16.
 </p>
 <figure class="center">
-  <img src="images/fig2.jpg" alt=""/>
+  <a href="images/Fig2-orig.jpg"><img src="images/fig2.jpg" alt=""/></a>
   <figcaption>
-    Figure 2. WorldView images from 5/16/16, 6/5/17, and 6/22/17 (DigitalGlobe, Inc.) showing the area of the Nuugaatsiaq Landslide. The approximate location of landslide headscarps on each date are shown in orange. E and W designate the East and West landslides, respectively. The Nuugaatsiaq label designates the Nuugaatsiaq Landslide.
+    Figure 2. WorldView images from 5/16/16, 6/5/17, and 6/22/17 (DigitalGlobe, Inc.) showing the area of the Nuugaatsiaq Landslide. The approximate location of landslide headscarps on each date are shown in orange. E and W designate the East and West landslides, respectively. The Nuugaatsiaq label designates the Nuugaatsiaq Landslide. Click on image for larger size.
   </figcaption>
 </figure>
 <p>
@@ -51,9 +60,9 @@
   Landsat imagery from 6/14/17 (pre-event) and 6/21/17 (post-event) show the Nuugaastiaq, East (labeled E), and West (labeled W) landslides (Figure 3). False color composite images (RGB=564) were used to highlight changes in both images. In the image from 6/21/17, the Nuugaastiaq landslide deposit area appears as a darker shade of red in comparison to the surrounding slope. Similarly, both Landsat images show the deposit area of the East landslide in dark red.
 </p>
 <figure class="center">
-  <img src="images/fig3.jpg" alt=""/>
+  <a href="images/Fig3-orig.jpg"><img src="images/fig3.jpg" alt=""/></a>
   <figcaption>
-    Figure 3. Pre- (6/14/17) and post-event (6/21/17) Landsat 8 false color images (RGB=654) of the Nuugaatsiaq Landslide. The East (E) landslide deposit is apparent in both images and the Nuugaatsiaq landslide is shown in the image from 6/21/17. The West (W) landslide is faintly? visible in both images.
+    Figure 3. Pre- (6/14/17) and post-event (6/21/17) Landsat 8 false color images (RGB=654) of the Nuugaatsiaq Landslide. The East (E) landslide deposit is apparent in both images and the Nuugaatsiaq landslide is shown in the image from 6/21/17. The West (W) landslide is faintly visible in both images. Click on image for larger size.
   </figcaption>
 </figure>
 
@@ -66,9 +75,9 @@
 </p>
 
 <figure class="center">
-  <img src="images/fig4.jpg" alt=""/>
+  <a href="images/Fig4-orig.jpg"><img src="images/fig4.jpg" alt=""/></a>
   <figcaption>
-    Figure 4. Elevation difference between 6/5/17 and 6/22/17 in the area of the Nuugaatsiaq landslide. Differenced DEM is overlain on a WorldView-2 image from 6/22/17 (DigitalGlobe, Inc.). Black lines indicate the approximate location of headscarps delineated from imagery collected on 6/22/17.
+    Figure 4. Elevation difference between 6/5/17 and 6/22/17 in the area of the Nuugaatsiaq landslide. Differenced DEM is overlain on a WorldView-2 image from 6/22/17 (DigitalGlobe, Inc.). Black lines indicate the approximate location of headscarps delineated from imagery collected on 6/22/17. Click on image for larger size.
   </figcaption>
 </figure>
 
@@ -79,9 +88,9 @@
   DEM differences from images collected on 6/5/17 and 6/22/17 show no significant depletion or deposition at the East or West landslides during the June 17, 2017 event. However, we did identify elevation changes in both of these areas in a differenced DEM between 5/12/15 and 6/5/17 (Figure 5). The DEM from 5/12/15 was acquired from the Arctic DEM project (https://www.pgc.umn.edu/data/arcticdem/) and has a resolution of 2 meters. Elevation differences show an accumulation of material in the deposit area of the East landslide and an area of depletion near the scarp of the West landslide. Elevation differences in the East and West landslides coincide with visual observations made from WorldView images taken during the same time period.
 </p>
 <figure class="center">
-  <img src="images/fig5.jpg" alt=""/>
+  <a href="images/Fig5-orig.jpg"><img src="images/fig5.jpg" alt=""/></a>
   <figcaption>
-    Figure 5. Elevation difference between 5/12/15 and 6/5/17 in the area of the Nuugaatsiaq landslide. Differenced DEM is overlain on a WorldView-1 image from 6/5/17 (DigitalGlobe, Inc.). Purple lines indicate the approximate location of scarps delineated from imagery collected on 6/5/17.
+    Figure 5. Elevation difference between 5/12/15 and 6/5/17 in the area of the Nuugaatsiaq landslide. Differenced DEM is overlain on a WorldView-1 image from 6/5/17 (DigitalGlobe, Inc.). Purple lines indicate the approximate location of scarps delineated from imagery collected on 6/5/17. Click on image for larger size.
   </figcaption>
 </figure>
 
@@ -94,35 +103,35 @@
 <p>
   Initially the seismic signals have characteristics typical of large rapid landslide seismic signals, with a long-period pulse visible starting prior to the appearance of the higher frequency energy (Figure 6). Unlike earthquakes where the first P and S wave arrivals can often be seen clearly and picked with relative accuracy for location and magnitude calculations, the higher frequency energy from landslides emerges gradually from the noise and no wave phases are clearly distinguishable. This characteristic makes the application of traditional source location methods challenging, and in some cases impossible. We do not see any characteristics in the seismic data, such as clear P and S wave arrivals, to suggest there was a triggering earthquake, so the observed signal is likely completely generated by the landslide and tsunami sequence itself.
 </p>
-<figure class="left">
-  <img src="images/fig6.gif" alt=""/>
+<figure class="center">
+  <a href="images/Fig6-orig.png"><img src="images/fig6.gif" alt=""/></a>
   <figcaption>
-    Figure 6. Vertical seismic signals generated by the landslide and tsunami, unfiltered data corrected for station sensitivity only. Station names and distances from the source are labeled at left. Zero time is arbitrary and does not correspond to the event time, but rather to the time printed at the top of the figure.
+    Figure 6. Vertical seismic signals generated by the landslide and tsunami, unfiltered data corrected for station sensitivity only. Station names and distances from the source are labeled at left. Zero time is arbitrary and does not correspond to the event time, but rather to the time printed at the top of the figure. Click on image for larger size.
   </figcaption>
 </figure>
 <p>
   The surface wave magnitude of the landslide signal was determined using surface waves recorded on stations between ~2000-5500 km from the event. The magnitude measurements were constrained to group velocity 2.7 - 4.2 km/s and a period window between 18 and 22 s. The final surface wave magnitude (Ms) value of 4.2 was determined using 164 measurements  (Figure 7). Standard location techniques did not produce stable or accurate locations so the location was taken from satellite imagery showing the landslide source area and was not constrained by seismic data. The start time assigned was 2017-06-17 23:39:12 UTC, estimated from first arrival times of long period waves at the five closest stations. Results are posted on the <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us20009nlg">USGS Earthquakes Hazards Program event page</a>.
 </p>
 <figure class="center">
-  <img src="images/fig7a.gif" alt=""/>
-  <img src="images/fig7b.gif" alt=""/>
+  <a href="images/Fig7b-orig.png"><img src="images/fig7b.gif" alt=""/></a>
+  <a href="images/Fig7a-orig.png"><img src="images/fig7a.gif" alt=""/></a>
   <figcaption>
-    Figure 7. Top) Screenshot of seismic data filtered between 0.005 and 0.07 Hz produced with Hydra location software (Patton and others, 2016). Duration of window is 20 minutes, the start time of each seismogram is labeled on the bottom left. The color bars represent predicted wave arrival times for an earthquake at 0 km depth using AK135 model (pink for P phases, green for S phases, purple for surface waves). OT marks the origin time. The emergent character of the signal makes it impossible to pick first arrivals accurately and thus impossible to locate using traditional seismic processing. Bottom) Screenshot of the surface wave signal used for Ms computation from select stations in the U.S.. The waveform in the center is from station near Idaho Springs, CO, about 41 degrees away from the landslide. The Ms at the Idaho Springs station (ISCO) measured 4.79.
+    Figure 7. Top) Screenshot of seismic data filtered between 0.005 and 0.07 Hz produced with Hydra location software (Patton and others, 2016). Duration of window is 20 minutes, the start time of each seismogram is labeled on the bottom left. The color bars represent predicted wave arrival times for an earthquake at 0 km depth using AK135 model (pink for P phases, green for S phases, purple for surface waves). OT marks the origin time. The emergent character of the signal makes it impossible to pick first arrivals accurately and thus impossible to locate using traditional seismic processing. Bottom) Screenshot of the surface wave signal used for Ms computation from select stations in the U.S.. The waveform in the center is from station near Idaho Springs, CO, about 41 degrees away from the landslide. The Ms at the Idaho Springs station (ISCO) measured 4.79. Click on image for larger size.
   </figcaption>
 </figure>
 <p>
   Higher frequency energy attenuates much more quickly with distance than low frequency energy. Therefore the amplitude of the high frequency energy at station NUUG dwarfs that of the more distant stations on Figure 6. The rapid attenuation of high frequency energy is apparent on the spectrograms of those signals (Figure 8), which show the signal at NUUG had much broader spectral content (0-50 Hz). By the time the signal reaches the more distant stations, the energy is primarily below 10 Hz, and mostly concentrated below 1 Hz.
 </p>
-<figure class="right">
-  <img src="images/fig8.gif" alt=""/>
+<figure class="center">
+  <a href="images/Fig8-orig.png"><img src="images/fig8.gif" alt=""/></a>
   <figcaption>
-    Figure 8. Spectrogram of signals shown in Figure 6 showing how the frequency content changes over time on each signal. The sample rate of station SUMG was lower than the others (20Hz) so it only shows 0 to 10 Hz.
+    Figure 8. Spectrogram of signals shown in Figure 6 showing how the frequency content changes over time on each signal. The sample rate of station SUMG was lower than the others (20Hz) so it only shows 0 to 10 Hz. Click on image for larger size.
   </figcaption>
 </figure>
-<figure class="right">
-  <img src="images/fig9.gif" alt=""/>
+<figure class="center">
+  <a href="images/Fig9-orig.png"><img src="images/fig9.gif" alt=""/></a>
   <figcaption>
-    Figure 9. Same as Figure 6 and 8, but lowpass filtered below 0.1 Hz (T=10 sec).
+    Figure 9. Same as Figure 6 and 8, but lowpass filtered below 0.1 Hz (T=10 sec). Click on image for larger size.
   </figcaption>
 </figure>
 <p>
@@ -135,9 +144,9 @@
   The low-frequency/long-period amplitudes are also higher than the other events (Figure 10, right column). The long period (10’s to 100’s of seconds) waveforms are dependent primarily on the magnitude and direction of the forces the bulk acceleration of the landslide mass exerts on the earth, which relates directly to the total mass times its acceleration (Kanamori and Given, 1982; Kawakatsu, 1989). However, the amplitudes at a given station are also dependent on the radiation pattern (and thus the direction of the landslide relative to the source to station azimuth), so a direct one-to-one comparison of amplitudes requires more careful analysis. A rough comparison shows that the amplitudes for all four big events (volumes of 20 to 50 million cubic meters, peak amplitudes of 0.2 to 1.5 x 10-6 m/s), are in the same general range, but the Greenland event is on the high end. The long-period amplitudes are comparable most closely in amplitude to those of the 2016 Lamplugh Glacier Landslide in Alaska, which had a volume of about 50 million cubic meters and initially travelled 1,150 vertical meters in a horizontal distance of 1000 meters (Bessette-Kirton, 2017). If we assume the landslide in Greenland was comparable in style, slope, and behavior to the other three, we can estimate its volume was probably also of the same order of magnitude, several tens of millions of cubic meters. This is consistent with our earlier estimate of 35-51 million cubic meters from pre- and post- DEM differencing.
 </p>
 <figure class="center">
-  <img src="images/fig10.gif" alt=""/>
+  <a href="images/Fig10-orig.png"><img src="images/fig10.gif" alt=""/></a>
   <figcaption>
-    Figure 10. Seismic signal generated by the Greenland event (top row) compared to three other large rapid landslides, 2016 Lamplugh Glacier, Alaska, 50 million cubic meters (second row), 2015 Mount Steele, Alaska, 20 million cubic meters (third row), 2010 Mount Meager, Canada, 48 million cubic meters (last row). The distance of each station from the source is shown in the legend on each plot. The right column shows the signal low pass filtered below 0.05 Hz (20 sec). All stations show ground velocity corrected for sensitivity to mm/s.
+    Figure 10. Seismic signal generated by the Greenland event (top row) compared to three other large rapid landslides, 2016 Lamplugh Glacier, Alaska, 50 million cubic meters (second row), 2015 Mount Steele, Alaska, 20 million cubic meters (third row), 2010 Mount Meager, Canada, 48 million cubic meters (last row). The distance of each station from the source is shown in the legend on each plot. The right column shows the signal low pass filtered below 0.05 Hz (20 sec). All stations show ground velocity corrected for sensitivity to mm/s. Click on image for larger size.
   </figcaption>
 </figure>
 
@@ -146,29 +155,24 @@
   The characteristic of the signal that makes the Greenland event distinct from many other landslide signals is the long period oscillatory signal that emerges strongly about 150 seconds after the first onset of the signal from the landslide (Figure 10, upper right panel at 220 sec) at NUUG.
 </p>
 <p>
-  If we look more carefully and at a longer time period, we see that this oscillatory signal grows in amplitude and period on NUUG, starting at a period of ~100 sec and much lower amplitudes initially and growing to ~200 sec by about 8 minutes after the landslide initiation, 23:47:00 UTC, 9:47 pm local time (Figure 11 and 12). It’s possible that the initial oscillations may be generated by the forces exerted on the earth by the tsunami initiation in the fjord in the source area and the later oscillations may represent the tsunami arriving in NUUG, with the weight of the water causing the ground to move up and down by a seismically measurable amount. This is plausible because these later oscillations don’t appear on other stations. More detailed analysis and modeling is required to test the interpretation and to determine whether quantifiable information about the tsunami can be extracted from the seismic data. According to news reports, emergency services were called around 10:15 pm local time, about half an hour after the first large oscillation at NUUG. The delay could indicate that the first waves were smaller, perhaps that the severity of the flooding didn’t become apparent immediately, or the ground tilt from the oncoming tsunami was detectable at NUUG before the first wave arrived onshore. At the time of this analysis (22 June 2017), data from NUUG was not available from after 23:59:59, likely due to power and/or telemetry loss due to the tsunami, but John Clinton of ETH Zurich and coauthors report on the IRIS special event page for this landslide (https://ds.iris.edu/ds/nodes/dmc/specialevents/2017/06/22/nuugaatsiaq-greenland-landslide-and-tsunami/) that the data has since been recovered and the oscillations from waves at NUUG lasted for over three hours.
+  If we look more carefully and at a longer time period, we see that this oscillatory signal grows in amplitude and period on NUUG, starting at a period of ~100 sec and much lower amplitudes initially and growing to ~200 sec by about 8 minutes after the landslide initiation, 23:47:00 UTC, 9:47 pm local time (Figure 11 and 12). It’s possible that the initial oscillations may be generated by the forces exerted on the earth by the tsunami initiation in the fjord in the source area and the later oscillations may represent the tsunami arriving in NUUG, with the weight of the water causing the ground to move up and down by a seismically measurable amount. This is plausible because these later oscillations don’t appear on other stations. More detailed analysis and modeling is required to test the interpretation and to determine whether quantifiable information about the tsunami can be extracted from the seismic data. According to news reports, emergency services were called around 10:15 pm local time, about half an hour after the first large oscillation at NUUG. The delay could indicate that the first waves were smaller, perhaps that the severity of the flooding didn’t become apparent immediately, or the ground tilt from the oncoming tsunami was detectable at NUUG before the first wave arrived onshore. At the time of this analysis (22 June 2017), data from NUUG was not available from after 23:59:59, likely due to power and/or telemetry loss due to the tsunami, but John Clinton of ETH Zurich and coauthors report on the <a href="https://ds.iris.edu/ds/nodes/dmc/specialevents/2017/06/22/nuugaatsiaq-greenland-landslide-and-tsunami/">IRIS special event page for this landslide</a> that the data has since been recovered and the oscillations from waves at NUUG lasted for over three hours.
 </p>
-<figure class="right">
-  <img src="images/fig11.gif" alt=""/>
+<figure class="center">
+  <a href="images/Fig11-orig.png"><img src="images/fig11.gif" alt=""/></a>
   <figcaption>
-    Figure 11. Half hour long unfiltered time series from the seismic station located in the town of Nuugaatsiaq (station NUUG). The broadband signal at left is generated by the landslide, the later long period oscillations may be generated by the tsunami.
+    Figure 11. Half hour long unfiltered time series from the seismic station located in the town of Nuugaatsiaq (station NUUG). The broadband signal at left is generated by the landslide, the later long period oscillations may be generated by the tsunami. Click on image for larger size.
   </figcaption>
 </figure>
-<figure class="right">
-  <img src="images/fig12.gif" alt=""/>
+<figure class="center">
+  <a href="images/Fig12-orig.png"><img src="images/fig12.gif" alt=""/></a>
   <figcaption>
-    Figure 12. Same time series as Figure 11, but corrected for instrument response and filtered between 10 and 200 seconds.
+    Figure 12. Same time series as Figure 11, but corrected for instrument response and filtered between 10 and 200 seconds. Click on image for larger size.
   </figcaption>
 </figure>
 
 <h2>Summary</h2>
 <p>
   In summary, our analysis of satellite imagery and seismic signals indicates that the June 17, 2017 tsunami that impacted the town of Nuugaatsiaq was generated by a landslide. Satellite imagery reveals that several distinct landslides were present prior to the June 17th landslide. The East landslide, which was cross-cut by the June 17 Nuugaatsiaq landslide, occurred between May 2009 and May 2011. Movement of the East landslide was observed most recently between May 2016 and 6/5/17. The West landslide originated between May 2015 and May 2016 and remains perched on the hillslope above the fjord. If the West landslide were to fail catastrophically similar to the June 17 event, it could potentially generate a future tsunami. Future movement of the Nuugaatsiaq or East landslides could also have a similar effect. DEMs from before and after the Nuugaatsiaq landslide indicate that at a minimum, 35-51 million cubic meters of material was mobilized by the failure, the majority of which travelled into the fjord at the base of the slope and generated the tsunami. The seismic signals generated by the landslide have characteristics and amplitudes similar to other large rapid landslides with volumes of tens of millions of cubic meters. However, one difference is that in addition to the landslide signal, the seismic signals appear to also show seismic waves generated by the forces the tsunami exerted on the earth both in the source area, and locally as waves arrived at Nuugaatsiaq.
-</p>
-
-<h2>Disclaimer</h2
-<p>
-  This information is preliminary or provisional and is subject to revision. It is being provided to meet the need for timely science to assess ongoing hazards. The information has not received final approval by the U.S. Geological Survey (USGS) and is provided on the condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information.
 </p>
 
 <h2>References</h2>
