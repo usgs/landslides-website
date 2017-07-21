@@ -6,8 +6,8 @@ echo navGroup(navItem('/learn/','Learn'),
   navitem('https://www.usgs.gov/faq/?q=taxonomy/term/9752', 'Frequently Asked Questions (FAQ)') .
   navItem('/learn/majorls.php', 'Catastrophic Landslides') .
   navItem('/learn/factsheets.php', 'Factsheets') .
-  navItem('/learn/prepare.php', 'Landslide Preparedness') .
-  navItem('/learn/movie/', 'Landslide Hazards Video') .
+  navItem('/learn/prepare.php', 'Preparedness') .
+  navItem('/learn/videos.php', 'Videos') .
   navItem('/learn/useful_links.php', 'Additional Landslide Information')
 );
 ?>
