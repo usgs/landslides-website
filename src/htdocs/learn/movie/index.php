@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 03/10/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Landslide Hazards Video';
       $NAVIGATION  = true;
@@ -32,64 +31,3 @@
     <p>Request a free DVD - contact Rex Baum(<a href="mailto:baum@usgs.gov">baum@usgs.gov</a>)
   </div>
 </div>
-
-<h3>USGS Fact Sheets</h3>
-<ul>
-  <li><a href="https://pubs.usgs.gov/fs/fs-0071-00/">
-  Landslide Hazards
-  </a> /
-  <a href="https://pubs.usgs.gov/fs/fs-0072-00/">
-  Peligros de Deslizamientos
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/fs/2005/3107/">
-  Southern California Landslides - An Overview
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/fs/2005/3106/">
-  Southern California - Wildfires and Debris Flows
-  </a></li>
-
-  <li><a href="https://pubs.er.usgs.gov/publication/fs11295">
-  Debris-Flow Hazards in the San Francisco, CA Bay Area
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/fs/2004/3072/">
-  Landslide Types and Processes
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/fs/2005/3104/">
-  A NOAA-USGS Demonstration Flash-Flood and Debris-Flow Early-Warning System
-  </a></li>
-</ul>
-
-<h3>USGS Publications</h3>
-<ul>
-  <li><a href="https://pubs.usgs.gov/of/2006/1397/">
-  Scenic Drive landslide as of November, 2006
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/of/2005/1191/">
-  Scenic Drive landslide as of May, 2005
-  </a></li>
-
-  <li><a href="https://pubs.usgs.gov/of/1998/of98-229/">
-  Scenic Drive landslide as of March, 1998
-  </a></li>
-</ul>
-
-
-<h3>Other Sources of Information</h3>
-<ul>
-  <li><a href="https://www.consrv.ca.gov/cgs/">
-  California State Geological Survey
-  </a></li>
-
-  <li><a href="https://www.ready.gov/landslides-debris-flow">
-  Federal Emergency Management Agency (FEMA) - Landslides and Debris Flow
-  </a></li>
-
-  <li><a href="https://www.caloes.ca.gov/">
-  California Emergency Management Agency
-  </a></li>
-</ul>

@@ -2,7 +2,7 @@
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Fact Sheets';
+      $TITLE  =  'Landslides Fact Sheets';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
