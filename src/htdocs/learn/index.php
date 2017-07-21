@@ -66,7 +66,7 @@
         <p>Landslide warning signs, what to do before, during, and after a landslide.</p>
       </li>
       <li>
-        <a href="movie/">
+        <a href="videos.php">
           <h3>Videos</h3>
           <img src="images/video.gif" alt=""/>
         </a>
