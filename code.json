@@ -1,0 +1,30 @@
+{
+  "name": “landslides-website”,
+  "organization": "U.S. Geological Survey",
+  "description": “USGS Landslide Hazards Program website”,
+  "status": “active”,
+  "homepage": "https://github.com/usgs/landslides-website",
+  "downloadURL": "https://github.com/usgs/landslides-website/archive/master.zip",
+
+  "openSourceProject": 1,
+  "license": "https://github.com/usgs/landslides-website/blob/master/LICENSE.md",
+  "vcs": "git",
+  "repository": "https://github.com/usgs/landslides-website.git",
+
+  "tags": [
+    “U.S. Geological Survey“,
+    “USGS“,
+    “landslide”
+  ],
+  "languages": [
+    “English”
+  ],
+
+  "contact": {
+    "name": “Lisa Wald“,
+    "email": “lisa@usgs.gov”
+  },
+  "updated": {
+    "metadataLastUpdated": “2017-08-07”
+  }
+}
