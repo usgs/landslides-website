@@ -34,18 +34,18 @@
         <p>Definitions of landslide science terms.</p>
       </li>
       <li>
-        <a href="https://www.usgs.gov/faq/?q=taxonomy/term/9752">
+        <a href="https://www.usgs.gov/faq/natural-hazards">
           <h3>Frequently Asked Questions (FAQ)</h3>
           <img src="images/faq.gif" alt="FAQ"/>
         </a>
-        <p>If you have a question about landsides, check here first.</p>
+        <p>If you have a question about landsides, check here first. Select Landslides from the drop-down menu and click Apply Filter.</p>
       </li>
       <li>
         <a href="majorls.php">
           <h3>Catastrophic Landslides of the 20th Century - Worldwide</h3>
           <img src="images/majorls.jpg" alt=""/>
         </a>
-        <p>and <a href="significantls.php">Significant Landslides in the United States</a></p>
+        <p>and <a href="significantls.php">Significant Landslides in the United States</a>.</p>
       </li>
     </ul>
   </div>
