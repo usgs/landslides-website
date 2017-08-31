@@ -58,6 +58,16 @@ $LS_FEATURES->baseUrl = '';
  */
 
  $LS_FEATURES->items[] = array(
+    'id' => '2017-08-30',
+    'title' => 'Debris Flow Video from Chalk Cliffs, Colorado',
+    'content' => 'Chalk Cliffs, located 8 miles southwest of Buena Vista, CO, is one of the most active debris-flow areas in the state. This debris flow took place August 18, 2016. ' ,
+    'link' => 'https://www.usgs.gov/media/videos/debris-flow-monitoring-chalk-cliffs-co-2016',
+    'modified' => strtotime('2017-08-30'),
+    'thumbnail' => 'images-featured/chalkcliffs-video.png',
+    'image' => 'images-featured/chalkcliffs-video.png'
+  );
+
+ $LS_FEATURES->items[] = array(
     'id' => '2017-06-30',
     'title' => 'Nuugaatsiaq Landslide&ndash;Preliminary Analysis',
     'content' => 'Preliminary analysis of the tsunami that hit the community of Nuugaatsiaq, Greenland around 10 pm local time on June 17th, 2017 that presumably killed four people and destroyed eleven homes.' ,
