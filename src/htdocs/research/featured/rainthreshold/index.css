@@ -1,0 +1,20 @@
+.sidebar {
+  float: right;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  background-color: gray;
+  color: white;
+}
+
+.component {
+  float: left;
+  width: 200px;
+  height: 175px;
+}
+
+.gage, .intensity{
+  width: 100px;
+  height: 150px;
+
+}
