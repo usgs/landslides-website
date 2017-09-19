@@ -7,14 +7,10 @@
   color: white;
 }
 
-.component {
-  float: left;
-  width: 200px;
-  height: 175px;
+.threshold {
+  width: 289px;
 }
 
-.gage, .intensity{
-  width: 100px;
-  height: 150px;
-
+.intensity{
+  width: 289px;
 }
