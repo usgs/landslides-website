@@ -105,7 +105,7 @@
 <figure>
   <img src="images/postfire-debrisflow-haz.jpg">
   <figcaption>
-    A post-fire debris-flow hazard map that was created following a wildfire in the La Tuna area in the Verdugo Mountains of southern California.
+    A post-fire debris-flow hazard map that was created following a wildfire on September 1, 2017 in the La Tuna area in the Verdugo Mountains of southern California.
   </figcaption>
 </figure>
 
