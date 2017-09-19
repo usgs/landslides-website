@@ -99,13 +99,13 @@
 <iframe width="320" height="180" style="float:left; margin-right:10px;" src="https://www.youtube.com/embed/FOguklpns7c?list=PLIxlFowAfHBC8QbmJLBU7alxvy5z1ZZ1B" frameborder="0" allowfullscreen></iframe>
 
 <p>
-  Debris flows are fast-moving landslides with the consistency of wet concrete and are particularly dangerous because they travel rapidly. Because wildfire removes vegetation and reduces the ability of soils to absorb water increasing runoff and erosion, flash floods and debris flows can occur as a result of even modest rainstorms. Since 2005 the <a href="https://www.wrh.noaa.gov/lox/main.php?suite=hydrology&page=debris-flow_project">USGS has cooperated with the National Weather Service to issue debris-flow warnings for recently burned areas in Southern California</a>.
+  Debris flows are fast-moving landslides with the consistency of wet concrete and are particularly dangerous because they travel rapidly. Because wildfire removes vegetation and reduces the ability of soils to absorb water, increasing runoff and erosion, flash floods and debris flows can occur as a result of even modest rainstorms. Since 2005 the <a href="https://www.wrh.noaa.gov/lox/main.php?suite=hydrology&page=debris-flow_project">USGS has cooperated with the National Weather Service to issue debris-flow warnings for recently burned areas in Southern California</a>.
 </p>
 
 <figure>
   <img src="images/postfire-debrisflow-haz.jpg">
   <figcaption>
-    A post-fire debris-flow hazard map that was created following a wildfire on September 1, 2017 in the La Tuna area in the Verdugo Mountains of southern California.
+    A <a href="/hazards/postfire_debrisflow/">post-fire debris-flow hazard map</a> that was created following a wildfire on September 1, 2017 in the La Tuna area in the Verdugo Mountains of southern California.
   </figcaption>
 </figure>
 
