@@ -16,7 +16,7 @@
   </figcaption>
 </figure>
 <p>
-  An increasing population, along with the roads, buildings, homes, and other infrastructure that accompany it, have expanded into many areas where landslides are possible.  As a result, monetary losses and fatalities from landslides are becoming more common, and the need for landslide early warning systems has become more urgent.  <a href="https://pubs.usgs.gov/fs/2004/3072/pdf/fs2004-3072.pdf">Landslides in their various forms</a> are caused by a variety of different factors, and most landslides are not predictable.  However, scientists have a chance at predicting landslides induced by rainfall. When a prediction and a warning system are in place, and the potentially affected public has been educated about what actions to take, lives can be saved. The research that landslide scientists are doing today may help inform and support a warning system someday in the future.
+  <a href="https://pubs.usgs.gov/fs/2004/3072/pdf/fs2004-3072.pdf">Landslides in their various forms</a> are caused by a variety of different factors, and most landslides are not predictable.  However, scientists have a chance at predicting landslides induced by rainfall. The research that landslide scientists are doing today may help inform and support a warning system someday in the future.
 </p>
 
 <h2>Rain on Wet Soils</h2>
