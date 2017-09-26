@@ -101,7 +101,7 @@
 </ol>
 
 <p>
-  Each of these components presents challenges, but perhaps the most difficult piece is #1. The ability to estimate a precipitation threshold makes it easier to predict the behavior of a landslide without the huge amount of effort gathering records of historical landslides and the associated rainfall data, or a multi-year study of an area.
+  Each of these components presents challenges, but perhaps the most difficult piece is #1.
 </p>
 
 <p>
