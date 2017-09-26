@@ -22,7 +22,7 @@
 <h2>Rain on Wet Soils</h2>
 
 <p>
-  In the early 1970’s a USGS researcher noticed that landslides in southern California occurred in moist soil during times of heavy rainfall.  Later studies by others refined the idea that it had to rain hard enough (intensity) and long enough (duration) to cause landslides.  This led to the development of <strong>rainfall intensity-duration thresholds</strong>, where intensity describes how much rain falls in a unit of time.  However, the intensity and duration of rainfall isn’t always sufficient to identify storms that trigger landslides.
+  In the early 1970’s a USGS researcher noticed that landslides in southern California occurred in moist soil during times of heavy rainfall.  Later studies by others refined the idea that it had to rain hard enough (intensity) and long enough (duration) to cause landslides.  This led to the development of <strong>rainfall intensity-duration thresholds</strong>, where intensity describes how much rain falls in a unit of time.  However, the intensity and duration of rainfall isn’t always sufficient to identify storms that trigger landslides; some deadly slides that were highly correlated with rainfall occurred on days when it was not raining hard.
 </p>
 
 <p class="sidebar">
