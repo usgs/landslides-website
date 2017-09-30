@@ -25,16 +25,7 @@
   The report and geospatial data are incomplete, but will be updated as additional imagery becomes available.
 </p>
 
-<ul>
-  <li>GeoDatabase files
-    <ul>
-      <li><a href="PR_Maria_LSv1-gdb/">GeoDatabase</a></li></li>
-      <li><a href="PR_Maria_LSv1_Buffer100m-lyr"> PR_Maria_LSv1_Buffer100m.lyr</a></li>
-    </ul>
-
-  <li><a href="metadata/">Metadata Record</a></li>
-  <li><a href="ImagesUsed_readme.pdf">Readme File</a></li>
-</ul>
+<p><a href="PR_Maria_LS.zip">Download GeoDatabase, Metadata, and Readme Files</a> (ZIP file)</p>
 
 <figure>
   <img src='images/PR_full_Mariav1.jpg' alt=''/>
