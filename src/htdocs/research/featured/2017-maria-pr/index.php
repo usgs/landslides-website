@@ -8,20 +8,12 @@
       }
 ?>
 
-<p>Erin Bessette-Kirton, Kate Allstadt, Jonathan Godt, ???</p>
-
 <h2>Disclaimer</h2
 <p>
   This information is preliminary or provisional and is subject to revision. It is being provided to meet the need for timely science to assess ongoing hazards. The information has not received final approval by the U.S. Geological Survey (USGS) and is provided on the condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information.
 </p>
 
 <h2>Description</h2>
-
-<figure>
-  <img src='images/PR_full_Mariav1.jpg' alt=''/>
-  <figcaption>
-  </figcaption>
-</figure>
 
 <p>
   Rainfall from Hurricane Maria triggered landslides in the mountainous areas of Puerto Rico. We are examining high-resolution optical satellite imagery to identify locations of roads, other infrastructure, and buildings impacted by landslides. We estimate the accuracy of impact locations to be approximately 100 m (328 ft) based on comparison of preliminary post-storm with pre-storm images. That is, the point locations provided in the database are accurate to only within a 100 m (328 ft) of their actual locations on the ground. The inventory of landslide impacts is likely incomplete even for areas where imagery is available because some impacts may be obscured by clouds, vegetation, or shadows. The purpose of this report and accompanying geospatial data is to assist response and recovery efforts.
@@ -33,7 +25,23 @@
   The report and geospatial data are incomplete, but will be updated as additional imagery becomes available.
 </p>
 
-<!-- insert link to geodatabase and link to metadata record -->
+<ul>
+  <li><a href="PR_MAria_LSv1.gdb">GeoDatabase</a></li>
+  <li><a href="metadata/">Metadata Record</a></li>
+  <li><a href="ImagesUsed_readme.pdf">Readme File</a></li>
+</ul>
+
+<figure>
+  <img src='images/PR_full_Mariav1.jpg' alt=''/>
+  <figcaption>
+  </figcaption>
+</figure>
+
+<figure>
+  <img src='images/PR_inset_Mariav1.jpg' alt=''/>
+  <figcaption>
+  </figcaption>
+</figure>
 
 <figure>
   <img src='images/181458N665302W.jpg' alt=''/>
