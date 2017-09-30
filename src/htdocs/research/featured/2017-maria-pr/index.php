@@ -26,7 +26,12 @@
 </p>
 
 <ul>
-  <li><a href="PR_MAria_LSv1.gdb">GeoDatabase</a></li>
+  <li>GeoDatabase files
+    <ul>
+      <li><a href="PR_Maria_LSv1-gdb/">GeoDatabase</a></li></li>
+      <li><a href="PR_Maria_LSv1_Buffer100m-lyr"> PR_Maria_LSv1_Buffer100m.lyr</a></li>
+    </ul>
+
   <li><a href="metadata/">Metadata Record</a></li>
   <li><a href="ImagesUsed_readme.pdf">Readme File</a></li>
 </ul>
