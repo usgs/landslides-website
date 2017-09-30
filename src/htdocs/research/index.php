@@ -40,7 +40,7 @@
     <div class="alert" style="margin-bottom:16px">
       <h3>Science for the General Public</h3>
         <a href="https://www.usgs.gov/center-news/predicting-postfire-debris-flows-saves-lives">
-          <h3>Prediciting Postfire Debris Flows Saves Lives</h3>
+          <h3>Predicting Postfire Debris Flows Saves Lives</h3>
           <img src="/images-featured/debrisflow-sm.jpg" width="384"/>
         </a>
 

@@ -58,6 +58,16 @@ $LS_FEATURES->baseUrl = '';
  */
 
  $LS_FEATURES->items[] = array(
+    'id' => '2017-09-29',
+    'title' => 'Preliminary locations of landslide impacts from Hurricane Maria, Puerto Rico',
+    'content' => 'Preliminary analysis of rainfall-triggered landslides in the mountainous areas of Puerto Rico from Hurricane Maria.' ,
+    'link' => 'http://landslides.usgs.gov/research/featured/2017-maria-pr/',
+    'modified' => strtotime('2017-09-29'),
+    'thumbnail' => 'images-featured/maria-pr.jpg',
+    'image' => 'images-featured/maria-pr.jpg'
+  );
+
+ $LS_FEATURES->items[] = array(
     'id' => '2017-08-30',
     'title' => 'Debris Flow Video from Chalk Cliffs, Colorado',
     'content' => 'Chalk Cliffs, located 8 miles southwest of Buena Vista, CO, is one of the most active debris-flow areas in the state. This debris flow took place August 18, 2016. ' ,
