@@ -33,6 +33,14 @@
         </a>
         <p>Maps showing recent and historical landslides across the United States</p>
       </li>
+      <li>
+        <a href="prelim.php">
+          <h3>Preliminary Landslide Assessments</h3>
+          <img src="images/prelim.jpg" alt="thumbnail of landslide"/>
+        </a>
+        <p>Provisional information provided quickly after some landslides to meet the need for timely science to assess ongoing hazards.</p>
+      </li>
+
     </ul>
   </div>
 
