@@ -27,14 +27,3 @@
 </ol>
 
 <p>Warnings and Watches for post-fire flash flood and debris flow are based on rainfall intensity-duration thresholds. Such thresholds have been developed for recently burned areas in southern California by comparing characteristics of storms known to have produced flash floods and debris flows with those that did not. Thresholds are defined by identifying those combinations of rainfall intensity and duration that are unique to flash flood and debris-flow producing storms. Where available, information on known times of flood or debris-flow occurrence is incorporated into the thresholds. Threshold lines delineate a range of rainfall combinations - from short duration, high intensity to longer duration, lower intensity - any of which can result in flash-flood or debris-flow activity. Post-fire threshold conditions change with time as sediment supplies are depleted and vegetation recovers, and so in addition to thresholds that are useful for immediately after a fire, thresholds for the following rainy season have also been developed.</p>
-
-<h2>Rainfall Thresholds for Recently Burned Areas in Southern California</h2>
-
-<div class="align-center" style="width:100%;">
-<a href="images/thresholds.jpg" rel="ibox&amp;width=500&amp;height=500">
-<img class="border" src="images/thresholds_sm.jpg" alt="Plot of the Rainfall threshold with axes Rainfall Intensity and Hours of Rainfall" /></a>
-
-<p>
-Rainfall intensity-duration thresholds for recently burned, mountainous areas of southern California. Rainfall conditions above the thresholds are those likely to trigger debris flows and flash floods from recently burned areas. Different areas require different thresholds because of variations in surficial materials, vegetation, topography and prevailing meteorologic conditions.
-</p>
-</div>
