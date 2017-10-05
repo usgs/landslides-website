@@ -2,7 +2,7 @@
       //  Author:  Lisa Wald
       //  Contact:  Jonathan Godt
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Preliminary locations of landslide impacts from Hurricane Maria, Puerto Rico';
+      $TITLE  =  'Preliminary Locations of Landslide Impacts from Hurricane Maria, Puerto Rico';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
