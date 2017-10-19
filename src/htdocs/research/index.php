@@ -34,6 +34,13 @@
         <p>Maps showing recent and historical landslides across the United States</p>
       </li>
       <li>
+        <a href="http://usgs.maps.arcgis.com/home/item.html?id=de583ade9e9e4c4e89303ecf90359535">
+          <h3>Repository of Earthquake-Triggered Ground-Failure Inventories</h3>
+          <img src="images/EQinduced.jpg" alt="thumbnail of map"/>
+        </a>
+        <p>Openly accessible, centralized earthquake-triggered ground-failure inventory repository.</p>
+      </li>
+      <li>
         <a href="prelim.php">
           <h3>Preliminary Landslide Assessments</h3>
           <img src="images/prelim.jpg" alt="thumbnail of landslide"/>
