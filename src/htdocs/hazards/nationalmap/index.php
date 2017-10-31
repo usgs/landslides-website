@@ -57,7 +57,7 @@
 
     <ul class="separator">
       <li>
-        <a href="ftp://hazards.cr.usgs.gov/web/landslides-website/Landslide-US-Overview-GIS.zip" class="offsite">Shapefiles of the landslide data</a>
+        <a href="http://static-content.cr.usgs.gov/static/lfs/landslides-website/Landslide-US-Overview-GIS.zip" class="offsite">Shapefiles of the landslide data</a>
       </li>
       <li>
         <a href="https://pubs.usgs.gov/of/1997/ofr-97-0289/" class="offsite">Tarred and gzipped ArcInfo AMLS and associated text files (500mb when decompressed)</a>
