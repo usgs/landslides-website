@@ -1,13 +1,13 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:	Jonathan Godt,
-      //	Last	modified:	03/24/2016
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'If you live in a recently burned area, and there is a rainstorm…';
       $NAVIGATION	= true;
       include	'template.inc.php';
       }
 ?>
+<!-- this file is linked from all the post-fire pages and from the main Hazards page -->
 
 <h2>Prior to Storms</h2>
 
