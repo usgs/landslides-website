@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<h3><a href="/research/hazards/whattodo.php">If you live in a recently burned area, and there is a rainstorm…</a></h3>
+<h3><a href="/research/wildfire/whattodo.php">If you live in a recently burned area, and there is a rainstorm…</a></h3>
 
 <hr />
 
