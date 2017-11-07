@@ -88,19 +88,16 @@
       <a target="_blank" class="offsite" href="https://wildfire.usgs.gov/geomac/">Fire Planning and Mapping Tools</a>
     </li>
     <li>
-  		<a target="_blank" class="offsite" href="https://gcmd.gsfc.nasa.gov/learn/pointers/glob_warm.html">NASA - Global Warming and Climate Change Policy Websites</a>
-  	</li>
-    <li>
-  		<a target="_blank" class="offsite" href="https://www.nasa.gov/">National Atmospheric and Space Administration</a> (NASA)
+  		<a target="_blank" class="offsite" href="http://www.nasa.gov/">National Atmospheric and Space Administration</a> (NASA)
   	</li>
   	<li>
-  		<a target="_blank" class="offsite" href="https://www.noaa.gov/">National Oceanic and Atmospheric Association Homepage</a> (NOAA)
+  		<a target="_blank" class="offsite" href="http://www.noaa.gov/">National Oceanic and Atmospheric Association Homepage</a> (NOAA)
   	</li>
   	<li>
   		<a target="_blank" class="offsite" href="https://www.nsf.gov/">National Science Foundation</a>
   	</li>
     <li>
-      <a target="_blank" class="offsite" href="https://www.nws.noaa.gov/">National Weather Service</a> (NWS) - National Oceanic and Atmospheric Association
+      <a target="_blank" class="offsite" href="http://www.nws.noaa.gov/">National Weather Service</a> (NWS) - National Oceanic and Atmospheric Association
     </li>
     <li>
       <a target="_blank" class="offsite" href="https://www.nwcg.gov/">National Wildfire Coordinating Group</a>
