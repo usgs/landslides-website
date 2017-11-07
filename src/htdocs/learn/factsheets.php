@@ -81,11 +81,11 @@
       Debris Flow Hazards in the United States</a> (FS 176-97)
   </li>
   <li>
-    <a href="docs/fs159-96.pdf">
-      Debris-Flow Hazards in the Blue Ridge of Virginia</a> (PDF version) <a href="blueridge.php">HTML version</a> (FS 159-96)
+    <a href="https://pubs.usgs.gov/fs/1996/0159/report.pdf">
+      Debris-Flow Hazards in the Blue Ridge of Virginia</a> (FS 159-96)
   </li>
   <li>
-    <a href="docs/sfbayfs97.pdf">
-      San Francisco Area Debris-Flow Hazard</a> (FS 112-95)
+    <a href="https://pubs.usgs.gov/fs/fs-0112-95/fs-0112-95.pdf">
+      Debris-flow Hazards in the San Francisco Bay Region</a> (FS 112-95)
   </li>
 </ul>

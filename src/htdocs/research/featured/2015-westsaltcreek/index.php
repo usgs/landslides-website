@@ -172,22 +172,22 @@
     </a>
   </li>
   <li>
-    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides-2/">
+    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides/">
       CO Geol Survey – Landslides
     </a>
   </li>
   <li>
-    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides-2/west-salt-creek-landslide/">
+    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides/west-salt-creek-landslide/">
       CO Geol Survey West Salt Creek Landslide Bulletin 55
     </a>
   </li>
   <li>
-    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides-2/debeque-canyon-landslide/">
+    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides/debeque-canyon-landslide/">
       CO Geol Survey – DeBeque Canyon Landslide
     </a>
   </li>
   <li>
-    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides-2/east-fork-san-juan-river-landslide/">
+    <a href="http://coloradogeologicalsurvey.org/geologic-hazards/landslides/east-fork-san-juan-river-landslide/">
       CO Geol Survey – E Fork San Juan River Landslide
     </a>
   </li>
