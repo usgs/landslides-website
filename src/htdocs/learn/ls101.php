@@ -56,6 +56,9 @@
 <h2>Additional Resources</h2>
 <ul>
   <li>
-    <a href="http://file.dnr.wa.gov/publications/ger_homeowners_guide_landslides.pdf">A Homeowner&apos;s Guide to Landslides for Washington and Oregon</a> - Washington Deptartment of Natural Resources and the Oregon Deptartment of Geology and Mineral Industries
+    <a href="https://pubs.usgs.gov/circ/1325/">The Landslide Handbook—A Guide to Understanding Landslides</a>
+  </li>
+  <li>
+    <a href="http://file.dnr.wa.gov/publications/ger_homeowners_guide_landslides.pdf">A Homeowner&apos;s Guide to Landslides for Washington and Oregon</a> - Washington Deptartment of Natural Resources and the Oregon Department of Geology and Mineral Industries
   </li>
 </ul>
