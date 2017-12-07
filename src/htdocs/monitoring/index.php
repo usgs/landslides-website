@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified:  05/02/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Landslide Monitoring';
       $NAVIGATION  = true;
@@ -23,7 +22,7 @@
   <div class="column two-of-three">
     <p>
     Monitoring is essential to predicting the behavior of landslides and forecasting which storms can trigger large numbers of landslides.
-    Scientists in the USGS Landslide Hazards Program monitor selected landslides and hillsides in order to learn more about the physical processes that trigger landslides or control their movement.
+    Scientists in the USGS Landslide Hazards Program work with colleagues at the Colorado School of Mines and other agencies and institutions to monitor selected landslides and hillsides in order to learn more about the physical processes that trigger landslides or control their movement.
     </p>
 
     <h2>Current Monitoring Sites</h2>
