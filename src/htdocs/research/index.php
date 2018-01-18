@@ -53,17 +53,12 @@
 
   <div class="column one-of-three">
     <div class="alert" style="margin-bottom:16px">
-      <h3>Science for the General Public</h3>
-        <a href="https://www.usgs.gov/center-news/predicting-postfire-debris-flows-saves-lives">
-          <h3>Predicting Postfire Debris Flows Saves Lives</h3>
-          <img src="/images-featured/debrisflow-sm.jpg" width="384"/>
-        </a>
 
-        <ul class='no-style separator articles'>
-          <li><a href="https://www.earthmagazine.org/article/down-earth-usgs-landslide-response-team">Down to Earth with the USGS Landslide Response Team</a></li>
-          <li><a href="featured/2015-westsaltcreek/">Reconstruction of an Avalanche</a></li>
-        </ul>
-
+      <a href="featured/">
+        <h3>Science for Everyone</h3>
+        <img src="/images-featured/debrisflow-sm.jpg" width="384"/>
+      </a>
+      <p>Science briefs about new landslides research written for non-scientists.</p>
     </div>
   </div>
 </div>
