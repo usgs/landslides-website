@@ -26,4 +26,13 @@
 	<li>Be particularly alert when driving.  Bridges may be washed out, and culverts overtopped.  Do not cross flooding streams!! Turn Around, Don't Drown &reg;!  Embankments along roadsides are particularly susceptible to landsliding.  Watch the road for collapsed pavement, mud, fallen rocks, and other indications of debris flow.</li>
 </ol>
 
-<p>Warnings and Watches for post-fire flash flood and debris flow are based on rainfall intensity-duration thresholds. Such thresholds have been developed for recently burned areas in southern California by comparing characteristics of storms known to have produced flash floods and debris flows with those that did not. Thresholds are defined by identifying those combinations of rainfall intensity and duration that are unique to flash flood and debris-flow producing storms. Where available, information on known times of flood or debris-flow occurrence is incorporated into the thresholds. Threshold lines delineate a range of rainfall combinations - from short duration, high intensity to longer duration, lower intensity - any of which can result in flash-flood or debris-flow activity. Post-fire threshold conditions change with time as sediment supplies are depleted and vegetation recovers, and so in addition to thresholds that are useful for immediately after a fire, thresholds for the following rainy season have also been developed.</p>
+<p>
+  Warnings and Watches for post-fire flash flood and debris flow are based on rainfall intensity-duration thresholds. Such thresholds have been developed for recently burned areas in southern California by comparing characteristics of storms known to have produced flash floods and debris flows with those that did not. Thresholds are defined by identifying those combinations of rainfall intensity and duration that are unique to flash flood and debris-flow producing storms. Where available, information on known times of flood or debris-flow occurrence is incorporated into the thresholds. Threshold lines delineate a range of rainfall combinations - from short duration, high intensity to longer duration, lower intensity - any of which can result in flash-flood or debris-flow activity. Post-fire threshold conditions change with time as sediment supplies are depleted and vegetation recovers, and so in addition to thresholds that are useful for immediately after a fire, thresholds for the following rainy season have also been developed.
+</p>
+
+<h2>For More Information</h2>
+<ul>
+  <li>
+    <a href="https://www.youtube.com/watch?v=BUuyd9HRZ1A">What is a debris flow?</a> - Santa Barbara County
+  </li>
+</ul>
