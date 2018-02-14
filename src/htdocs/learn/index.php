@@ -63,14 +63,14 @@
           <h3>Preparedness</h3>
           <img src="images/prepare.gif" alt=""/>
         </a>
-        <p>Landslide warning signs, what to do before, during, and after a landslide.</p>
+        <p>Landslide and debris flow warning signs, what to do before, during, and after.</p>
       </li>
       <li>
         <a href="videos.php">
           <h3>Videos</h3>
           <img src="images/video.gif" alt=""/>
         </a>
-        <p>Riding The Storm - Landslide Danger in the San Francisco Bay Area: a documentary film, based on true-life landslide events. (shown on Public Broadcasting Television in certain areas on February 19,2007).</p>
+        <p>Educational videos about the science of landslides and debris flows.</p>
       </li>
       <!-- PHOTOS
       <li>
