@@ -76,7 +76,7 @@
 
     <div class='alert'>
       <h2>Meeting Announcement</h2>
-      <img src="images/DFHMlogo.png">
+      <img src="images/DFHMlogo.png" alt="DFHM logo">
       <br style="clear:left;"/>
       <h3>7th International Conference on Debris Flow Hazards Mitigation</h3>
       <p>June 10-13, 2019 in Golden, Colorado<br/>
