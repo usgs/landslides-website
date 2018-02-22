@@ -64,15 +64,27 @@
 
   <!--FEATURED RESEARCH-->
   <div class="column one-of-two">
+
     <div class='alert'>
       <h2>Highlights</h2>
       <hr/>
       <?php
       include_once '_features.inc.php';
       echo $LS_FEATURES->toHtml();
-
        ?>
+    </div>
 
+    <div class='alert'>
+      <h2>Meeting Announcement</h2>
+      <img src="images/DFHMlogo.png" alt="DFHM logo">
+      <br style="clear:left;"/>
+      <h3>7th International Conference on Debris Flow Hazards Mitigation</h3>
+      <p>June 10-13, 2019 in Golden, Colorado<br/>
+        Abstracts submittal deadline: May 31, 2018
+      </p>
+      <p>
+        <a href="http://dfhm7.csmspace.com/about_dfhm7.html">Information and Registration</a>
+      </p>
     </div>
   </div>
 </div>
