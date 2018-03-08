@@ -4,6 +4,7 @@
 
   if (!isset($TEMPLATE)) {
   $TITLE = 'Landslide Hazards Program';
+  $HEAD = '<link rel="stylesheet" href="index.css"/>';
   $NAVIGATION = true;
   include 'template.inc.php';
 }
@@ -62,16 +63,18 @@
     </div>
   </div>
 
-  <!--FEATURED RESEARCH-->
   <div class="column one-of-two">
-
+    <!--FEATURED RESEARCH-->
+    <h2>Highlights</h2>
+    <!-- Featured Items -->
     <div class='alert'>
-      <h2>Highlights</h2>
-      <hr/>
       <?php
       include_once '_features.inc.php';
       echo $LS_FEATURES->toHtml();
-       ?>
+      ?>
+
+      <p><a href="highlight-archives.php">View Highlight Archives</a></p>
+      <a href="atom.php"><img style="padding-right:16px;" src="images/rssfeed.gif" alt="ATOM feed">Subscribe to Landslide Hazards Program Highlights</a>
     </div>
 
     <div class='alert'>

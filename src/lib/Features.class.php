@@ -39,11 +39,11 @@
 class Features {
 
   // id for features list.
-  public $id = 'usgs_landslides_research';
+  public $id = 'usgs_landslides_home';
   // author for features list.
   public $author = 'U.S. Geological Survey';
   // site url (ends with a /).
-  public $siteUrl = '/';
+  public $siteUrl = 'https://landslides.usgs.gov/';
   // base url for section (ends with a /).
   public $baseUrl;
   // title of features list.
@@ -103,29 +103,25 @@ class Features {
   /**
    * Format Features list as Html.
    *
-   * @param $numItems {Integer} default 4.
-   *        total number of items to include in list.
-   * @param $numFeatured {Integer} default 1.
-   *        number of items to "feature".
+   * @param $maxFeatures {Integer}
+   *        number of features to output.
+   *        output all if $maxFeatures is less than zero.
+   *        default 2.
    * @return {String} html.
    */
-  public function toHtml($numItems = 2, $numFeatured = 0) {
+  public function toHtml($maxFeatures=2) {
     $items = $this->getItems();
     $len = count($items);
 
     $r = '';
-    for ($i = 0; $i < $len && $i < $numFeatured; $i++) {
-      $r .= $this->getFeaturedHtml($items[$i]);
-    }
-
-    $r .= '<ul class="no-style separator linklist">';
-    for ($i = $numFeatured; $i < $len && $i < $numItems; $i++) {
+    $r .= '<ul class="no-style linklist feature">';
+    for ($i = 0; $i < $len && ($maxFeatures < 0 || $i < $maxFeatures); $i++) {
       $r .= $this->getItemHtml($items[$i]);
     }
     $r .= '</ul>';
+
     return $r;
   }
-
 
   /**
    * Format a time as ISO8601.
@@ -144,51 +140,46 @@ class Features {
    * @param item {Item}
    * @return {String} atom entry element.
    */
-  protected function getAtomEntry ($item) {
-    $r = '';
-    $r .= '<entry>' .
-      '<id>' . $item['id'] . '</id>' .
-      '<title>' . $item['title'] . '</title>' .
-      '<updated>' . $this->getAtomDate($item['modified']) . '</updated>' .
-      '<link rel="alternate" type="text/html" href="' . $this->getLink($item['link']) . '"/>' .
-      '<summary type="html"><![CDATA[' .
-        '<img src="' . $this->getLink($item['thumbnail']) . '" width="100" align="left" hspace="10"/>' .
-        $item['content'] .
-      ']]></summary>';
-    if (isset($item['tags'])) {
-      foreach ($item['tags'] as $tag) {
-        $r .= '<category term="' . $tag . '"/>';
-      }
+   protected function getAtomEntry ($item) {
+     $r = '';
+     $r .= '<entry>' .
+       '<id>' . $item['id'] . '</id>' .
+       '<title>' . $item['title'] . '</title>' .
+       '<updated>' . $this->getAtomDate($item['modified']) . '</updated>' .
+       '<link rel="alternate" type="text/html" href="' .
+       $this->getLink($item['link']) . '"/>' .
+       '<summary type="html"><![CDATA[' .
+       '<img src="' . $this->getLink($item['thumbnail']) .
+       '" width="100" align="left" hspace="10"/>' . $item['content'] .
+       ']]></summary>';
+     if (isset($item['tags'])) {
+       foreach ($item['tags'] as $tag) {
+         $r .= '<category term="' . $tag . '"/>';
+       }
+     }
+     $r .= '</entry>';
+     return $r;
+   }
+   /**
+    * Format an item as Html.
+    *
+    * @param item {Item}
+    * @return {String} html formatted item.
+    */
+    protected function getItemHtml ($item) {
+      return '' .
+       '<li>' .
+         '<a href="' . $item['link'] . '">' .
+         '<h4>' . $item['title'] . '</h4>' .
+         '<img class="feature-image" src="' . $item['thumbnail'] .
+         '" alt="" />' .
+         '</a>' .
+         '<p>' . $item['content'] . '</p>' .
+       '</li>';
     }
-    $r .= '</entry>';
-    return $r;
-  }
-
-  /**
-   * Format an item as Html.
-   *
-   * @param item {Item}
-   * @return {String} html formatted item.
-   */
-  protected function getItemHtml ($item) {
-    $link = '<a> <h3 class="feature-title" style="color:black">';
-    $end = '';
-    if ($item['link'] != '') {
-      $link = '<a href="' . $item['link'] . '"> <h3 class="feature-title">';
-    }
-    return '' .
-      '<li>' .
-        $link . $item['title'] . '</h3>' .
-        '<img class="feature-image" src="' . $item['thumbnail'] .
-        '" style="width:150px" alt="" />' .
-        '</a>' .
-        '<p>' . $item['content'] . '</p>' .
-      '</li>';
-  }
-
-  /**
-   * Get an absolute link from a relative link.
-   *
+   /**
+    * Get an absolute link from a relative link.
+    
    * @param $link {String}
    *        relative or absolute link.
    * @return {String} absolute link.
