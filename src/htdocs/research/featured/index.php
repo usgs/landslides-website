@@ -15,13 +15,11 @@
 <h3>2018</h3>
 <!-- Featured Items -->
   <?php
-  /*
   include_once '2018/_features.inc.php';
-  echo $EQ_FEATURES->toHtml(-1);
-  */
+  echo $LS_FEATURES->toHtml(-1);
   ?>
 
-<h3>Science for Everyone Archives</h3>
+  <h3>Science for Everyone Archives</h3>
 
 <h4>2017</h4>
 <ul>
