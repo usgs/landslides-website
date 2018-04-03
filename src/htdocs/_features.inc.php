@@ -12,6 +12,16 @@ $LS_FEATURES->siteUrl = 'https://landslides.usgs.gov/';
 $LS_FEATURES->baseUrl = '';
 
 
+$LS_FEATURES->items[] = array(
+   'id' => '2018-04-03',
+   'title' => 'Landslides triggered by the 14 November 2016 Mw 7.8 Kaikoura Earthquake, New Zealand',
+   'content' => 'In the months since the earthquake a large team of USGS scientists and collaborators has been involved in constructing and analyzing an inventory of landslides from this event. (AGU Landslide Blog)' ,
+   'link' => 'https://blogs.agu.org/landslideblog/2018/04/03/bssa-mw-7-8-kaikoura-earthquake-1/',
+   'modified' => strtotime('2018-02-03'),
+   'thumbnail' => 'images-featured/Kaikoura-geol-effects.png',
+   'image' => 'https://landslides.usgs.gov/images-featured/Kaikoura-geol-effects.png'
+ );
+
  $LS_FEATURES->items[] = array(
     'id' => '2018-01-29',
     'title' => 'USGS Geologists Study Debris-Flow Aftermath in Montecito',
