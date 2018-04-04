@@ -9,18 +9,18 @@
   }
 ?>
 
-<h2>Status as of February 13, 2017</h2>
+<h2>Status as of April 3, 2018</h2>
 
 <h3>General</h3>
 <p>
   This slide moves in response to elevated ground-water pore pressures caused by infiltration from rainfall or melting snow. It typically moves during a wet winter and spring and is dormant during dry times. Continued downslope movement of this slide will likely occur in future wet seasons.
 </p>
-<p>Displayed precipitation is cumulative since October 1, 2016.</p>
+<p>Displayed precipitation is cumulative since October 1, 2017.</p>
 
 <h3>Current Activity</h3>
 <p>Activity status is updated when conditions at the slide change.<p>
 <p>
-  The central area of the landslide is currently not moving (as shown on the website).  Parts of the toe area of the slide have been moving since mid-January.  Both shallow and deeper pore-water pressures are elevated following recent rains and snowmelt.  Elevated pore-water pressures at depth are needed to initiate movement.
+  The landslide is currently not moving. Pore-water pressures in the slide are low. Elevated pore-water pressures at depth are needed to initiate movement.  The slide often begins moving following about 40 inches of cumulative precipitation for the season.
 </p>
 
 <h3>Past Activity</h3>
