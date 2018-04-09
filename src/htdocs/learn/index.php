@@ -52,6 +52,13 @@
   <div class="column one-of-two">
     <ul class="linklist">
       <li>
+        <a href='/research/featured/'>
+          <h3>Science for Everyone</h3>
+          <img src="/images-featured/debrisflow-sm.jpg" width="150" alt=""/>
+        </a>
+        <p>Science briefs about new landslides research written for non-scientists.</p>
+      </li>
+      <li>
         <a href='factsheets.php'>
           <h3>Factsheets</h3>
           <img src="images/factsheets.gif" width="150" alt=""/>
