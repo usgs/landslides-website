@@ -38,7 +38,11 @@
 <p>-written by Lisa Wald</p>
 
 <h2>For More Information</h2>
-
+<ul>
+  <li>
+    Mirus, Benjamin B., Smith, Joel B., and Baum, Rex L.  <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017WR020842">Hydrologic Impacts of Landslide Disturbances: Implications for Remobilization and Hazard Persistence</a>, Water Resources Research, v53, 10, 2017.
+  </li>
+</ul>
 
 <h2>The Scientist Behind the Science</h2>
 
@@ -47,7 +51,7 @@
     <figure class="left">
       <img src="images/Ben-Mirus-Ice.jpg" alt=""/>
       <figcaption>
-        Ben Mirus at ???
+        Ben Mirus.
       </figcaption>
     </figure>
 
@@ -70,14 +74,14 @@
   </div>
   <div class='column one-of-three'>
     <figure class="left">
-      <img src="images/???" alt=""/>
+      <img src="images/Joel-Smith.jpg" alt=""/>
       <figcaption>
         Joel Smith.
       </figcaption>
     </figure>
 
     <p>
-      Joel Smith...
+      <strong>Joel Smith</strong> has been a civil engineer with the USGS since 2011, where he develops and applies monitoring techniques to study landslide processes. When not working in the field, he enjoys playing guitar, luthiery, and woodworking.
     </p>
 
   </div>
