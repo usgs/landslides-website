@@ -44,7 +44,7 @@
   </li>
 </ul>
 
-<h2>The Scientist Behind the Science</h2>
+<h2>The Scientists Behind the Science</h2>
 
 <div class='row'>
   <div class='column one-of-three'>
