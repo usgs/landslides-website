@@ -35,4 +35,5 @@
   <li>
     <a href="https://www.youtube.com/watch?v=BUuyd9HRZ1A">What is a debris flow?</a> - Santa Barbara County
   </li>
+  <li><a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf">Post Wildfire Flash Flood and Debris Flow Guide</a> - National Weather Service</li>
 </ul>
