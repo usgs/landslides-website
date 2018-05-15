@@ -11,6 +11,15 @@ $LS_FEATURES->author = 'U.S. Geological Survey';
 $LS_FEATURES->siteUrl = 'https://landslides.usgs.gov/';
 $LS_FEATURES->baseUrl = '';
 
+$LS_FEATURES->items[] = array(
+   'id' => '2018-05-14',
+   'title' => 'Landslides Can Cause More Landslides',
+   'content' => 'The deadliest individual landslides in the U.S. recently were in places where there had previously been a landslide. Why do landslides happen in the same place instead of on nearby slopes that appear to be just as likely, if not more likely, to slide?' ,
+   'link' => 'https://landslides.usgs.gov/research/featured/2018/landslide-disruption/',
+   'modified' => strtotime('2018-05-14'),
+   'thumbnail' => 'https://landslides.usgs.gov/images-featured/more-landslides.jpg',
+   'image' => 'https://landslides.usgs.gov/images-featured/more-landslides.jpg'
+ );
 
 $LS_FEATURES->items[] = array(
    'id' => '2018-04-03',
