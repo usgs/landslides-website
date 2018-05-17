@@ -80,7 +80,7 @@
 
 <h2>The Scientist Behind the Science</h2>
 
-<figure class='left'>
+<figure class='left' style="width: 300px;">
 <img src="images/Kate-Allstadt.jpg" alt=""/>
 <figcaption>
   Kate Allstadt.
