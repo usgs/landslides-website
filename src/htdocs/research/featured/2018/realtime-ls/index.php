@@ -75,7 +75,12 @@
     Kate E. Allstadt, Randall W. Jibson, Eric M. Thompson, Chris I. Massey, David J. Wald, Jonathan W. Godt, Francis K. Rengers;
     <a href="https://pubs.geoscienceworld.org/ssa/bssa/article/529880/improving-near-real-time-coseismic-landslide">Improving Near‐Real‐Time Coseismic Landslide Models: Lessons Learned from the 2016 Kaikoura, New Zealand, Earthquake.</a> Bulletin of the Seismological Society of America doi: https://doi.org/10.1785/0120170297
   </li>
-  <li></li>
+  <li>
+    <a href="https://blogs.agu.org/landslideblog/2017/09/14/seafront-landslide/">Landslides from the Kaikoura earthquake part 1: the Seafront landslide</a> - AGU Landslide Blog
+  </li>
+  <li>
+    <a href="https://blogs.agu.org/landslideblog/2017/09/16/hapuku-landslide/">Landslides from the Kaikoura Earthquake part 2: the Hapuku landslide</a> - AGU Landslide Blog
+  </li>
 </ul>
 
 <h2>The Scientist Behind the Science</h2>
