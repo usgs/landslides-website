@@ -9,6 +9,12 @@
   }
 ?>
 
+<p>
+  <a href="realtime-landslides.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <div class='row'>
   <div class='column three-of-five'>
     <p>
