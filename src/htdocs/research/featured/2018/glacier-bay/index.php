@@ -8,6 +8,12 @@
   }
 ?>
 
+<p>
+  <a href="glacierbay.pdf">
+    <i class="material-icons">save_alt</i> Download PDF
+  </a>
+</p>
+
 <figure class='right'>
 <img src="images/Fig2.jpg" alt=""/>
 <figcaption>
@@ -36,7 +42,7 @@
 <figure>
 <img src="images/Fig11-mod.gif" alt=""/>
 <figcaption>
-  Graph showing landslides that occurred when the elevation of the freezing temperature in the center of the northern half of the study area was below the average elevation (blue bars) and above the average elevation (red bars). The clusters are highlighted in yellow. (Temperature data is from the North American Freezing Level Tracker (NAFLT).) The question marks signify that the start and end times for the first and last clusters (respectively) are not known. The clusters in this study occured when the temperature on the upper slopes was higher than normal.
+  Graph showing landslides that occurred when the elevation of the freezing temperature in the center of the northern half of the study area was below the average elevation (blue bars) and above the average elevation (red bars). The clusters are highlighted in yellow. (Temperature data is from the North American Freezing Level Tracker (NAFLT).) The question marks signify that the start and end times for the first and last clusters (respectively) are not known. The clusters in this study occured when the temperature on the upper slopes was higher than normal for successive years.
 </figcaption>
 </figure>
 <p>
@@ -57,8 +63,6 @@
   </li>
   <li><a href="http://www.ldeo.columbia.edu/news-events/massive-landslide-detected-glacier-bay%E2%80%99s-fragile-mountains">Massive Landslide Detected in Glacier Bay’s Fragile Mountains</a> - Lamont-Doherty Earth Observatory News
   </li>
-  <li><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004512">Using Stereo Satellite Imagery to Account for Ablation, Entrainment, and Compaction in Volume Calculations for Rock Avalanches on Glaciers: Application to the 2016 Lamplugh Rock Avalanche in Glacier Bay National Park, Alaska</a> - JGR paper
-  </li>
   <li>
     <a href="https://blogs.agu.org/landslideblog/2017/09/12/rock-avalanche-alaska/">Increasing rock avalanche size and mobility in Alaska may be associated with climate change</a> - AGU Landslide Blog
   </li>
@@ -76,22 +80,29 @@
   </li>
 </ul>
 
-<h2>The USGS Scientists Behind the Science</h2>
-<figure class='left' style='width: 250px;'>
-<img src="images/JeffCoe.jpg" alt=""/>
-<figcaption>
-  Jeff Coe.
-</figcaption>
-</figure>
-<p>
-  Jeff Coe is a geologist who has been with the USGS for 30 years. Twenty-two of these years have been spent researching landslide processes and hazards. In his free time, Jeff enjoys building rock walls, hiking, and pretty much everything else outdoors.
-</p>
-<figure class='left' style='width: 300px;'>
-<img src="images/Bessette-Kirton.jpg" alt=""/>
-<figcaption>
-  Erin Bessette-Kirton...
-</figcaption>
-</figure>
-<p>
-  Erin Bessette-Kirton has worked at the USGS for two years, researching landslides in many parts of the US and around the world. She enjoys hiking, mountain biking, running, skiing, and exploring Colorado.
-</p>
+<h2>The Scientists Behind the Science</h2>
+<div class='row'>
+    <div class='column one-of-two'>
+      <figure style="width:250px;">
+      <img src="images/JeffCoe.jpg" alt=""/>
+      <figcaption>
+        Jeff Coe.
+      </figcaption>
+      </figure>
+      <p>
+        <a href="https://www.usgs.gov/staff-profiles/jeffrey-coe?qt-staff_profile_science_products=3#qt-staff_profile_science_products"><strong>Jeff Coe</strong></a> is a geologist who has been with the USGS for 30 years. Twenty-two of these years have been spent researching landslide processes and hazards. In his free time, Jeff enjoys building rock walls, hiking, and pretty much everything else outdoors.
+      </p>
+    </div>
+
+    <div class='column one-of-two'>
+      <figure>
+      <img src="images/Bessette-Kirton.jpg" alt=""/>
+      <figcaption>
+        Erin Bessette-Kirton.
+      </figcaption>
+      </figure>
+      <p>
+        <a href="https://www.usgs.gov/staff-profiles/erin-bessette-kirton"><strong>Erin Bessette-Kirton</strong></a> has worked at the USGS for two years, researching landslides in many parts of the US and around the world. She enjoys hiking, mountain biking, running, skiing, and exploring Colorado.
+      </p>
+    </div>
+</div>
