@@ -16,16 +16,16 @@
 </figure>
 
 <p>
-  Not all landslides occur as catastrophic events. Some creep along at a snail’s pace, stopping and starting, and not advancing more than 1 meter per year, and many of these are called earthflows.  Earthflows are extremely common all over the world, in fact they’re much more common than the fast-moving, deadly landslides we hear about often.  Since earthflows rarely cause loss of life, they aren’t in the news like their damaging counterparts. Despite the fact that earthflows are so common, scientists still haven’t completely nailed down the reasons why they are so sluggish and sometimes move in fits and starts. Two USGS geologists, Bill Schulz and Joel Smith, and several colleagues from other institutions, studied one of thousands of earthflows in Northern California by the name of Two Towers to see if they could learn more about what controls their behavior, and that of other slow-moving landslides.
+  Not all landslides occur as catastrophic events. Some creep along at a snail’s pace, stopping and starting, and not advancing more than 1 meter per year, and many of these are called earthflows.  Earthflows are extremely common all over the world, in fact they’re much more common than the fast-moving, deadly landslides we hear about often.  Since earthflows rarely cause loss of life, hey are rarely in the news like their deadly counterparts but they do cause a great deal of damage worldwide. Despite the fact that earthflows are so common, scientists still haven’t completely nailed down the reasons why they are so sluggish and sometimes move in fits and starts. Improved understanding of these reasons not only helps reduce hazards from earthflow movement, but also aids the understanding of how many types of landslides work. USGS scientist Bill Schulz, engineer Joel Smith, and several colleagues from other institutions, studied one of thousands of earthflows in Northern California by the name of Two Towers to see if they could learn more about what controls their behavior.
 </p>
 <p>
-  The Two Towers earthflow is about 250m long, about 40m wide, and 7m deep and moves under 1m per year. It’s typical of many of the other earthflows in the area near Zenia, CA, and it was chosen for this study because it moves slowly, has a simple shape, and is small enough to accommodate the small number of instruments the scientists had available to dedicate to a multi-year study. Such a slow-moving landslide requires a long time and a lot of patience to collect adequate data for a study, and the team collected data for roughly 2-1/2 years from 2014 to 2017.
+  The Two Towers earthflow is about 250m long, about 40m wide, and 7m deep and moves under 1m per year. It’s typical of many of the other earthflows in the area near Zenia, CA, and it was chosen for this study because it moves slowly, has a simple shape, and is small enough to accommodate the small number of instruments the researchers had available to dedicate to a multi-year study. Such a slow-moving landslide requires a long time and a lot of patience to collect adequate data for a study, and the team collected data for roughly 2-1/2 years from 2014 to 2017.
 <br/>
 
 <figure class='left' style="width: 300px;">
 <img src="images/view.jpg" alt=""/>
 <figcaption>
-  Caption here.
+  Photograph of the team installing landslide thickness and movement sensors.
 </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@
 </p>
 
 <p>
-  Previous studies had concluded that pore water pressure, or the amount of water in the open spaces between the dirt particles in the landslide material, controlled the movement of earthflows. If that were the case, one would expect the landslide to start moving when it contained water, and to move the fastest when it contained the most water. However, the data in this study showed that the timing and speed of the earthflow movement did not correlate with the amount of water.   Instead, the initiation of movement was several months after the water amount peaked, and the peak speed occurred when the amount of water was decreasing.  The previously mentioned lab analyses of the samples from the earthflow were essential in illuminating the reasons for this behavior.
+  Previous studies had concluded that pore water pressure, or the pressure of water in the open spaces between the dirt particles in the landslide material, controlled the movement of earthflows. If that were the case, one would expect the landslide to start moving when it contained enough water, and to move the fastest when it contained the most water. However, the data in this study showed that the timing and speed of the earthflow movement did not correlate with the amount of water.   Instead, the initiation of movement was several months after the water amount peaked, and the peak speed occurred when the amount of water was decreasing.  The previously mentioned lab analyses of the samples from the earthflow were essential in illuminating the reasons for this behavior.
 </p>
 
 <figure>
@@ -50,23 +50,23 @@
 <figure class='right'>
 <img src="images/hole.jpg" alt=""/>
 <figcaption>
-  Caption here.
+  Photograph showing installation of a sensor to measure swell pressure.
 </figcaption>
 </figure>
 
 <figure class='right'>
 <img src="images/instr-setup.jpg" alt=""/>
 <figcaption>
-  Caption here.
+  Photograph showing the team creating deep holes to install sensors that measure pore-water pressure.
 </figcaption>
 </figure>
 
 
 <p>
-  Although clays and soil swelling may play a role in the timing and speed of many landslides, there is still a great deal to learn about this phenomenon and the exact details of how it works. Presumably the amount of clay matters, and the shape of the earthflow may matter. The interplay of the amount of water (pore pressure) and amount and type of clay (swell pressure) may be complex, and the effect it has on the other properties of the material, such as its strength to hold together, may be complicated.  There are so many other factors that influence landslide behavior, and it’s difficult to determine the relative influence each has when each landslide is unique.
+  Although clays and soil swelling may play a role in the timing and speed of many landslides, there is still a great deal to learn about this phenomenon and the exact details of how it works. Presumably the amount and type of clay matters, and the shape of the earthflow also matters. The interplay of the amount of water (pore pressure) and amount and type of clay (swell pressure) may be complex, and the effect it has on the other properties of the material, such as its strength to hold together, may be complicated.  There are so many other factors that influence landslide behavior, and it’s difficult to determine the relative influence each has when each landslide is unique.
 </p>
 <p>
-  All steep slopes may look the same, but they don’t behave the same. Some steep slopes have the potential to fail suddenly and quickly and cause damage, and others are more lethargic and pose a lower hazard. Whatever makes earthflows start and stop can be applied to faster-moving landslides, and this will help scientists understand the mechanics of all landslides. The results will also help identify which slopes pose the highest hazards.
+  All steep slopes may look the same, but they don’t behave the same. Some steep slopes have the potential to fail suddenly and quickly and cause loss of life, and others are more lethargic and pose a lower hazard. Many factors that cause slow earthflows to move faster also affect other types of landslides, including those that move rapidly, so the findings from these studies may have wide applicability. The results will also help identify which slopes pose the highest hazards.
 </p>
 
 <p>-written by Lisa Wald</p>
