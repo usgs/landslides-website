@@ -24,7 +24,7 @@
 <figure>
 <img src="images/map.gif" alt=""/>
 <figcaption>
-  Map of the Glacier Bay study area with the 24 rock avalanches in this study shown as red dots. Those that are part of a cluster have yellow outlines.???
+  Map of the Glacier Bay study area with the 24 rock avalanches in this study shown as red dots.
 </figcaption>
 </figure>
 <p>
@@ -33,6 +33,12 @@
 <p>
   All of the landslides were in the northern part of the study area at high elevations, and 75% of them were on north- to northeast-facing slopes. Those areas are particularly subject to mountain permafrost.  Mountain permafrost is the ice in the cracks and crevices between the rocks that hold them together and help stabilize steep slopes.  There were 3 clusters of activity: 1984-1986, 1994-1995, and 2012-present, and the most recent cluster had more and larger rock avalanches that originated higher on the slopes and travelled further.
 </p>
+<figure>
+<img src="images/Fig11-mod.gif" alt=""/>
+<figcaption>
+  Graph showing landslides that occurred when the elevation of the freezing temperature in the center of the northern half of the study area was below the average elevation (blue bars) and above the average elevation (red bars). The clusters are highlighted in yellow. (Temperature data is from the North American Freezing Level Tracker (NAFLT).) The question marks signify that the start and end times for the first and last clusters (respectively) are not known. The clusters in this study occured when the temperature on the upper slopes was higher than normal.
+</figcaption>
+</figure>
 <p>
   After eliminating several other possible causes for the increase in numbers, rock size, and travel distance for the most recent avalanches, the scientists suggest that the melting of the mountain permafrost is the answer. The overall warmer temperatures in the last few decades in this part of Alaska cause the permafrost to degrade or partially melt, destabilizing the slopes and making rock slides and rock avalanches more likely.  The reason why the rock avalanches are initiating at higher elevations and on the north side of slopes is that those are areas that have more mountain permafrost and are most susceptible to changes in long-term temperatures.
 </p>
@@ -44,31 +50,29 @@
 <h2>For More Information</h2>
 <ul>
   <li>
-    <a href="https://link.springer.com/article/10.1007/s10346-017-0879-7">Increasing rock-avalanche size and mobility in Glacier Bay National Park and Preserve, Alaska detected from 1984 to 2016 Landsat imagery</a>
+    Coe, J.A., Bessette-Kirton, E.K. & Geertsema, M. <a href="https://link.springer.com/article/10.1007/s10346-017-0879-7">Increasing rock-avalanche size and mobility in Glacier Bay National Park and Preserve, Alaska detected from 1984 to 2016 Landsat imagery</a>, Landslides (2018) 15: 393.
   </li>
   <li>
-    <a href="https://www.adn.com/alaska-news/science/2017/09/18/as-ice-thaws-rock-avalanches-on-southeast-alaska-mountains-are-getting-bigger/">As ice thaws, rock avalanches on Southeast Alaska mountains are getting bigger</a>
+    <a href="https://www.adn.com/alaska-news/science/2017/09/18/as-ice-thaws-rock-avalanches-on-southeast-alaska-mountains-are-getting-bigger/">As ice thaws, rock avalanches on Southeast Alaska mountains are getting bigger</a> - Anchorage Daily News
+  </li>
+  <li><a href="http://www.ldeo.columbia.edu/news-events/massive-landslide-detected-glacier-bay%E2%80%99s-fragile-mountains">Massive Landslide Detected in Glacier Bay’s Fragile Mountains</a> - Lamont-Doherty Earth Observatory News
+  </li>
+  <li><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004512">Using Stereo Satellite Imagery to Account for Ablation, Entrainment, and Compaction in Volume Calculations for Rock Avalanches on Glaciers: Application to the 2016 Lamplugh Rock Avalanche in Glacier Bay National Park, Alaska</a> - JGR paper
   </li>
   <li>
-    http://www.ldeo.columbia.edu/news-events/massive-landslide-detected-glacier-bay%E2%80%99s-fragile-mountains
+    <a href="https://blogs.agu.org/landslideblog/2017/09/12/rock-avalanche-alaska/">Increasing rock avalanche size and mobility in Alaska may be associated with climate change</a> - AGU Landslide Blog
   </li>
   <li>
-    https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004512
+    <a href="https://blogs.agu.org/landslideblog/2016/01/02/tyndall-glacier-landslide-1/">The Tyndall Glacier landslide in Alaska</a> - AGU Landslide Blog</a>
   </li>
   <li>
-    <a href="https://blogs.agu.org/landslideblog/2017/09/12/rock-avalanche-alaska/">Increasing rock avalanche size and mobility in Alaska may be associated with climate change</a>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004512">Using stereo satellite imagery to account for ablation, entrainment, and compaction in volume calculations for rock avalanches on glaciers: Application to the 2016 Lamplugh rock avalanche in Glacier Bay National Park, Alaska</a> - JGR paper
   </li>
   <li>
-    <a href="https://blogs.agu.org/landslideblog/2016/01/02/tyndall-glacier-landslide-1/">The Tyndall Glacier landslide in Alaska - AGU Blogosphere</a>
+    <a href="https://www.hakaimagazine.com/features/when-mountains-fall-into-the-sea/">When mountains fall into the sea</a> - Hakai Magazine
   </li>
   <li>
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004512">Using stereo satellite imagery to account for ablation, entrainment, and compaction in volume calculations for rock avalanches on glaciers: Application to the 2016 Lamplugh rock avalanche in Glacier Bay National Park, Alaska</a>
-  </li>
-  <li>
-    <a href="https://www.hakaimagazine.com/features/when-mountains-fall-into-the-sea/">When mountains fall into the sea</a>
-  </li>
-  <li>
-    <a href="http://dggs.alaska.gov/webpubs/dggs/ic/text/ic065.pdf">Landslides in Alaska</a>
+    <a href="http://dggs.alaska.gov/webpubs/dggs/ic/text/ic065.pdf">Landslides in Alaska</a> - Alaska Division of Geological and Geophysical Surveys
   </li>
 </ul>
 
