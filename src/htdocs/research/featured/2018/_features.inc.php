@@ -15,11 +15,11 @@ $LS_FEATURES->baseUrl = '';
 $LS_FEATURES->items[] = array(
    'id' => '2018-06-11',
    'title' => 'Slow-Motion Landslides',
-   'content' => '' ,
+   'content' => 'Sluggishly-moving earthflows can help us learn what controls the starting and stopping of landslides.' ,
    'link' => 'https://landslides.usgs.gov/research/featured/2018/clayey-ls/',
    'modified' => strtotime('2018-06-11'),
-   'thumbnail' => 'https://landslides.usgs.gov/images-featured/?',
-   'image' => 'https://landslides.usgs.gov/images-featured/?'
+   'thumbnail' => 'https://landslides.usgs.gov/images-featured/TwoTowers-sm.jpg',
+   'image' => 'https://landslides.usgs.gov/images-featured/TwoTowers-sm.jpg'
  );
 
 $LS_FEATURES->items[] = array(
