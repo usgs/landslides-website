@@ -1,7 +1,6 @@
 <?php
       //	Author:	Tiffany Kalin
       //	Contact:	Jonathan Godt,
-      //	Last	modified:
       if	(!isset($TEMPLATE))	{
       $TITLE	=	'Landslide Preparedness';
       $NAVIGATION	= true;
@@ -50,7 +49,7 @@
 
 		<li>Get a ground assessment of your property.</li>
 
-		<li>Contact local officials, state geological surveys or departments of natural resources, and university departments of geology. Landslides occur where they have before, and in identifiable hazard locations. Ask for information on landslides in your area, specific information on areas vulnerable to landslides, and request a professional referral for a very detailed site analysis of your property, and corrective measures you can take, if necessary.</li>
+		<li>Contact local officials, state geological surveys or departments of natural resources, and university departments of geology. Landslides occur where they have before, and in identifiable hazard locations. Ask for information on landslides in your area, specific information on areas vulnerable to landslides, and request a professional referral for a very detailed site analysis of your property, and corrective measures you can take, if necessary. Get information about the emergency-response and evacuation plans for your area.  Develop your own emergency plan for your family or business.</li>
 
 		<li>Watch the patterns of storm-water drainage near your home, and note the places where runoff water converges, increasing flow in channels. These are areas to avoid during a storm.</li>
 
@@ -78,7 +77,7 @@
 
 		<li>If you are near a stream or channel, be alert for any sudden increase or decrease in water flow and for a change from clear to muddy water. Such changes may indicate landslide activity upstream, so be prepared to move quickly. Don't delay! Save yourself, not your belongings.</li>
 
-		<li>Be especially alert when driving. Bridges may be washed out, and culverts overtopped. Do not cross flooding streams!! Turn Around, Don't Drown&reg;!.  Embankments along roadsides are particularly susceptible to landslides. Watch the road for collapsed pavement, mud, fallen rocks, and other indications of possible debris flows.</li>
+		<li>Be especially alert when driving. Bridges may be washed out, and culverts overtopped. Do not cross flooding streams!! <a href="http://www.nws.noaa.gov/os/water/tadd/">Turn Around, Don't Drown&reg;!</a>. Embankments along roadsides are particularly susceptible to landslides. Watch the road for collapsed pavement, mud, fallen rocks, and other indications of possible debris flows.</li>
 
 		<li>Be aware that strong shaking from earthquakes can induce or intensify the effects of landslides.</li>
 	</ul>
@@ -112,4 +111,11 @@
 		<li>Replant damaged ground as soon as possible since erosion caused by loss of ground cover can lead to flash flooding and additional landslides in the near future.</li>
 
 		<li>Seek advice from a geotechnical expert for evaluating landslide hazards or designing corrective techniques to reduce landslide risk. A professional will be able to advise you of the best ways to prevent or reduce landslide risk, without creating further hazard.</li>
-	</ul>
+	</ul
+
+  <h2>See also:</h2>
+  <ul>
+    <li>
+      <a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf">Post Wildfire Flash Flood and Debris Flow Guide</a> - NOAA National Weather Service
+    </li>
+  </ul>
