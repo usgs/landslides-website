@@ -21,7 +21,6 @@ var connect = {
     },
     {
       context: [
-        '/hazards/postfire_debrisflow',
         '/static'
       ],
       host: 'landslides.usgs.gov',
