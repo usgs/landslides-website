@@ -5,5 +5,6 @@ unless you know what you're doing.
 
 index.php
 detail.php
+css/
 images/
 js/
