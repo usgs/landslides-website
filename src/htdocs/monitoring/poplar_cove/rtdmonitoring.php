@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 03/31/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Real-time Data Sensors';
       $NAVIGATION  = true;
@@ -19,8 +18,7 @@
 <h2 id="rainfall">Rainfall</h2>
   <p>Rainfall is measured at the monitoring site using one 8-inch-diameter tipping-bucket rain gauges that measure 0.01 inch of rainfall per tip.</p>
   <div align="center">
-  <h3>Rainfall over the last 14 days at Mooney Gap Rain
-  Gauge</h3>
+  <h3>Rainfall over the last 14 days at Poplar Cove Rain Gauge</h3>
   <img
   src="/static/landslides-realtime/plots/ncPoplarCove_precip_twoWeek.png">
   </div>
