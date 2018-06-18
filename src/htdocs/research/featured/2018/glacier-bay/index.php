@@ -25,7 +25,7 @@
   We usually hear about landslides and avalanches that are caused by large amounts of rainfall, the shaking from earthquakes, or a volcanic eruption, but we may be hearing more about avalanches caused by the (seemingly innocuous) melting of ice in the coming years. One such rock avalanche occurred on the Lamplugh glacier in a remote part of Glacier Bay National Park and Preserve in June of 2016. The occurrence was initially known only because it was captured on seismic instruments used to record earthquakes, and it released the same amount of energy as an M5.2 earthquake.
 </p>
 <p>
-  Rock avalanches are landslides of fragmented rock that begin from rock slides and can be extremely hazardous because they are large and can move long distances at extremely rapid speeds.  Southeast Alaska, where Glacier Bay National Park is located, has had a notable number of rock avalanches in recent years, including the largest non-volcanic landslide ever recorded in North America in October of the previous year on the Tyndall Glacier. This rock avalanche generated a tsunami that ran about 600 ft up a shoreline, one of the largest tsunami runups ever recorded.
+  Rock avalanches are landslides of fragmented rock that begin from rock slides and can be extremely hazardous because they are large and can move long distances at extremely rapid speeds.  Southeast Alaska, where Glacier Bay National Park is located, has had a notable number of rock avalanches in recent years, including the largest non-volcanic landslide ever recorded in North America in October of 2015 on the Tyndall Glacier. This rock avalanche generated a tsunami that ran about 600 ft up a shoreline, one of the largest tsunami runups ever recorded.
 </p>
 <figure>
 <img src="images/map.gif" alt=""/>
