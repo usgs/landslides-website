@@ -13,6 +13,16 @@ $LS_FEATURES->baseUrl = '';
 
 
 $LS_FEATURES->items[] = array(
+   'id' => '2018-06-18',
+   'title' => 'Mountain Permafrost, Climate Change, and Rock Avalanches in Glacier Bay National Park, Alaska',
+   'content' => 'We usually hear about landslides and avalanches that are caused by large amounts of rainfall, the shaking from earthquakes, or a volcanic eruption, but we may be hearing more about avalanches caused by the (seemingly innocuous) melting of ice in the coming years.' ,
+   'link' => 'https://landslides.usgs.gov/research/featured/2018/glacier-bay/',
+   'modified' => strtotime('2018-06-18'),
+   'thumbnail' => 'https://landslides.usgs.gov/images-featured/glacierbay.jpg',
+   'image' => 'https://landslides.usgs.gov/images-featured/glacierbay.jpg'
+ );
+
+$LS_FEATURES->items[] = array(
    'id' => '2018-06-11',
    'title' => 'Slow-Motion Landslides',
    'content' => 'Sluggishly-moving earthflows can help us learn what controls the starting and stopping of landslides.' ,
