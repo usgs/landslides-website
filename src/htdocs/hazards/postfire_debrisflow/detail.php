@@ -23,10 +23,17 @@ if (!isset($TEMPLATE)) {
 
 ?>
 
-<p>
-  <strong><a href="/learn/prepare.php">Landslide Preparedness</a></strong>
-  - what to do if you live in a recently-burned area where debris flows
+
+<p class="alert info">
+  What to do if you live in a recently-burned area where debris flows
   are possible, and there is a rainstorm - before, during, and after.
+
+  Download the
+  <a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf">
+    National Weather Service
+    Post Wildfire Flash Flood and Debris Flow Guide
+    (PDF 7.2 MB)
+  </a>
 </p>
 
 
