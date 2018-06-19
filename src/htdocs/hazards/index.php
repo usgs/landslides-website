@@ -32,9 +32,17 @@
   </div>
 </div>
 
-<h3><a href="/learn/prepare.php">If you live in a recently burned area, and there is a rainstorm…</a></h3>
+<p class="alert info">
+  What to do if you live in a recently-burned area where debris flows
+  are possible, and there is a rainstorm - before, during, and after.
 
-<hr />
+  Download the
+  <a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf">
+    National Weather Service
+    Post Wildfire Flash Flood and Debris Flow Guide
+    (PDF 7.2 MB)
+  </a>
+</p>
 
 <figure class='right'>
   <img src="images/Mullally.jpg" alt=""/>
