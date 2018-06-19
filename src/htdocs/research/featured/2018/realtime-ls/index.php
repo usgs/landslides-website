@@ -9,24 +9,22 @@
   }
 ?>
 
-<!--
 <p>
   <a href="realtime-landslides.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <div class='row'>
   <div class='column three-of-five'>
     <p>
-      When we think of earthquake damage, the first images that come to mind are collapsed buildings and bridges, or cracked roads and chimneys.  But landslides triggered by shaking have caused the majority of damage or loss of life in some earthquakes. In 1964, the Great Alaska earthquake caused most of the neighborhood of Turnagain Heights to slide down the bluff toward the ocean.  More recently, the magnitude 7.8 Nepal earthquake in April 2015 triggered thousands of landslides, blocking critical roads and trails to villages, and causing hundreds of fatalities. Much of the area shaken by the earthquake was remote and mountainous and weather was poor after the earthquake, so it took weeks to fully assess where landslides had occurred, how remote villages were affected, and where resources needed to be deployed.
+      When we think of earthquake damage, the first images that come to mind are collapsed buildings and bridges, or cracked roads and chimneys.  But landslides triggered by shaking have caused the majority of damage or loss of life in some earthquakes. In 1964, the Great Alaska earthquake caused most of the neighborhood of Turnagain Heights in Anchorage, Alaska, to slide down the bluff toward the ocean.  More recently, the magnitude 7.8 Nepal earthquake in April 2015 triggered thousands of landslides, blocking critical roads and trails to villages, and causing hundreds of fatalities. Much of the area shaken by the earthquake was remote and mountainous and weather was poor after the earthquake. It took weeks to fully assess where landslides had occurred, how remote villages were affected, and where resources needed to be deployed.
     </p>
     <p>
       The magnitude 7.8 earthquake on the South Island of New Zealand (NZ) in November of 2016 triggered a staggering 10,000+ landslides in a 10,000 square kilometer area. The landslides blocked the main transportation route to the north part of the South Island, completely cut off the town of Kaikoura, and partially or fully blocked many other secondary roads in the region. New Zealand government agencies were able to quickly conduct aerial surveys that roughly identified the most affected areas within 5 days, but these were ideal conditions. In poor weather or in many more remote parts of the world, like Nepal, determining where landslides occurred and thus where a response effort is needed, can take much longer.
     </p>
     <p>
-      Having a map showing where landslides are most likely to have occurred as quickly as possible after an earthquake is important for the coordinating response efforts and for mitigating the risks. The Earthquake Hazards Program (EHP) currently reports basic earthquake information in near-realtime, as well as estimates of probable damage and fatalities from earthquake shaking for significant events usually within an hour. A goal of the EHP is to augment current earthquake reports with rapid estimates about potential earthquake-triggered landslides.
+      A quick map to show where landslides most likely occurred after an earthquake is important for the coordinating response efforts and for mitigating the risks. The Earthquake Hazards Program (EHP) currently reports basic earthquake information in near-realtime, as well as estimates of probable damage and fatalities from earthquake shaking for significant events usually within an hour. A goal of the EHP is to augment current earthquake reports with rapid estimates about potential earthquake-triggered landslides.
     </p>
   </div>
 
@@ -70,12 +68,12 @@
 </figure>
 
 <p>
-  They found that the system was very sensitive to the details of the ShakeMap, meaning that a more accurate ShakeMap produces a more accurate map of the likely landslides.  And all models examined predicted that the hazard level, or the landslide impact overall was higher than what was actually observed in the NZ earthquake.  However, all the models were successful at roughly identifying the areas of highest landslide hazard when the extent of the earthquake rupture was added to the initial point-based ShakeMap, usually within a few hours after the earthquake.  Since the purpose of the system is to provide information to help guide the response to an earthquake in the hours and days before what actually occurred is known, this is a positive result.
+  They found that the system was very sensitive to the details of the ShakeMap, meaning that a more accurate ShakeMap produces a more accurate map of the likely landslides.  And all models examined predicted that the hazard level, or the landslide impact overall was higher than what was actually observed in the NZ earthquake.  However, all the models were successful at roughly identifying the areas of highest landslide hazard when the extent of the earthquake rupture was added to the initial point-based ShakeMap, usually within a few hours after the earthquake.  Since the purpose of the system is to provide information to help guide the response to an earthquake in the hours and days before what actually occurred is known, this is an important result.
 </p>
 <p>
   They will continue to test and improve the system in hopes that it will provide useful information for future earthquake-triggered landslide response and mitigation efforts.
 </p>
-<p>- written by Lisa Wald, U.S. Geological Survey</p>
+<p>- written by Lisa Wald, U.S. Geological Survey, June 19, 2018</p>
 
 <h2>For More Information</h2>
 <ul>
