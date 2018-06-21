@@ -100,7 +100,7 @@
     </ul>
     <h2>Cooperators</h2>
     <ul>
-      <li>The North Carolina Department of Environment and Natural Resources</li>
+      <li>The North Carolina Department of Environmental Quality</li>
       <li>The Coweeta Experimental Forest</li>
       <li>Colorado School of Mines (National Science Foundation award CMMI 0855783 to N. Lu and J.W. Godt and NASA NNX12AO19G to N. Lu, D. Kirschbaum, and Y. Hong).</li>
     </ul>
