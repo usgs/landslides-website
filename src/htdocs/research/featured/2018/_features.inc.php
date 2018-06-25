@@ -13,6 +13,16 @@ $LS_FEATURES->baseUrl = '';
 
 
 $LS_FEATURES->items[] = array(
+   'id' => '2018-06-25',
+   'title' => 'Near Realtime Maps of Possible Earthquake-Triggered Landslides',
+   'content' => 'USGS scientists have been developing a system to quickly identify areas where landslides may have been triggered by a significant earthquake.' ,
+   'link' => 'https://landslides.usgs.gov/research/featured/2018/realtime-ls/',
+   'modified' => strtotime('2018-06-25'),
+   'thumbnail' => 'https://landslides.usgs.gov/images-featured/Nepal-Baisari.jpg',
+   'image' => 'https://landslides.usgs.gov/images-featured/Nepal-Baisari.jpg'
+ );
+
+$LS_FEATURES->items[] = array(
    'id' => '2018-06-18',
    'title' => 'Mountain Permafrost, Climate Change, and Rock Avalanches in Glacier Bay National Park, Alaska',
    'content' => 'We usually hear about landslides and avalanches that are caused by large amounts of rainfall, the shaking from earthquakes, or a volcanic eruption, but we may be hearing more about avalanches caused by the (seemingly innocuous) melting of ice in the coming years.' ,
