@@ -12,7 +12,6 @@
   <a href="#channel">Channel Stage</a>
   <a href="#ground">Ground Water Pressure</a>
   <a href="#ten">Ground Water Pressure - Tensiometers</a>
-  <a href="#pres">Ground-water and Atmospheric Pressure - Piezometers</a>
   <a href="#soiltemp">Soil Temperature</a>
   <a href="#soilwater">Soil Water Content</a>
   <a href="#geophone">Ground Vibrations</a>
@@ -51,10 +50,6 @@
   	0 to 21 kPa. The location and depth of the instruments are indicated on the
   	graph.
   </p>
-  <nav class="jumplist">
-    <a href="#ten">Ground Water Pressure - Tensiometers</a>
-    <a href="#pres">Ground-water and Atmospheric Pressure - Piezometers</a>
-  </nav>
 <h2 id="ten">Ground Water Pressure - Tensiometers</h2>
   <h3>Soil suction/pore pressure, last 14 days</h3>
   <img src="/static/landslides-realtime/plots/millicomaMeanderHillslope_porePressure_twoWeek.png"
