@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 04/04/2016
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Real-time Data Sensors';
       $NAVIGATION  = true;
@@ -60,11 +59,6 @@
   <h3>Soil suction/pore pressure, last 14 days</h3>
   <img src="/static/landslides-realtime/plots/millicomaMeanderHillslope_porePressure_twoWeek.png"
   		alt="Graph of last 14 days" /><br/>
-<h2 id="pres">Ground-water and Atmospheric Pressure - Piezometers</h2>
-  <p>The monitoring site is equipped with four piezometers. Three were installed in boreholes at various depths below the ground surface, one at each of the monitoring arrays along the axis of the catchment (SP2, SP1, SP5). The fourth was placed in an enclosure near array SP1 to measure changes in atmospheric pressure. Pore-water pressures are reported in hectoPascals (hPa). One hectoPascal is roughly equivalent to the pressure exerted by a 1-cm-deep column of water.</p>
-
-  <h3>Pore pressure, last 14 days</h3>
-  <img src="/static/landslides-realtime/plots/Elliott_Pore_Pressure_PZ.elliott_pore_pressure_pz.png" alt="Graph of pore pressure for past week" />
 
 <h2 id="soiltemp">Soil Temperature</h2>
   <p>
