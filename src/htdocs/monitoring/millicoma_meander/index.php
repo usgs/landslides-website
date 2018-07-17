@@ -1,7 +1,6 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt
-      //  Last  modified:  06/21/2016, Lisa Wald
       if  (!isset($TEMPLATE))  {
       $TITLE  =  'Millicoma Meander, Elliott State Forest, Oregon';
       $NAVIGATION  = true;
@@ -30,7 +29,7 @@
     <ul>
       <li><a href="rtdmonitoring.php#rainfall">Rainfall</a></li>
       <li><a href="rtdmonitoring.php#channel">Channel Stage</a></li>
-      <li><a href="rtdmonitoring.php#ground">Ground water pressure (tensiometers and pressure transducers</a></li>
+      <li><a href="rtdmonitoring.php#ground">Ground water pressure (tensiometers)</a></li>
       <li><a href="rtdmonitoring.php#soiltemp">Soil temperature</a></li>
       <li><a href="rtdmonitoring.php#soilwater">Soil water content</a></li>
       <li><a href="rtdmonitoring.php#geophone">Ground Vibrations</a></li>
