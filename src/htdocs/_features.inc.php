@@ -13,6 +13,16 @@ $LS_FEATURES->baseUrl = '';
 
 
 $LS_FEATURES->items[] = array(
+  'id' => '2018-07-25',
+  'title' => 'Researchers Develop Model for Predicting Landslides Caused by Earthquakes',
+  'content' => 'A model developed by researchers at Indiana University and the USGS can help experts address such risks by estimating the likelihood of landslides that will be caused by earthquakes anywhere in the world within minutes.',
+  'link' => 'https://www.eurekalert.org/pub_releases/2018-07/iu-ird072418.php',
+  'modified' => strtotime('2018-07-25'),
+  'thumbnail' => 'https://landslides.usgs.gov/images-featured/ElSalvador-landslide.jpg',
+  'image' => 'https://landslides.usgs.gov/images-featured/ElSalvador-landslide.jpg'
+);
+
+$LS_FEATURES->items[] = array(
    'id' => '2018-06-25',
    'title' => 'Near Realtime Maps of Possible Earthquake-Triggered Landslides',
    'content' => 'USGS scientists have been developing a system to quickly identify areas where landslides may have been triggered by a significant earthquake.' ,
