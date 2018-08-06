@@ -71,4 +71,17 @@
 		"lng": -118.982946,
 		"href": "springs/"
 	}
+  {
+    "name": "Toro Negro, PR",
+    "lat": 18.158070,
+    "lng": -66.564240,
+    "href": "toro-negro/"
+  }
+  {
+		"name": "Utuado, PR",
+    "lat": 18.280280,
+    "lng": -66.661170,
+		"href": "utuado/"
+	}
+
 ]
