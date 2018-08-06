@@ -11,7 +11,7 @@ $LS_FEATURES->author = 'U.S. Geological Survey';
 $LS_FEATURES->siteUrl = 'https://landslides.usgs.gov/';
 $LS_FEATURES->baseUrl = '';
 
-$EQ_FEATURES->items[] = array(
+$LS_FEATURES->items[] = array(
   'id' => '2018-08-06',
   'title' => 'Landslide and Liquefaction Estimates for Earthquake Eventpages',
   'content' => 'Landslides and liquefaction estimates are one of the new event products for realtime earthquakes.',
