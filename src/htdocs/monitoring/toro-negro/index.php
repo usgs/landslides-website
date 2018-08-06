@@ -2,7 +2,7 @@
 //  Author:  Lisa Wald
 //  Contact:  Jonathan Godt
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Utuado, Puerto Rico';
+  $TITLE  =  'Toro Negro, Puerto Rico';
   $NAVIGATION  = true;
   $HEAD = '
     <link rel="stylesheet" href="/lib/leaflet-v0.7.7/leaflet.css"/>        <link rel="stylesheet" href="/lib/hazdev-leaflet-v0.1.2/hazdev-leaflet.css"/>
