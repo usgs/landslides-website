@@ -11,6 +11,15 @@ $LS_FEATURES->author = 'U.S. Geological Survey';
 $LS_FEATURES->siteUrl = 'https://landslides.usgs.gov/';
 $LS_FEATURES->baseUrl = '';
 
+$EQ_FEATURES->items[] = array(
+  'id' => '2018-08-06',
+  'title' => 'Landslide and Liquefaction Estimates for Earthquake Eventpages',
+  'content' => 'Landslides and liquefaction estimates are one of the new event products for realtime earthquakes.',
+  'link' => 'https://www.usgs.gov/center-news/better-performance-and-new-features-earthquake-website',
+  'modified' => strtotime('2018-08-06'),
+  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/ground-failure-card.png',
+  'image' => 'https://earthquake.usgs.gov/images-featured/ground-failure-card.png'
+);
 
 $LS_FEATURES->items[] = array(
   'id' => '2018-07-25',
