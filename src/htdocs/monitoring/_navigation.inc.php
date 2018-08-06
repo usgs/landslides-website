@@ -35,8 +35,8 @@ $section = "/monitoring";
 	); // End Washington
 
   echo navGroup(("Puerto Rico"),
-    navItem("${section}/seattle/", "Toro Negro, PR").
-    navItem("${section}/seattle/", "Utuado, PR")
+    navItem("${section}/toro-negro/", "Toro Negro, PR").
+    navItem("${section}/utuado/", "Utuado, PR")
   ); // End Puerto Rico
 
 ?>
