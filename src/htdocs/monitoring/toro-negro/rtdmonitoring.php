@@ -2,7 +2,7 @@
 //  Author: Lisa Wald
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Real-time Data Sensors';
+  $TITLE  =  'Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }
