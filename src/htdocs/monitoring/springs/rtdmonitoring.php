@@ -2,7 +2,7 @@
 //  Author:  Tiffany Kalin
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Recent Conditions';
+  $TITLE  =  '2013 Springs Fire, Ventura County, California - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }
