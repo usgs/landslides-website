@@ -1,9 +1,8 @@
 <?php
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
-      //  Last  modified: 04/05/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Real-time Data Sensors';
+      $TITLE  =  'Recent Conditions';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }

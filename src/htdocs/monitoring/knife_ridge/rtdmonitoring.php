@@ -1,12 +1,11 @@
 <?php
-      //  Author:  Tiffany Kalin
-      //  Contact:  Jonathan Godt,
-      //  Last  modified: 05/09/2016, Lisa Wald
-      if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Real-time Data Sensors';
-      $NAVIGATION  = true;
-      include  'template.inc.php';
-      }
+//  Author:  Tiffany Kalin
+//  Contact:  Jonathan Godt,
+if  (!isset($TEMPLATE))  {
+  $TITLE  =  'Recent Conditions';
+  $NAVIGATION  = true;
+  include  'template.inc.php';
+}
 ?>
 <nav class="jumplist">
   <a href="#rainfall">Rainfall</a>
