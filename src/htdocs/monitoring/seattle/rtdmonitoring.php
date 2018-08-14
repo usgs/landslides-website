@@ -2,7 +2,7 @@
   //  Author:  Tiffany Kalin
   //  Contact:  Jonathan Godt
   if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Recent Conditions';
+  $TITLE  =  'Seattle Area, Washington - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
   }

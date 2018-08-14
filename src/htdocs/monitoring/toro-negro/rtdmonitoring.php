@@ -2,7 +2,7 @@
 //  Author: Lisa Wald
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Recent Conditions';
+  $TITLE  =  'Toro Negro, Puerto Rico - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }

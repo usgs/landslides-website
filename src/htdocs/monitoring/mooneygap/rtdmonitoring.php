@@ -2,7 +2,7 @@
 //  Author:  Tiffany Kalin
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Recent Conditions';
+  $TITLE  =  'Mooney Gap, Coweeta Experimental Forest, North Carolina - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }

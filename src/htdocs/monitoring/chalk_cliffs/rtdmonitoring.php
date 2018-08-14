@@ -2,7 +2,7 @@
 //  Author:  Tiffany Kalin
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'Recent Conditions';
+  $TITLE  =  'Chalk Cliffs, Colorado - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }
