@@ -3,7 +3,7 @@
       //  Contact:  Jonathan Godt,
       //  Last  modified: 03/29/2016
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Real-time Data Sensors';
+      $TITLE  =  'U.S. Highway 50, California - Real-time Data Sensors';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }

@@ -2,7 +2,7 @@
       //  Author:  Tiffany Kalin
       //  Contact:  Jonathan Godt,
       if  (!isset($TEMPLATE))  {
-      $TITLE  =  'Recent Conditions';
+      $TITLE  =  '2009 Station Fire, Arroyo Seco, Pasadena, California - Recent Conditions';
       $NAVIGATION  = true;
       include  'template.inc.php';
       }
