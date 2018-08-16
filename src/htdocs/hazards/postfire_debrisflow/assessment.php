@@ -31,7 +31,7 @@ Organizations requesting post-fire debris-flow hazard assessments must supply th
   </li>
 </ul>
 <p>
-  Please direct requests and required input data, or questions about the assessment process to: <a href="mailto:dstaley@usgs.gov">dstaley@usgs.gov</a>
+  Please direct requests and required input data, or questions about the assessment process to: <a href="mailto:badflow@usgs.gov">badflow@usgs.gov</a>
 </p>
 <p>
   Response time is dependent upon the number of assessments that have been previously requested, and if the input data are in the required format. Requests received after 12 Noon (Mountain Time) on a Friday will be processed on the next business day, in the order that they were received. Assessment requests received on a holiday will also be processed on the next business day, in the order that they were received.
