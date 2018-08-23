@@ -18,8 +18,8 @@ $LS_FEATURES->items[] = array(
   'content' => 'Hurricane Lane is expected to bring heavy rain to the Hawaiian Islands and the potential for debris flows and other landslides',
   'link' => 'https://pubs.er.usgs.gov/publication/ofr93213',
   'modified' => strtotime('2018-08-23'),
-  'thumbnail' => 'https://earthquake.usgs.gov/images-featured/HI-debrisflow-haz.jpg',
-  'image' => 'https://earthquake.usgs.gov/images-featured/HI-debrisflow-haz.jpg'
+  'thumbnail' => 'https://landslides.usgs.gov/images-featured/HI-debrisflow-haz.jpg',
+  'image' => 'https://landslides.usgs.gov/images-featured/HI-debrisflow-haz.jpg'
 );
 
 $LS_FEATURES->items[] = array(
