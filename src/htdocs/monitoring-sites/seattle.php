@@ -31,7 +31,7 @@
 
 <h2>National Weather Service Rain Gauge Locations Near Seattle</h2>
 
-<img src="/monitoring/seattle/images/NWSRainGaugeNetwk.jpg" alt="" />
+<img src="https://www.usgs.gov/media/images/national-weather-service-seattle-area-rain-gage-locations" alt="" />
 <?php
 $contents = file( '/static/landslides-realtime/plots/ThCurrTabl.htm');
 print join('', $contents);
