@@ -1,9 +1,9 @@
 <?php
 echo navGroup(navItem('/hazards/postfire_debrisflow/', 'Post-Fire Debris-Flow Hazards'),
-  navItem('/hazards/postfire_debrisflow/faq.php', 'FAQ-Frequenty Asked Questions').
-  navItem('/hazards/postfire_debrisflow/background2016.php', 'Scientific Background').
-  navItem('/hazards/postfire_debrisflow/assessment.php', 'Assessment Requirements').
-  navItem('/hazards/postfire_debrisflow/disclaimer.php', 'Disclaimer').
-  navItem('/hazards/postfire_debrisflow/updates.php', 'Updates')
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/science/emergency-assessment-post-fire-debris-flow-hazards', 'FAQ-Frequenty Asked Questions').
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/science/scientific-background', 'Scientific Background').
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/science/emergency-assessment-post-fire-debris-flow-hazards', 'Assessment Requirements').
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/science/emergency-assessment-post-fire-debris-flow-hazards', 'Disclaimer').
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/science/model-updates', 'Updates')
 );
 ?>

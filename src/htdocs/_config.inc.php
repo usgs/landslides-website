@@ -5,16 +5,16 @@ $SITE_URL = 'https://landslides.usgs.gov';
 // navigation above search, below section navigation
 $SITE_SITENAV =
   '<a href="/hazards/">Post-Fire Debris-Flow Hazards</a>' .
-  '<a href="/monitoring/">Monitoring</a>' .
-  '<a href="/learn/">Learn</a>' .
-  '<a href="/research/">Research</a>';
+  '<a href="https://www.usgs.gov/natural-hazards/landslide-hazards/monitoring">Monitoring</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/landslide-hazards/education">Learn</a>' .
+  '<a href="https://www.usgs.gov/natural-hazards/landslide-hazards/science">Research</a>';
 
 // at bottom of page
 $SITE_COMMONNAV =
   navItem(($SITE_URL), 'Home') .
-  navItem('/aboutus/', 'About Us') .
-  navItem('/contactus/', 'Contacts') .
-  navItem('/legal.php', 'Legal');
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/about', 'About Us') .
+  navItem('https://www.usgs.gov/natural-hazards/landslide-hazards/connect', 'Contacts') .
+  navItem('https://www.usgs.gov/policies-and-notices', 'Legal');
 
 $HEAD =
 // site theme, should use a site root-relative URL
