@@ -19,7 +19,7 @@
 <figure class='right'>
 <img src="images/car-in-house.jpg" alt=""/>
 <figcaption>
-  ???
+  The aftermath of the January 9, 2018 debris flows in Montecito, California.
 </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@
 <figure class='left'>
 <img src="images/boulders-in-trees.jpg" alt=""/>
 <figcaption>
-  ???
+  USGS geologists Francis Rengers and Jeff Coe assess peak flow height after the January 9, 2018 debris flows in Montecito, California.
 </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@
 <figure>
 <img src="images/fig4.jpg" alt=""/>
 <figcaption>
-  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF - ???)
+  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF -  cumulative distribution function)
 </figcaption>
 </figure>
 
@@ -65,9 +65,11 @@
   <li>
     <a href="https://www.usgs.gov/news/usgs-geologists-join-efforts-montecito-assess-debris-flow-aftermath">USGS Geologists Join Efforts in Montecito to Assess Debris-Flow Aftermath</a>
   </li>
-  <li>this paper</li>
   <li>
-    Staley, Dennis M., 2018, <a href="https://doi.org/10.5066/P9TKYL5K">Data used to characterize the historical distribution of wildfire severity in the western United States in support of pre-fire assessment of debris-flow hazards</a>: U.S. Geological Survey, .
+    Staley, Dennis M., Anne C. Tillery, Jason W. Kean, Luke A. McGuire, Hannah E. Pauling, Francis K. Rngers, and Joel B. Smith, <a href="https://doi.org/10.1071/WF17122">Estimating post-fire debris-flow hazards prior to wildfire using a statistical analysis of historical distributions of fire severity from remote sensing data</a>, International Journal of Wildland Fire 2018, 27, 595–608
+  </li>
+  <li>
+    Staley, Dennis M., 2018, <a href="https://doi.org/10.5066/P9TKYL5K">Data used to characterize the historical distribution of wildfire severity in the western United States in support of pre-fire assessment of debris-flow hazards</a>: U.S. Geological Survey.
   </li>
 </ul>
 
@@ -76,10 +78,10 @@
 <figure class='left' style='width: 300px;'>
 <img src="images/Staley.jpg" alt=""/>
 <figcaption>
-  Dennis Staley ???
+  USGS research scientist Dennis Staley assessing debris-flow inundation after the January 9, 2018 debris flows in Montecito, California
 </figcaption>
 </figure>
 
 <p>
-  <strong>Dennis Staley</strong>...
+  <strong>Dennis Staley</strong> is a research physical scientist with the USGS Landslide Hazards Program.  His research primarily focuses on post-fire debris-flow initiation, magnitude, and early warning.
 </p>
