@@ -8,13 +8,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="before-fire-forecasts.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure class='right'>
 <img src="images/car-in-house.jpg" alt=""/>
@@ -50,12 +48,12 @@
   This approach allows a hazard estimation before a fire even occurs. This would allow communities the time needed to identify and prioritize areas in need of risk reduction, develop emergency management and response strategies, and implement mitigation projects to reduce the potential impact of debris flows. The presented method may be applicable throughout the world where there is plentiful information on the regional vegetation and historical fire severity.  It can also be modified to forecast other post-wildfire hazards such as flooding and erosion.
 </p>
 
-<p>- written by Lisa Wald, USGS, montecitober 2018</p>
+<p>- written by Lisa Wald, USGS, October 2018</p>
 
 <figure>
 <img src="images/fig4.jpg" alt=""/>
 <figcaption>
-  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF -  cumulative distribution function)
+  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF -  cumulative distribution function).
 </figcaption>
 </figure>
 
@@ -76,9 +74,9 @@
 <h2>The Scientist Behind the Science</h2>
 
 <figure class='left' style='width: 300px;'>
-<img src="images/Staley.jpg" alt=""/>
+<img src="images/staley-bike.jpg" alt=""/>
 <figcaption>
-  USGS research scientist Dennis Staley assessing debris-flow inundation after the January 9, 2018 debris flows in Montecito, California
+  Dennis Staley on his fat-tire bicycle competing in the 2018 Iditarod Trail Invitational 130.
 </figcaption>
 </figure>
 
