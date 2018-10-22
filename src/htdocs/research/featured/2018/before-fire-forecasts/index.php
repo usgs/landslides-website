@@ -8,13 +8,11 @@
   }
 ?>
 
-<!--
 <p>
   <a href="before-fire-forecasts.pdf">
     <i class="material-icons">save_alt</i> Download PDF
   </a>
 </p>
--->
 
 <figure class='right'>
 <img src="images/car-in-house.jpg" alt=""/>
@@ -24,7 +22,7 @@
 </figure>
 
 <p>
-  Wildfires destroy vegetation and reduce the ability of water to penetrate into soils, leaving burned areas susceptible to debris flows during heavy rainfall.  Rain during or soon after a fire is particularly dangerous when there are homes, bridges, or other structures in the path of the flowing debris.  In such cases, there is little or no time for public officials to take action to minimize potential damage or plan an emergency response. USGS Scientists have been able to provide forecasts of debris-flow likelihood, but they require information about the severity of the fire and the burned soil.  What they wanted was a way to predict the likelihood of debris flows before a wildfire ever happened.
+  Wildfires destroy vegetation and reduce the ability of water to penetrate into soils, leaving burned areas susceptible to debris flows during heavy rainfall.  Rain during or soon after a fire is particularly dangerous when there are homes, bridges, or other structures in the path of the flowing debris.  In such cases, there is little or no time for public officials to take action to minimize potential damage or plan an emergency response. Since 2003, USGS scientists have been able to provide forecasts of debris-flow likelihood based on information about the severity of the fire and the burned soil. But these hazard assessments often allow very little time for action, as rain often follows closely behind the fires. So USGS scientists have also been pursuing a way to assess debris flow hazards <strong>before</strong> the fire occurs.
 </p>
 <p>
   The approach they developed is quick and easy, using statistics for a particular area before a wildfire.  The key to the method is knowing the potential severity of wildfires given individual vegetation types, based on past wildfires.  The results can be used to provide debris-flow forecasts for a range of user-defined fire scenarios. This study considered 3 scenarios: 1) a moderately frequent, moderate severity fire; 2) a moderately infrequent, higher severity fire; and 3) an infrequent fire with very high severity.  For each scenario, they are able to state a forecast, for example a forecast might say: “If there is a severe wildfire that happens infrequently at location X, there will be a 60-80% chance that a debris-flow will occur that involves 10,000 cubic meters of material, if there is 0.25 inches or more of rain within 15 minutes.”
@@ -50,12 +48,12 @@
   This approach allows a hazard estimation before a fire even occurs. This would allow communities the time needed to identify and prioritize areas in need of risk reduction, develop emergency management and response strategies, and implement mitigation projects to reduce the potential impact of debris flows. The presented method may be applicable throughout the world where there is plentiful information on the regional vegetation and historical fire severity.  It can also be modified to forecast other post-wildfire hazards such as flooding and erosion.
 </p>
 
-<p>- written by Lisa Wald, USGS, September 2018</p>
+<p>- written by Lisa Wald, USGS, October 2018</p>
 
 <figure>
 <img src="images/fig4.jpg" alt=""/>
 <figcaption>
-  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF -  cumulative distribution function)
+  Observed and simulated estimates of fire severity for the 2016 San Gabriel Complex in southern California. A) Observed dNBR, “stripe”-like features represent data gaps in the original 7 image that have been filtered using an iterative high-pass filter; B) Observed soil burn severity; C) Weibull CDF percentiles of observed dNBR (Pd), D) Simulated dNBR (SimdNBR); E) Simulated soil burn severity. (dNBR - differenced normalized burn ratio; CDF -  cumulative distribution function).
 </figcaption>
 </figure>
 
@@ -76,12 +74,12 @@
 <h2>The Scientist Behind the Science</h2>
 
 <figure class='left' style='width: 300px;'>
-<img src="images/Staley.jpg" alt=""/>
+<img src="images/staley-bike.jpg" alt=""/>
 <figcaption>
-  USGS research scientist Dennis Staley assessing debris-flow inundation after the January 9, 2018 debris flows in Montecito, California
+  Dennis Staley on his fat-tire bicycle competing in the 2018 Iditarod Trail Invitational 130.
 </figcaption>
 </figure>
 
 <p>
-  <strong>Dennis Staley</strong> is a research physical scientist with the USGS Landslide Hazards Program.  His research primarily focuses on post-fire debris-flow initiation, magnitude, and early warning.
+  <strong>Dennis Staley</strong> is a research physical scientist with the USGS Landslide Hazards Program.  His research primarily focuses on post-fire debris-flow initiation, magnitude, and early warning. In his spare time, he rides long distances on his bicycle. He was the Bike Champion in the Iditarod Trail Invitational 130 in 2018.
 </p>
