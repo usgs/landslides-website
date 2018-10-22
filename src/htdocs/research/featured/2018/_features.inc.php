@@ -13,6 +13,16 @@ $LS_FEATURES->baseUrl = '';
 
 
 $LS_FEATURES->items[] = array(
+   'id' => '2018-10-22',
+   'title' => 'Debris-Flow Forecasts Before Wildfires',
+   'content' => 'USGS scientists have been pursuing a way to assess debris flow hazards before a fire occurs.' ,
+   'link' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/',
+   'modified' => strtotime('2018-10-22'),
+   'thumbnail' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/images/car-in-house.jpg',
+   'image' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/images/car-in-house.jpg'
+ );
+
+$LS_FEATURES->items[] = array(
    'id' => '2018-06-25',
    'title' => 'Near Realtime Maps of Possible Earthquake-Triggered Landslides',
    'content' => 'USGS scientists have been developing a system to quickly identify areas where landslides may have been triggered by a significant earthquake.' ,

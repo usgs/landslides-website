@@ -13,6 +13,16 @@ $LS_FEATURES->baseUrl = '';
 
 
 $LS_FEATURES->items[] = array(
+   'id' => '2018-10-22',
+   'title' => 'Debris-Flow Forecasts Before Wildfires',
+   'content' => 'USGS scientists have been pursuing a way to assess debris flow hazards before a fire occurs.' ,
+   'link' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/',
+   'modified' => strtotime('2018-10-22'),
+   'thumbnail' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/images/car-in-house.jpg',
+   'image' => 'https://landslides.usgs.gov/research/featured/2018/before-fire-forecast/images/car-in-house.jpg'
+ );
+
+$LS_FEATURES->items[] = array(
   'id' => '2018-08-24',
   'title' => 'Preliminary Landslide Susceptibility Maps and Data for Hawaii',
   'content' => 'Hurricane Lane is expected to bring heavy rain to the Hawaiian Islands and the potential for debris flows and other landslides',
