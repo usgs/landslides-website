@@ -70,7 +70,7 @@ if (!isset($TEMPLATE)) {
   <h3>Related Links</h3>
   <ul>
     <li>
-      <a href="https://landslides.usgs.gov/hazards/warningsys.php">
+      <a href="https://www.usgs.gov/natural-hazards/landslide-hazards/science/early-warning-system">
         Early Warning System
       </a>
     </li>
