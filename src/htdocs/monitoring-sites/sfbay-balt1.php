@@ -2,16 +2,16 @@
 //  Author: Lisa Wald
 //  Contact:  Jonathan Godt,
 if  (!isset($TEMPLATE))  {
-  $TITLE  =  'San Francisco Bay Area - Recent Conditions';
+  $TITLE  =  'San Francisco Bay Area – East Bay (BALT1) Site near Castro Valley, CA - Recent Conditions';
   $NAVIGATION  = true;
   include  'template.inc.php';
 }
 ?>
 <nav class="jumplist">
   <a href="#rainfall">Rainfall</a>
-  <a href="#pore">Pore Pressure</a>
-  <a href="#water">Water Content</a>
-  <a href="#battery">Battery Voltage</a>
+  <a href="#upper">Upper Nest Soil Water Content and Groundwater Pressure (Piezometer)</a>
+  <a href="#lower">Lower Nest Soil Water Content and Groundwater Pressure (Piezometer)</a>
+  <a href="#battery">Air Temperature, Relative Humidity, and Battery Voltage</a>
 </nav>
 
 <h2 id="rainfall">Rainfall</h2>
@@ -24,7 +24,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/balt1_precip_twoWeek.png">
 </div>
 
-<h2 id="rainfall">Pore Pressure</h2>
+<h2 id="upper">Upper Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
 <p>
 </p>
 
@@ -34,7 +34,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/balt1_ppVWCus_twoWeek.png">
 </div>
 
-<h2 id="pore">Volumetric Water Content</h2>
+<h2 id="lower">Lower Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
 <p>
 </p>
 
@@ -44,7 +44,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/balt1_ppVWCds_twoWeek.png">
 </div>
 
-<h2 id="battery">Battery Voltage</h2>
+<h2 id="battery">Air Temperature, Relative Humidity, and Battery Voltage</h2>
   <p>
   </p>
 
