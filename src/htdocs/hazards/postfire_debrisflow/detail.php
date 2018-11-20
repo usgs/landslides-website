@@ -1,5 +1,4 @@
 <?php
-
 if (!isset($TEMPLATE)) {
   // template functions
   include_once 'functions.inc.php';
@@ -20,22 +19,16 @@ if (!isset($TEMPLATE)) {
 
   include 'template.inc.php';
 }
-
 ?>
 
-
-<p class="alert info">
-  What to do if you live in a recently-burned area where debris flows
-  are possible, and there is a rainstorm - before, during, and after.
-
-  Download the
-  <a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf">
-    National Weather Service
-    Post Wildfire Flash Flood and Debris Flow Guide
-    (PDF 7.2 MB)
-  </a>
-</p>
-
+<div class="alert info">
+  <p>
+    The maps below depict the likelihood of debris-flow generation and estimates of flow magnitude in locations where debris flows initiate. The models <strong>do not predict downstream impacts, potential debris-flow runout paths, and the areal extent of debris-flow or flood inundation.</strong>
+  </p>
+  <p>
+    For information on what to do if you live in a recently-burned area where debris flows are possible, and there is a rainstorm - before, during, and after, download the <a href="https://www.wrh.noaa.gov/lox/hydrology/files/DebrisFlowSurvivalGuide.pdf"> National Weather Service Post Wildfire Flash Flood and Debris Flow Guide (PDF 7.2 MB).</a>
+  </p>
+</div>
 
 <div id="application">
   <noscript>
