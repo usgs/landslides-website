@@ -7,6 +7,9 @@
 		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/2009-station-fire-dunsmore-canyon-glendale-california", "2009 Station Fire, Dunsmore Canyon, Glendale, CA").
 		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/us-highway-50-california", "U.S. Highway 50, CA").
     navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/san-francisco-bay-area-east-bay-balt1-site-near-castro", "SF Bay Area - East Bay (BALT1) Site near Castro Valley, CA").
+    navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/san-francisco-bay-sf-bay-balt2-site-near-brisbane", "SF Bay Area - Marin County (BALT2) Site near San Rafael, CA").
+    navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/san-francisco-bay-area-sf-balt3-site-near-castro", "SF Bay Area - SF Peninsula (BALT3) Site near Brisbane, CA").
+    navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/san-francisco-bay-area-sf-balt4-site-near-castro", "SF Bay Area - SF Peninsula (BALT4) Site near Pacifica, CA").
 		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/2013-springs-fire-ventura-county-california", "2013 Springs Fire, Ventura County, CA")
 	); // End California
 
