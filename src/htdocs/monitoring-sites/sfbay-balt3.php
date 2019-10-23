@@ -21,7 +21,7 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center"></a>
-    <img alt="2 weeks" src="/static/landslides-realtime/plots/BALT3_precip_twoWeek.png">
+    <img alt="2 weeks" src="/static/landslides-realtime/plots/balt3_precip_twoWeek.png">
 </div>
 
 <h2 id="upper">Upper Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
@@ -31,7 +31,7 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center"></a>
-    <img alt="2 weeks" src="/static/landslides-realtime/plots/BALT3_ppVWCus_twoWeek.png">
+    <img alt="2 weeks" src="/static/landslides-realtime/plots/balt3_ppVWCus_twoWeek.png">
 </div>
 
 <h2 id="lower">Lower Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
@@ -41,7 +41,7 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center"></a>
-    <img alt="2 weeks" src="/static/landslides-realtime/plots/BALT3_ppVWCds_twoWeek.png">
+    <img alt="2 weeks" src="/static/landslides-realtime/plots/balt3_ppVWCds_twoWeek.png">
 </div>
 
 <h2 id="battery">Air Temperature, Relative Humidity, and Battery Voltage</h2>
@@ -51,5 +51,5 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center">
-      <img alt="2 week" src="/static/landslides-realtime/plots/BALT3_batteryTempHum_twoWeek.png">
+      <img alt="2 week" src="/static/landslides-realtime/plots/balt3_batteryTempHum_twoWeek.png">
 </div>
