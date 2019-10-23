@@ -2,6 +2,10 @@
 
 	echo navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/monitoring", "Monitoring");
 
+  echo navGroup(("Alaska"),
+		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/sitka-alaska", "Sitka, AK")
+	); // End colorado
+
 	echo navGroup(("California"),
 		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/2009-station-fire-arroyo-seco-pasadena-california", "2009 Station Fire, Arroyo Seco, Pasadena CA").
 		navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/2009-station-fire-dunsmore-canyon-glendale-california", "2009 Station Fire, Dunsmore Canyon, Glendale, CA").
