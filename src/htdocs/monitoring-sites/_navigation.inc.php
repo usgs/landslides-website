@@ -3,7 +3,7 @@
   echo navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/monitoring", "Monitoring");
 
   echo navGroup(("Alaska"),
-  navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/sitka-alaska", "Sitka, AK")
+  navItem("https://www.usgs.gov/natural-hazards/landslide-hazards/science/sitka-ak", "Sitka, AK")
   ); // End colorado
 
   echo navGroup(("California"),

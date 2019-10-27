@@ -10,8 +10,8 @@ if  (!isset($TEMPLATE))  {
 <nav class="jumplist">
   <a href="#rainfall">Rainfall</a>
   <a href="#soil">Soil Moisture</a>
-  <a href="#ground">Groundwater Level and Soil Water Potential </a>
-  <a href="#battery">Air, Soil Temperature, and Battery Voltage </a>
+  <a href="#ground">Groundwater Level and Soil Water Potential</a>
+  <a href="#battery">Air, Soil Temperature, and Battery Voltage</a>
 </nav>
 
 <h2 id="rainfall">Rainfall</h2>
@@ -24,7 +24,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_precip_twoWeek.png">
 </div>
 
-<h2 id="soil">Upper Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
+<h2 id="soil">Soil Moisture</h2>
 <p>
 </p>
 
@@ -34,7 +34,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_PP_twoWeek.png">
 </div>
 
-<h2 id="ground">Lower Nest Soil Water Content and Groundwater Pressure (Piezometer)</h2>
+<h2 id="ground">Groundwater Level and Soil Water Potential</h2>
 <p>
 </p>
 
@@ -44,7 +44,7 @@ if  (!isset($TEMPLATE))  {
     <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_VWC_twoWeek.png">
 </div>
 
-<h2 id="battery">Air Temperature, Relative Humidity, and Battery Voltage</h2>
+<h2 id="battery">Air, Soil Temperature, and Battery Voltage</h2>
   <p>
   </p>
 
