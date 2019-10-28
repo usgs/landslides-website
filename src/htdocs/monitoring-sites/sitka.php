@@ -31,7 +31,7 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center"></a>
-    <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_PP_twoWeek.png">
+    <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_VWC_twoWeek.png">
 </div>
 
 <h2 id="ground">Groundwater Level and Soil Water Potential</h2>
@@ -41,7 +41,7 @@ if  (!isset($TEMPLATE))  {
 <h3>2 Weeks</h3>
 <a name="2weeks">
   <div align="center"></a>
-    <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_VWC_twoWeek.png">
+    <img alt="2 weeks" src="/static/landslides-realtime/plots/akSitka_PP_twoWeek.png">
 </div>
 
 <h2 id="battery">Air, Soil Temperature, and Battery Voltage</h2>
