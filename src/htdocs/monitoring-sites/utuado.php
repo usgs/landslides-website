@@ -15,6 +15,9 @@ if  (!isset($TEMPLATE))  {
   <a href="#battery">Battery Voltage</a>
 </nav>
 
+<p><strong>
+Note: This site is currently experiencing sensor problems that cannot be repaired remotely so data are not available.
+</strong></p>
 
 <h2 id="rainfall">Rainfall</h2>
 <p>
