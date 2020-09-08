@@ -15,6 +15,10 @@ if  (!isset($TEMPLATE))  {
   <a href="#battery">Battery Voltage</a>
 </nav>
 
+<p><strong>
+  Note: This site is currently experiencing communications problems so recent data are not available.
+</strong></p>
+
 <h2 id="rainfall">Rainfall</h2>
 <p>
 </p>
